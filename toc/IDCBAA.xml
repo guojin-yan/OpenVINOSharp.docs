@@ -2,43 +2,43 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+      <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_Core.htm">Core</a>
+      <a href="a7f2cacc-4089-248d-22fb-dda479af517e.htm">Core</a>
     </li>
     <li>
-      <a href="Methods_T_OpenVinoSharp_Core.htm">Methods</a>
+      <a href="dae10e0f-825c-123e-50f6-c708e66efe4f.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="Overload_OpenVinoSharp_Core_compiled_model" class="has-submenu" href="Overload_OpenVinoSharp_Core_compiled_model.htm">
+      <a id="78d32579-8ad8-231f-1fb6-29bba462be34" class="has-submenu" href="78d32579-8ad8-231f-1fb6-29bba462be34.htm">
         <span data-tocFile="../toc/IDACBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>compiled_<wbr />model</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_Core_dispose" href="M_OpenVinoSharp_Core_dispose.htm">dispose</a>
+      <a id="960e538a-f612-2e4c-acba-327e5899fbed" href="960e538a-f612-2e4c-acba-327e5899fbed.htm">dispose</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_Core_Finalize" href="M_OpenVinoSharp_Core_Finalize.htm">Finalize</a>
+      <a id="264e7ab9-ce2b-f94d-888b-0fa028266d43" href="264e7ab9-ce2b-f94d-888b-0fa028266d43.htm">Finalize</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_Core_get_available_devices" href="M_OpenVinoSharp_Core_get_available_devices.htm">get_<wbr />available_<wbr />devices</a>
+      <a id="7b34a6b2-b392-61ef-4110-11bfddc90358" href="7b34a6b2-b392-61ef-4110-11bfddc90358.htm">get_<wbr />available_<wbr />devices</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_Core_get_versions" href="M_OpenVinoSharp_Core_get_versions.htm">get_<wbr />versions</a>
+      <a id="3f37539d-4b26-2f00-e325-e2ed81a417ef" href="3f37539d-4b26-2f00-e325-e2ed81a417ef.htm">get_<wbr />versions</a>
     </li>
     <li>
-      <a id="Overload_OpenVinoSharp_Core_read_model" class="has-submenu" href="Overload_OpenVinoSharp_Core_read_model.htm">
+      <a id="86be7a0a-533f-292d-17d5-0c6060d9f157" class="has-submenu" href="86be7a0a-533f-292d-17d5-0c6060d9f157.htm">
         <span data-tocFile="../toc/IDFCBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>read_<wbr />model</a>

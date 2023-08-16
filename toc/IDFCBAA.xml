@@ -2,30 +2,30 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+      <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_Core.htm">Core</a>
+      <a href="a7f2cacc-4089-248d-22fb-dda479af517e.htm">Core</a>
     </li>
     <li>
-      <a href="Methods_T_OpenVinoSharp_Core.htm">Methods</a>
+      <a href="dae10e0f-825c-123e-50f6-c708e66efe4f.htm">Methods</a>
     </li>
     <li>
-      <a href="Overload_OpenVinoSharp_Core_read_model.htm">read_<wbr />model</a>
+      <a href="86be7a0a-533f-292d-17d5-0c6060d9f157.htm">read_<wbr />model</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="M_OpenVinoSharp_Core_read_model" href="M_OpenVinoSharp_Core_read_model.htm">read_<wbr />model(<wbr />String, Tensor)</a>
+      <a id="4e7c9793-875d-d30e-5680-b05745613b90" href="4e7c9793-875d-d30e-5680-b05745613b90.htm">read_<wbr />model(<wbr />String, Tensor)</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_Core_read_model_1" href="M_OpenVinoSharp_Core_read_model_1.htm">read_<wbr />model(<wbr />String, String)</a>
+      <a id="134bb7dd-7898-3d27-c64e-e6b36a545cf4" href="134bb7dd-7898-3d27-c64e-e6b36a545cf4.htm">read_<wbr />model(<wbr />String, String)</a>
     </li>
   </tocItems>
 </toc>

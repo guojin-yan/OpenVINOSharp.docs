@@ -2,38 +2,38 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+      <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_PartialShape.htm">Partial<wbr />Shape</a>
+      <a href="840c8811-cbf0-1709-6ae5-6f233c262380.htm">Partial<wbr />Shape</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="M_OpenVinoSharp_PartialShape__ctor" href="M_OpenVinoSharp_PartialShape__ctor.htm">Constructor</a>
+      <a id="fc5ab35e-3699-7846-4f84-273787c0c446" href="fc5ab35e-3699-7846-4f84-273787c0c446.htm">Constructor</a>
     </li>
     <li>
-      <a id="Properties_T_OpenVinoSharp_PartialShape" class="has-submenu" href="Properties_T_OpenVinoSharp_PartialShape.htm">
+      <a id="904e6a29-3a93-a615-80eb-0e78bc60d6c9" class="has-submenu" href="904e6a29-3a93-a615-80eb-0e78bc60d6c9.htm">
         <span data-tocFile="../toc/IDBYAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Properties</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="Methods_T_OpenVinoSharp_PartialShape" class="has-submenu" href="Methods_T_OpenVinoSharp_PartialShape.htm">
+      <a id="f36ab557-c36d-4e4a-1c3b-e87130b9fc87" class="has-submenu" href="f36ab557-c36d-4e4a-1c3b-e87130b9fc87.htm">
         <span data-tocFile="../toc/IDCYAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Methods</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="Fields_T_OpenVinoSharp_PartialShape" class="has-submenu" href="Fields_T_OpenVinoSharp_PartialShape.htm">
+      <a id="4f658101-5069-d5cd-2811-8c74e9d25e54" class="has-submenu" href="4f658101-5069-d5cd-2811-8c74e9d25e54.htm">
         <span data-tocFile="../toc/IDDYAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Fields</a>

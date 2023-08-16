@@ -2,36 +2,36 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp_model_Yolov8.htm">Open<wbr />Vino<wbr />Sharp.<wbr />model.<wbr />Yolov<wbr />8</a>
+      <a href="87e56f39-9a13-9a34-8ae4-0e78efbe8205.htm">Open<wbr />Vino<wbr />Sharp.<wbr />model.<wbr />Yolov<wbr />8</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_model_Yolov8_Result.htm">Result</a>
+      <a href="3ec49f1b-7021-e6de-a0f7-e805fa1203da.htm">Result</a>
     </li>
     <li>
-      <a href="Fields_T_OpenVinoSharp_model_Yolov8_Result.htm">Fields</a>
+      <a href="b0a1b248-a8fb-be63-7ed8-aa845594a9c3.htm">Fields</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="F_OpenVinoSharp_model_Yolov8_Result_classes" href="F_OpenVinoSharp_model_Yolov8_Result_classes.htm">classes</a>
+      <a id="4aa87402-eef2-efb2-1c89-af7a552cb543" href="4aa87402-eef2-efb2-1c89-af7a552cb543.htm">classes</a>
     </li>
     <li>
-      <a id="F_OpenVinoSharp_model_Yolov8_Result_masks" href="F_OpenVinoSharp_model_Yolov8_Result_masks.htm">masks</a>
+      <a id="e1f856c0-2ab1-b41c-fdf9-308e32206113" href="e1f856c0-2ab1-b41c-fdf9-308e32206113.htm">masks</a>
     </li>
     <li>
-      <a id="F_OpenVinoSharp_model_Yolov8_Result_poses" href="F_OpenVinoSharp_model_Yolov8_Result_poses.htm">poses</a>
+      <a id="beedacd4-cae8-c4ec-24ae-8fb1cd63fb74" href="beedacd4-cae8-c4ec-24ae-8fb1cd63fb74.htm">poses</a>
     </li>
     <li>
-      <a id="F_OpenVinoSharp_model_Yolov8_Result_rects" href="F_OpenVinoSharp_model_Yolov8_Result_rects.htm">rects</a>
+      <a id="a015665e-5d6f-c1aa-bc1a-6cecc7f9c168" href="a015665e-5d6f-c1aa-bc1a-6cecc7f9c168.htm">rects</a>
     </li>
     <li>
-      <a id="F_OpenVinoSharp_model_Yolov8_Result_scores" href="F_OpenVinoSharp_model_Yolov8_Result_scores.htm">scores</a>
+      <a id="c14c1240-783c-4007-d5b8-29b3df9a778f" href="c14c1240-783c-4007-d5b8-29b3df9a778f.htm">scores</a>
     </li>
   </tocItems>
 </toc>

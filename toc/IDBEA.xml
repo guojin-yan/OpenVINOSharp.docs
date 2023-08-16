@@ -2,38 +2,38 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp_preprocess.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
+      <a href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_preprocess_InputInfo.htm">Input<wbr />Info</a>
+      <a href="85ce42c6-7332-baa3-213d-edecd32126bb.htm">Input<wbr />Info</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="M_OpenVinoSharp_preprocess_InputInfo__ctor" href="M_OpenVinoSharp_preprocess_InputInfo__ctor.htm">Constructor</a>
+      <a id="fa1b0472-06fe-66ab-1b39-2b5d1e938b88" href="fa1b0472-06fe-66ab-1b39-2b5d1e938b88.htm">Constructor</a>
     </li>
     <li>
-      <a id="Properties_T_OpenVinoSharp_preprocess_InputInfo" class="has-submenu" href="Properties_T_OpenVinoSharp_preprocess_InputInfo.htm">
+      <a id="38fdbcce-d99d-9be8-6c43-8d6c00392a9c" class="has-submenu" href="38fdbcce-d99d-9be8-6c43-8d6c00392a9c.htm">
         <span data-tocFile="../toc/IDBBEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Properties</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="Methods_T_OpenVinoSharp_preprocess_InputInfo" class="has-submenu" href="Methods_T_OpenVinoSharp_preprocess_InputInfo.htm">
+      <a id="65dfce52-dbb8-c6ad-d562-ffa3921459c1" class="has-submenu" href="65dfce52-dbb8-c6ad-d562-ffa3921459c1.htm">
         <span data-tocFile="../toc/IDCBEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Methods</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="Fields_T_OpenVinoSharp_preprocess_InputInfo" class="has-submenu" href="Fields_T_OpenVinoSharp_preprocess_InputInfo.htm">
+      <a id="4f09a79e-c58b-73d6-5021-bfdb2c71d7b1" class="has-submenu" href="4f09a79e-c58b-73d6-5021-bfdb2c71d7b1.htm">
         <span data-tocFile="../toc/IDDBEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Fields</a>

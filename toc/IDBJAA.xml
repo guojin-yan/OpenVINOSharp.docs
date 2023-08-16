@@ -2,39 +2,39 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+      <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_Input.htm">Input</a>
+      <a href="c6836ef1-d57e-ffac-995e-1acaac29a979.htm">Input</a>
     </li>
     <li>
-      <a href="Methods_T_OpenVinoSharp_Input.htm">Methods</a>
+      <a href="9b649e5e-b6b9-915a-3c25-b7c697a023a2.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="M_OpenVinoSharp_Input_get_any_name" href="M_OpenVinoSharp_Input_get_any_name.htm">get_<wbr />any_<wbr />name</a>
+      <a id="8f22def8-bc4f-18a2-b26b-f1a6b27fbb74" href="8f22def8-bc4f-18a2-b26b-f1a6b27fbb74.htm">get_<wbr />any_<wbr />name</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_Input_get_element_type" href="M_OpenVinoSharp_Input_get_element_type.htm">get_<wbr />element_<wbr />type</a>
+      <a id="42ef3230-9999-a986-a300-4b1905682402" href="42ef3230-9999-a986-a300-4b1905682402.htm">get_<wbr />element_<wbr />type</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_Input_get_index" href="M_OpenVinoSharp_Input_get_index.htm">get_<wbr />index</a>
+      <a id="4ff6915e-011a-4754-c338-bdf608647104" href="4ff6915e-011a-4754-c338-bdf608647104.htm">get_<wbr />index</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_Input_get_node" href="M_OpenVinoSharp_Input_get_node.htm">get_<wbr />node</a>
+      <a id="ae2ef6f8-8d5c-5c2f-f7a8-eec7016e1032" href="ae2ef6f8-8d5c-5c2f-f7a8-eec7016e1032.htm">get_<wbr />node</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_Input_get_partial_shape" href="M_OpenVinoSharp_Input_get_partial_shape.htm">get_<wbr />partial_<wbr />shape</a>
+      <a id="cc44c34c-c732-f5d3-d4f5-604e76c185c0" href="cc44c34c-c732-f5d3-d4f5-604e76c185c0.htm">get_<wbr />partial_<wbr />shape</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_Input_get_shape" href="M_OpenVinoSharp_Input_get_shape.htm">get_<wbr />shape</a>
+      <a id="cdd8b45f-e5a4-ceb1-ed5b-27cc0ecf2526" href="cdd8b45f-e5a4-ceb1-ed5b-27cc0ecf2526.htm">get_<wbr />shape</a>
     </li>
   </tocItems>
 </toc>

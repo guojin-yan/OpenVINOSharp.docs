@@ -1,0 +1,344 @@
+﻿<!DOCTYPE html >
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" href="../css/bulma.css" />
+    <link rel="stylesheet" href="../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../css/presentationStyle.css" />
+    <link rel="stylesheet" href="../css/vs.min.css" />
+    <script src="../scripts/jquery-3.5.1.min.js"></script>
+    <script src="../scripts/clipboard.min.js"></script>
+    <script src="../scripts/highlight.min.js"></script>
+    <script src="../scripts/presentationStyle.js"></script>
+    <title>CompiledModel Methods</title>
+    <meta name="Title" content="Methods" />
+    <meta name="Help.Id" content="Methods.T:OpenVinoSharp.CompiledModel" />
+    <meta name="Help.ContentType" content="Reference" />
+    <meta name="container" content="OpenVinoSharp" />
+    <meta name="guid" content="43ccc7ae-6c2e-ea8b-a9ee-5f0497a53105" />
+    <meta name="tocFile" content="../toc/IDAAA.xml" />
+  </head>
+  <body>
+    <div class="fixedLayout">
+      <div id="Header" class="fixedHeader">
+        <div class="pageHeader level mb-0 py-2 px-4">
+          <div id="TitleContainer" class="level-left">
+            <div id="DocumentationTitle" class="level-item">OpenVINOSharp API Documented</div>
+          </div>
+          <div id="LangFilterSearchContainer" class="level-right">
+            <div class="level-item">
+              <div class="dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <span id="CurrentLanguage"></span>
+                    <span class="icon is-small">
+                      <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="dropdown-menu" role="menu">
+                  <div id="LanguageSelections" class="dropdown-content">
+                    <a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="level-item">
+              <form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;">
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" />
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-search"></i>
+                    </span>
+                    <button id="SearchButton" type="submit" class="is-hidden"></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fixedContent">
+        <div id="HeaderPrelimContainer" class="level my-1 px-2">
+          <div id="HeaderTextContainer" class="level-left">
+            <div class="level-item">
+              <span class="has-text-grey-light">Please use. NET 5,. NET 6, and. NET Core 3.1 versions</span>
+            </div>
+          </div>
+        </div>
+        <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
+          <ul id="TopicBreadcrumbs" />
+        </nav>
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
+          <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
+            <a id="ShowHideTOC">Show/Hide TOC</a>
+          </div>
+          <div id="TOCColumn" class="column is-hidden-mobile">
+            <nav class="toc">
+              <ul id="TableOfContents" class="toc-menu" />
+            </nav>
+          </div>
+          <div id="Resizer" class="is-hidden"></div>
+          <div id="TopicContent" class="column content is-7">
+            <h1>Compiled<wbr />Model Methods</h1>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Methods</h2>
+            <div id="IDADASection">
+              <table id="MethodList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="a5b6a14f-dd8c-ec85-b21e-c906174a0153.htm">create_infer_request</a>
+                  </td>
+                  <td>
+            Creates an inference request object used to infer the compiled model.
+            The created request has allocated input and output tensors (which can be changed later).
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="05566b38-c39c-4234-39a6-90ac2f4fd5b3.htm">dispose</a>
+                  </td>
+                  <td>
+            Release unmanaged resources
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="46cd782f-88b6-2d5e-e635-abe14a3628fb.htm">export_model</a>
+                  </td>
+                  <td>
+            Exports the current compiled model to an output model_path. 
+            The exported model can also be imported via the ov::Core::import_model method.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="cae0242a-e11b-9aeb-e89b-77bf5994b077.htm">Finalize</a>
+                  </td>
+                  <td>
+            CompiledModel()'s destructor
+            <br />(Overrides <a href="https://learn.microsoft.com/dotnet/api/system.object.finalize#system-object-finalize" target="_blank" rel="noopener noreferrer">Object<span id="LST4C2DB8C9_0" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>Finalize<span id="LST4C2DB8C9_1" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="40426d5a-862d-b70c-a05a-0f3172539fe8.htm">get_context</a>
+                  </td>
+                  <td>
+            Returns pointer to device-specific shared context on a remote accelerator device that was used 
+            to create this CompiledModel.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="cdcf5f04-623b-1f21-b829-7586158880b3.htm">get_input<span id="LST4C2DB8C9_2" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>
+                  </td>
+                  <td>
+            Get a const single input port of compiled_model, which only support single input compiled_model.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="0ce8d36b-2024-51ac-a014-e01654c0e5f6.htm">get_input(String)</a>
+                  </td>
+                  <td>
+            Get a const input port of compiled_model by name.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="b960ab6d-b619-b10b-2797-57851df86140.htm">get_input(UInt64)</a>
+                  </td>
+                  <td>
+            Get a const input port of compiled_model by port index.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="8da6880a-20ae-00fa-daab-8a98d65d2346.htm">get_inputs_size</a>
+                  </td>
+                  <td>
+            Get the input size of compiled_model.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="f2354a73-0ab6-f639-9ad1-5b340a90932e.htm">get_output<span id="LST4C2DB8C9_3" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>
+                  </td>
+                  <td>
+            Get a const single output port of compiled_model, which only support single output model.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="ed585ae2-8804-ada5-4727-6b1f7a6956bd.htm">get_output(String)</a>
+                  </td>
+                  <td>
+            Get a const output port of compiled_model by name.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="a3b46b8d-89a1-4f63-d025-c205c44a9abc.htm">get_output(UInt64)</a>
+                  </td>
+                  <td>
+            Get a const output port of compiled_model by port index.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="0865415f-f77f-8dab-d015-0473b3b38a4c.htm">get_outputs_size</a>
+                  </td>
+                  <td>
+            Get the output size of compiled_model.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="9cc62c24-c267-62b8-eb74-88bb98f08300.htm">get_property</a>
+                  </td>
+                  <td>
+            Gets properties for current compiled model
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="1e728a2d-f047-13de-b980-fde69213eca1.htm">get_runtime_model</a>
+                  </td>
+                  <td>
+            Gets runtime model information from a device.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="5a0755e7-8edc-036b-eafb-89d444ef2a7c.htm">input<span id="LST4C2DB8C9_4" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>
+                  </td>
+                  <td>
+            Gets a single input of a compiled model.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="f7e28f07-8b0d-c58d-a9ff-874188a454ca.htm">input(String)</a>
+                  </td>
+                  <td>
+            Gets input of a compiled model identified by @p tensor_name.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="77cbaa6d-bad3-cbad-d4e9-0f92482710e0.htm">input(UInt64)</a>
+                  </td>
+                  <td>
+            Gets input of a compiled model identified by @p index.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="d4179f9a-d7f2-bfd5-9ae3-e4f0dbe95b42.htm">inputs</a>
+                  </td>
+                  <td>
+            Gets all inputs of a compiled model.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="21b26e6c-7bc6-28a0-3585-853ebecef6e6.htm">output<span id="LST4C2DB8C9_5" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>
+                  </td>
+                  <td>
+            Gets a single output of a compiled model.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="219e7e1b-0dc1-c331-10a9-ed83c6f85445.htm">output(String)</a>
+                  </td>
+                  <td>
+            Gets output of a compiled model identified by @p tensor_name.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="3ed09cb5-e5e4-997a-9378-4dfa60252def.htm">output(UInt64)</a>
+                  </td>
+                  <td>
+            Gets output of a compiled model identified by @p index.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="f6b6ae79-a6b1-b203-ab6c-17c39355eafd.htm">outputs</a>
+                  </td>
+                  <td>
+            Get all outputs of a compiled model.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="507c2199-06b4-383f-fcf1-e4491f935d28.htm">set_property</a>
+                  </td>
+                  <td>
+            Sets properties for the current compiled model.
+            </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>See Also</h2>
+            <div id="seeAlsoSection">
+              <h4>Reference</h4>
+              <div>
+                <a href="567989b9-bba2-5819-d1f0-14f3a336da92.htm">CompiledModel Class</a>
+              </div>
+              <div>
+                <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp Namespace</a>
+              </div>
+            </div>
+          </div>
+          <div id="InThisArticleColumn" class="column is-hidden-mobile">
+            <nav class="menu sticky is-hidden">
+              <p class="menu-label">
+                <strong>In This Article</strong>
+              </p>
+              <ul id="InThisArticleMenu" class="menu-list">
+                <li>
+                  <a class="quickLink">Methods</a>
+                </li>
+                <li>
+                  <a class="quickLink">See Also</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <footer id="PageFooter" class="footer border-top py-3 fixedFooter">
+        <div class="columns">
+          <div class="column">Copyright © 2023 Yan Guojin OpenVINOSharp. All rights reserved.<p><a href="https://github.com/guojin-yan/OpenVINOSharp" target="_blank" rel="noopener noreferrer">Copyright © 2023 Yan Guojin OpenVINOSharp. All rights reserved.</a></p> 
+				</div>
+          <div class="column"> 
+				</div>
+        </div>
+      </footer>
+    </div>
+    <script>$(function(){
+SetDefaultLanguage("cs");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+});</script>
+  </body>
+</html>

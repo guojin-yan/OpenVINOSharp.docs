@@ -2,31 +2,31 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+      <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_OvType.htm">Ov<wbr />Type</a>
+      <a href="5f450ac6-81e9-dfff-35a2-23f6c3952f11.htm">Ov<wbr />Type</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="Overload_OpenVinoSharp_OvType__ctor" class="has-submenu" href="Overload_OpenVinoSharp_OvType__ctor.htm">
+      <a id="7a5fcca0-efaa-8f63-4b7c-18b46cfe4a1f" class="has-submenu" href="7a5fcca0-efaa-8f63-4b7c-18b46cfe4a1f.htm">
         <span data-tocFile="../toc/IDAXAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Constructors</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="Methods_T_OpenVinoSharp_OvType" href="Methods_T_OpenVinoSharp_OvType.htm">Methods</a>
+      <a id="2ca20dd2-7ff2-d629-5638-8e9b3753dbc1" href="2ca20dd2-7ff2-d629-5638-8e9b3753dbc1.htm">Methods</a>
     </li>
     <li>
-      <a id="Fields_T_OpenVinoSharp_OvType" href="Fields_T_OpenVinoSharp_OvType.htm">Fields</a>
+      <a id="5e88fdb3-b3d9-85dd-1b89-f8cc34cbc754" href="5e88fdb3-b3d9-85dd-1b89-f8cc34cbc754.htm">Fields</a>
     </li>
   </tocItems>
 </toc>

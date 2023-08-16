@@ -2,43 +2,43 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="N_OpenVinoSharp" class="has-submenu" href="N_OpenVinoSharp.htm">
+      <a id="5568d765-9e74-5807-c2bd-811bfeb831c5" class="has-submenu" href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">
         <span data-tocFile="../toc/IDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Open<wbr />Vino<wbr />Sharp</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="N_OpenVinoSharp_core" class="has-submenu" href="N_OpenVinoSharp_core.htm">
+      <a id="124d247d-d9f2-b35e-5c35-5d878e4175b6" class="has-submenu" href="124d247d-d9f2-b35e-5c35-5d878e4175b6.htm">
         <span data-tocFile="../toc/IDBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Open<wbr />Vino<wbr />Sharp.<wbr />core</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="N_OpenVinoSharp_element" class="has-submenu" href="N_OpenVinoSharp_element.htm">
+      <a id="8a390adf-893a-9f44-56ac-b27ccc752957" class="has-submenu" href="8a390adf-893a-9f44-56ac-b27ccc752957.htm">
         <span data-tocFile="../toc/IDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Open<wbr />Vino<wbr />Sharp.<wbr />element</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="N_OpenVinoSharp_model_Yolov8" class="has-submenu" href="N_OpenVinoSharp_model_Yolov8.htm">
+      <a id="87e56f39-9a13-9a34-8ae4-0e78efbe8205" class="has-submenu" href="87e56f39-9a13-9a34-8ae4-0e78efbe8205.htm">
         <span data-tocFile="../toc/IDDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Open<wbr />Vino<wbr />Sharp.<wbr />model.<wbr />Yolov<wbr />8</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="N_OpenVinoSharp_preprocess" class="has-submenu" href="N_OpenVinoSharp_preprocess.htm">
+      <a id="7f998fed-f90c-a3b4-c971-bde122ff758e" class="has-submenu" href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">
         <span data-tocFile="../toc/IDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2023.7.8.0" projectFile="E:\GitSpace\OpenVinoSharp\others\API 文档\API生成.shfbproj" started="2023/8/16 17:29:29">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2023.7.8.0" projectFile="E:\GitSpace\OpenVinoSharp\others\API 文档\API生成.shfbproj" started="2023/8/16 17:40:18">
 <buildStep step="Initializing">
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder&#39;
 Locating components in the following folder(s):
@@ -193,18 +193,18 @@ Copying XML comments files
 </buildStep>
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, 英语(美国))...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0020
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
-[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateRefInfo-672f3d4d-54e6-44e6-8b26-3dbd5a09373f.proj]
-生成启动时间为 2023/8/16 17:29:30。
+[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateRefInfo-b20a9632-4bf4-49f1-9b1a-5a6c2875db91.proj]
+生成启动时间为 2023/8/16 17:40:18。
 
-节点 1 上的项目“E:\GitSpace\OpenVINOSharp.docs\Working\GenerateRefInfo-672f3d4d-54e6-44e6-8b26-3dbd5a09373f.proj”(默认目标)。
+节点 1 上的项目“E:\GitSpace\OpenVINOSharp.docs\Working\GenerateRefInfo-b20a9632-4bf4-49f1-9b1a-5a6c2875db91.proj”(默认目标)。
 PrepareForBuild:
   正在创建目录“obj\Debug\”。
 GenerateBindingRedirects:
@@ -217,98 +217,35 @@ GenerateRefInfo:
   Wrote information on 5 namespaces, 45 types, and 560 members
   Merging duplicate type and member information
   Merged 0 duplicate type(s) and 0 duplicate member(s)
-已完成生成项目“E:\GitSpace\OpenVINOSharp.docs\Working\GenerateRefInfo-672f3d4d-54e6-44e6-8b26-3dbd5a09373f.proj”(默认目标)的操作。
-    Last step completed in 00:00:00.7705
+已完成生成项目“E:\GitSpace\OpenVINOSharp.docs\Working\GenerateRefInfo-b20a9632-4bf4-49f1-9b1a-5a6c2875db91.proj”(默认目标)的操作。
+    Last step completed in 00:00:00.7373
 </buildStep>
 <buildStep step="ApplyDocumentModel">
 Applying document model to reflection output...
-    Last step completed in 00:00:00.0229
+    Last step completed in 00:00:00.0318
 </buildStep>
 <buildStep step="AddNamespaceGroups">
 Adding namespace group entries...
 Added 0 namespace group entries
-    Last step completed in 00:00:00.0100
+    Last step completed in 00:00:00.0113
 </buildStep>
 <buildStep step="AddApiTopicFilenames">
 Adding topic filenames to API members...
-    Unique name M_OpenVinoSharp_CompiledModel_get_input_1 generated for M:OpenVinoSharp.CompiledModel.get_input(System.String)
-    Unique name M_OpenVinoSharp_CompiledModel_get_input_2 generated for M:OpenVinoSharp.CompiledModel.get_input(System.UInt64)
-    Unique name M_OpenVinoSharp_CompiledModel_get_output_1 generated for M:OpenVinoSharp.CompiledModel.get_output(System.String)
-    Unique name M_OpenVinoSharp_CompiledModel_get_output_2 generated for M:OpenVinoSharp.CompiledModel.get_output(System.UInt64)
-    Unique name M_OpenVinoSharp_CompiledModel_input_1 generated for M:OpenVinoSharp.CompiledModel.input(System.String)
-    Unique name M_OpenVinoSharp_CompiledModel_input_2 generated for M:OpenVinoSharp.CompiledModel.input(System.UInt64)
-    Unique name M_OpenVinoSharp_CompiledModel_output_1 generated for M:OpenVinoSharp.CompiledModel.output(System.String)
-    Unique name M_OpenVinoSharp_CompiledModel_output_2 generated for M:OpenVinoSharp.CompiledModel.output(System.UInt64)
-    Unique name M_OpenVinoSharp_Core_compiled_model_1 generated for M:OpenVinoSharp.Core.compiled_model(OpenVinoSharp.Model,System.String)
-    Unique name M_OpenVinoSharp_Core_compiled_model_2 generated for M:OpenVinoSharp.Core.compiled_model(System.String)
-    Unique name M_OpenVinoSharp_Core_compiled_model_3 generated for M:OpenVinoSharp.Core.compiled_model(System.String,System.String)
-    Unique name M_OpenVinoSharp_Core_read_model_1 generated for M:OpenVinoSharp.Core.read_model(System.String,System.String)
-    Unique name M_OpenVinoSharp_Dimension__ctor_1 generated for M:OpenVinoSharp.Dimension.#ctor(System.Int64,System.Int64)
-    Unique name M_OpenVinoSharp_InferRequest_get_input_tensor_1 generated for M:OpenVinoSharp.InferRequest.get_input_tensor(System.UInt64)
-    Unique name M_OpenVinoSharp_InferRequest_get_output_tensor_1 generated for M:OpenVinoSharp.InferRequest.get_output_tensor(System.UInt64)
-    Unique name M_OpenVinoSharp_InferRequest_get_tensor_1 generated for M:OpenVinoSharp.InferRequest.get_tensor(OpenVinoSharp.Output)
-    Unique name M_OpenVinoSharp_InferRequest_get_tensor_2 generated for M:OpenVinoSharp.InferRequest.get_tensor(System.String)
-    Unique name M_OpenVinoSharp_InferRequest_set_input_tensor_1 generated for M:OpenVinoSharp.InferRequest.set_input_tensor(System.UInt64,OpenVinoSharp.Tensor)
-    Unique name M_OpenVinoSharp_InferRequest_set_output_tensor_1 generated for M:OpenVinoSharp.InferRequest.set_output_tensor(System.UInt64,OpenVinoSharp.Tensor)
-    Unique name M_OpenVinoSharp_InferRequest_set_tensor_1 generated for M:OpenVinoSharp.InferRequest.set_tensor(OpenVinoSharp.Output,OpenVinoSharp.Tensor)
-    Unique name M_OpenVinoSharp_InferRequest_set_tensor_2 generated for M:OpenVinoSharp.InferRequest.set_tensor(System.String,OpenVinoSharp.Tensor)
-    Unique name M_OpenVinoSharp_Model_const_input_1 generated for M:OpenVinoSharp.Model.const_input(System.String)
-    Unique name M_OpenVinoSharp_Model_const_input_2 generated for M:OpenVinoSharp.Model.const_input(System.UInt64)
-    Unique name M_OpenVinoSharp_Model_const_output_1 generated for M:OpenVinoSharp.Model.const_output(System.String)
-    Unique name M_OpenVinoSharp_Model_const_output_2 generated for M:OpenVinoSharp.Model.const_output(System.UInt64)
-    Unique name M_OpenVinoSharp_Model_get_const_input_1 generated for M:OpenVinoSharp.Model.get_const_input(System.String)
-    Unique name M_OpenVinoSharp_Model_get_const_input_2 generated for M:OpenVinoSharp.Model.get_const_input(System.UInt64)
-    Unique name M_OpenVinoSharp_Model_get_const_output_1 generated for M:OpenVinoSharp.Model.get_const_output(System.String)
-    Unique name M_OpenVinoSharp_Model_get_const_output_2 generated for M:OpenVinoSharp.Model.get_const_output(System.UInt64)
-    Unique name M_OpenVinoSharp_Model_get_input_1 generated for M:OpenVinoSharp.Model.get_input(System.String)
-    Unique name M_OpenVinoSharp_Model_get_input_2 generated for M:OpenVinoSharp.Model.get_input(System.UInt64)
-    Unique name M_OpenVinoSharp_Model_get_output_1 generated for M:OpenVinoSharp.Model.get_output(System.String)
-    Unique name M_OpenVinoSharp_Model_get_output_2 generated for M:OpenVinoSharp.Model.get_output(System.UInt64)
-    Unique name M_OpenVinoSharp_Model_input_1 generated for M:OpenVinoSharp.Model.input(System.String)
-    Unique name M_OpenVinoSharp_Model_input_2 generated for M:OpenVinoSharp.Model.input(System.UInt64)
-    Unique name M_OpenVinoSharp_Model_output_1 generated for M:OpenVinoSharp.Model.output(System.String)
-    Unique name M_OpenVinoSharp_Model_output_2 generated for M:OpenVinoSharp.Model.output(System.UInt64)
-    Unique name M_OpenVinoSharp_Model_reshape_1 generated for M:OpenVinoSharp.Model.reshape(System.Collections.Generic.Dictionary{OpenVinoSharp.Node,OpenVinoSharp.PartialShape})
-    Unique name M_OpenVinoSharp_Model_reshape_2 generated for M:OpenVinoSharp.Model.reshape(System.Collections.Generic.Dictionary{System.String,OpenVinoSharp.PartialShape})
-    Unique name M_OpenVinoSharp_Model_reshape_3 generated for M:OpenVinoSharp.Model.reshape(System.Collections.Generic.Dictionary{System.UInt64,OpenVinoSharp.PartialShape})
-    Unique name M_OpenVinoSharp_NativeMethods_ov_core_compile_model_with_context_1 generated for M:OpenVinoSharp.NativeMethods.ov_core_compile_model_with_context(System.IntPtr,System.SByte@,System.IntPtr@)
-    Unique name M_OpenVinoSharp_OvType__ctor_1 generated for M:OpenVinoSharp.OvType.#ctor(OpenVinoSharp.OvType)
-    Unique name M_OpenVinoSharp_OvType__ctor_2 generated for M:OpenVinoSharp.OvType.#ctor(System.String)
-    Unique name M_OpenVinoSharp_Shape__ctor_1 generated for M:OpenVinoSharp.Shape.#ctor(System.Int64[])
-    Unique name M_OpenVinoSharp_Shape__ctor_2 generated for M:OpenVinoSharp.Shape.#ctor(System.IntPtr)
-    Unique name M_OpenVinoSharp_Tensor__ctor_1 generated for M:OpenVinoSharp.Tensor.#ctor(OpenVinoSharp.element.Type,OpenVinoSharp.Shape,OpenVinoSharp.preprocess.OvMat)
-    Unique name M_OpenVinoSharp_Tensor__ctor_2 generated for M:OpenVinoSharp.Tensor.#ctor(OpenVinoSharp.element.Type,OpenVinoSharp.Shape,System.IntPtr)
-    Unique name M_OpenVinoSharp_Tensor__ctor_3 generated for M:OpenVinoSharp.Tensor.#ctor(OpenVinoSharp.Tensor)
-    Unique name M_OpenVinoSharp_Tensor__ctor_4 generated for M:OpenVinoSharp.Tensor.#ctor(System.IntPtr)
-    Unique name M_OpenVinoSharp_element_Type__ctor_1 generated for M:OpenVinoSharp.element.Type.#ctor(OpenVinoSharp.element.Type_t)
-    Unique name M_OpenVinoSharp_element_Type__ctor_2 generated for M:OpenVinoSharp.element.Type.#ctor(OpenVinoSharp.ElementType)
-    Unique name M_OpenVinoSharp_element_Type__ctor_3 generated for M:OpenVinoSharp.element.Type.#ctor(System.String)
-    Unique name M_OpenVinoSharp_model_Yolov8_Result_add_1 generated for M:OpenVinoSharp.model.Yolov8.Result.add(System.Single,OpenCvSharp.Rect,System.Int32)
-    Unique name M_OpenVinoSharp_model_Yolov8_Result_add_2 generated for M:OpenVinoSharp.model.Yolov8.Result.add(System.Single,OpenCvSharp.Rect,System.Int32,OpenCvSharp.Mat)
-    Unique name M_OpenVinoSharp_model_Yolov8_ResultProcess_print_result_1 generated for M:OpenVinoSharp.model.Yolov8.ResultProcess.print_result(System.Collections.Generic.KeyValuePair{System.Int32,System.Single}[])
-    Unique name M_OpenVinoSharp_preprocess_InputTensorInfo_set_color_format_1 generated for M:OpenVinoSharp.preprocess.InputTensorInfo.set_color_format(OpenVinoSharp.preprocess.ColorFormat,System.UInt64)
-    Unique name M_OpenVinoSharp_preprocess_OvMat__ctor_1 generated for M:OpenVinoSharp.preprocess.OvMat.#ctor(System.Byte[],System.UInt64,System.Int32,System.Int32,System.Int32,OpenVinoSharp.ElementType)
-    Unique name M_OpenVinoSharp_preprocess_OvMat__ctor_2 generated for M:OpenVinoSharp.preprocess.OvMat.#ctor(System.String)
-    Unique name M_OpenVinoSharp_preprocess_PrePostProcessor_input_1 generated for M:OpenVinoSharp.preprocess.PrePostProcessor.input(System.String)
-    Unique name M_OpenVinoSharp_preprocess_PrePostProcessor_input_2 generated for M:OpenVinoSharp.preprocess.PrePostProcessor.input(System.UInt64)
-    Unique name M_OpenVinoSharp_preprocess_PrePostProcessor_output_1 generated for M:OpenVinoSharp.preprocess.PrePostProcessor.output(System.String)
-    Unique name M_OpenVinoSharp_preprocess_PrePostProcessor_output_2 generated for M:OpenVinoSharp.preprocess.PrePostProcessor.output(System.UInt64)
-    Unique name M_OpenVinoSharp_preprocess_PreProcessSteps_crop_1 generated for M:OpenVinoSharp.preprocess.PreProcessSteps.crop(System.Int32[],System.Int32[])
-    Last step completed in 00:00:00.0177
+    Last step completed in 00:00:00.0150
 </buildStep>
 <buildStep step="GenerateApiTopicManifest">
 Generating API topic manifest...
-    Last step completed in 00:00:00.0070
+    Last step completed in 00:00:00.0090
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.5364
+    Last step completed in 00:00:00.5211
 </buildStep>
 <buildStep step="GenerateInheritedDocumentation">
 Generating inherited documentation...
 [C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateInheritedDocs.proj]
 
-    Last step completed in 00:00:01.4920
+    Last step completed in 00:00:01.4198
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
@@ -322,15 +259,15 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file for API content...
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.0139
+    Last step completed in 00:00:00.0130
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
-    Last step completed in 00:00:00.3588
+    Last step completed in 00:00:00.3745
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00.0009
+    Last step completed in 00:00:00.0010
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
@@ -430,7 +367,7 @@ CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 3 o
 CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 1 of 30.
 <plugIn name="Website Table of Contents Generator" behavior="After" priority="1000">
 Generating TOC fragment files
-</plugIn>    Last step completed in 00:00:08.5213
+</plugIn>    Last step completed in 00:00:13.2267
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -466,27 +403,27 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Defaul
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.inc.php -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\SearchHelp.inc.php
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.php -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\SearchHelp.php
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\Web.Config -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\Web.Config
-    Last step completed in 00:00:00.0140
+    Last step completed in 00:00:00.0173
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
-    Last step completed in 00:00:00.2007
+    Last step completed in 00:00:00.1953
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
 Copied 500 files
 Copied 878 files for the website content
-    Last step completed in 00:00:00.2128
+    Last step completed in 00:00:00.2102
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.0748
+    Last step completed in 00:00:00.0754
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 2023/8/16 17:29:42.  Total time: 00:00:12.7592
+Build completed successfully at 2023/8/16 17:40:35.  Total time: 00:00:17.3629
 
 </buildStep>
 </shfbBuild>

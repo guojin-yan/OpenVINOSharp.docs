@@ -2,36 +2,36 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp_model_Yolov8.htm">Open<wbr />Vino<wbr />Sharp.<wbr />model.<wbr />Yolov<wbr />8</a>
+      <a href="87e56f39-9a13-9a34-8ae4-0e78efbe8205.htm">Open<wbr />Vino<wbr />Sharp.<wbr />model.<wbr />Yolov<wbr />8</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_model_Yolov8_ResultProcess.htm">Result<wbr />Process</a>
+      <a href="f2591d14-5290-a59e-9487-1966d344819b.htm">Result<wbr />Process</a>
     </li>
     <li>
-      <a href="Fields_T_OpenVinoSharp_model_Yolov8_ResultProcess.htm">Fields</a>
+      <a href="7da05c75-e72e-82f3-21c9-be4e8fa80cf4.htm">Fields</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="F_OpenVinoSharp_model_Yolov8_ResultProcess_categ_nums" href="F_OpenVinoSharp_model_Yolov8_ResultProcess_categ_nums.htm">categ_<wbr />nums</a>
+      <a id="b92aa1ff-e447-20a9-36ed-42a9dca456cf" href="b92aa1ff-e447-20a9-36ed-42a9dca456cf.htm">categ_<wbr />nums</a>
     </li>
     <li>
-      <a id="F_OpenVinoSharp_model_Yolov8_ResultProcess_class_names" href="F_OpenVinoSharp_model_Yolov8_ResultProcess_class_names.htm">class_<wbr />names</a>
+      <a id="16cc3059-2e55-8e78-95f8-4228dfee01dd" href="16cc3059-2e55-8e78-95f8-4228dfee01dd.htm">class_<wbr />names</a>
     </li>
     <li>
-      <a id="F_OpenVinoSharp_model_Yolov8_ResultProcess_nms_threshold" href="F_OpenVinoSharp_model_Yolov8_ResultProcess_nms_threshold.htm">nms_<wbr />threshold</a>
+      <a id="1faa0c63-c03c-3f4f-2f52-ebbf3fa62b07" href="1faa0c63-c03c-3f4f-2f52-ebbf3fa62b07.htm">nms_<wbr />threshold</a>
     </li>
     <li>
-      <a id="F_OpenVinoSharp_model_Yolov8_ResultProcess_scales" href="F_OpenVinoSharp_model_Yolov8_ResultProcess_scales.htm">scales</a>
+      <a id="f89f40df-00e7-c765-c3d0-ee73a5273e7c" href="f89f40df-00e7-c765-c3d0-ee73a5273e7c.htm">scales</a>
     </li>
     <li>
-      <a id="F_OpenVinoSharp_model_Yolov8_ResultProcess_score_threshold" href="F_OpenVinoSharp_model_Yolov8_ResultProcess_score_threshold.htm">score_<wbr />threshold</a>
+      <a id="b126473d-f570-4f22-47b4-07ce6a6de881" href="b126473d-f570-4f22-47b4-07ce6a6de881.htm">score_<wbr />threshold</a>
     </li>
   </tocItems>
 </toc>

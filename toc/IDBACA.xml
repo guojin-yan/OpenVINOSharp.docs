@@ -2,66 +2,66 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp_element.htm">Open<wbr />Vino<wbr />Sharp.<wbr />element</a>
+      <a href="8a390adf-893a-9f44-56ac-b27ccc752957.htm">Open<wbr />Vino<wbr />Sharp.<wbr />element</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_element_Type.htm">Type</a>
+      <a href="cca35695-d9e1-b04d-ac05-7f4b1853f9f3.htm">Type</a>
     </li>
     <li>
-      <a href="Methods_T_OpenVinoSharp_element_Type.htm">Methods</a>
+      <a href="7bc21c0a-aa10-47c2-3cb0-0ab1d646ee4e.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_bitwidth" href="M_OpenVinoSharp_element_Type_bitwidth.htm">bitwidth</a>
+      <a id="26384dd4-b449-5245-e2bc-db2a1f293f7c" href="26384dd4-b449-5245-e2bc-db2a1f293f7c.htm">bitwidth</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_c_type_string" href="M_OpenVinoSharp_element_Type_c_type_string.htm">c_<wbr />type_<wbr />string</a>
+      <a id="af57e521-ee4a-ebbd-2c85-7d2e5887226e" href="af57e521-ee4a-ebbd-2c85-7d2e5887226e.htm">c_<wbr />type_<wbr />string</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_get_type" href="M_OpenVinoSharp_element_Type_get_type.htm">get_<wbr />type</a>
+      <a id="ea2aa3be-4cd2-b0ea-0094-f16ea52d2564" href="ea2aa3be-4cd2-b0ea-0094-f16ea52d2564.htm">get_<wbr />type</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_get_type_info" href="M_OpenVinoSharp_element_Type_get_type_info.htm">get_<wbr />type_<wbr />info</a>
+      <a id="3507aa23-f9eb-ae07-8673-034a5d5373e3" href="3507aa23-f9eb-ae07-8673-034a5d5373e3.htm">get_<wbr />type_<wbr />info</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_get_type_name" href="M_OpenVinoSharp_element_Type_get_type_name.htm">get_<wbr />type_<wbr />name</a>
+      <a id="aee8efef-59bb-3ea0-5a32-998dd57f0369" href="aee8efef-59bb-3ea0-5a32-998dd57f0369.htm">get_<wbr />type_<wbr />name</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_hash" href="M_OpenVinoSharp_element_Type_hash.htm">hash</a>
+      <a id="d252afb1-fd85-9e4d-8094-d62ee239049e" href="d252afb1-fd85-9e4d-8094-d62ee239049e.htm">hash</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_is_integral" href="M_OpenVinoSharp_element_Type_is_integral.htm">is_<wbr />integral</a>
+      <a id="96d55b6c-c132-977c-7d57-476d79896e04" href="96d55b6c-c132-977c-7d57-476d79896e04.htm">is_<wbr />integral</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_is_integral_number" href="M_OpenVinoSharp_element_Type_is_integral_number.htm">is_<wbr />integral_<wbr />number</a>
+      <a id="48fe3490-8d4b-265d-2a0f-92313f8cba94" href="48fe3490-8d4b-265d-2a0f-92313f8cba94.htm">is_<wbr />integral_<wbr />number</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_is_quantized" href="M_OpenVinoSharp_element_Type_is_quantized.htm">is_<wbr />quantized</a>
+      <a id="ce751905-fa21-aec4-5436-3098782d3b22" href="ce751905-fa21-aec4-5436-3098782d3b22.htm">is_<wbr />quantized</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_is_real" href="M_OpenVinoSharp_element_Type_is_real.htm">is_<wbr />real</a>
+      <a id="2a9e2e29-617d-a6b0-fa84-1f9584d1caf0" href="2a9e2e29-617d-a6b0-fa84-1f9584d1caf0.htm">is_<wbr />real</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_is_signed" href="M_OpenVinoSharp_element_Type_is_signed.htm">is_<wbr />signed</a>
+      <a id="d280db65-dbae-303d-9424-0bd4e7270414" href="d280db65-dbae-303d-9424-0bd4e7270414.htm">is_<wbr />signed</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_is_static" href="M_OpenVinoSharp_element_Type_is_static.htm">is_<wbr />static</a>
+      <a id="33a62d08-bacc-8cab-9149-800ae21840b8" href="33a62d08-bacc-8cab-9149-800ae21840b8.htm">is_<wbr />static</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_size" href="M_OpenVinoSharp_element_Type_size.htm">size</a>
+      <a id="e6c4564f-2592-98f2-9039-7033f0432ca4" href="e6c4564f-2592-98f2-9039-7033f0432ca4.htm">size</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_to_string" href="M_OpenVinoSharp_element_Type_to_string.htm">to_<wbr />string</a>
+      <a id="aedbe41a-a4ca-c497-8ed1-9b278ed19005" href="aedbe41a-a4ca-c497-8ed1-9b278ed19005.htm">to_<wbr />string</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_element_Type_type_from_string" href="M_OpenVinoSharp_element_Type_type_from_string.htm">type_<wbr />from_<wbr />string</a>
+      <a id="d220c1f5-7b46-ce30-524c-991f34177ddf" href="d220c1f5-7b46-ce30-524c-991f34177ddf.htm">type_<wbr />from_<wbr />string</a>
     </li>
   </tocItems>
 </toc>

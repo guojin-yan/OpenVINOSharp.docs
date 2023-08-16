@@ -2,33 +2,33 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+      <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_Model.htm">Model</a>
+      <a href="e9ba0e92-4efc-7ee9-c014-9f0d36ef5cc5.htm">Model</a>
     </li>
     <li>
-      <a href="Methods_T_OpenVinoSharp_Model.htm">Methods</a>
+      <a href="6db7f476-9975-bebe-dca8-cca818e9d9eb.htm">Methods</a>
     </li>
     <li>
-      <a href="Overload_OpenVinoSharp_Model_get_input.htm">get_<wbr />input</a>
+      <a href="28ee06e6-4b23-0e9c-60e1-f01964da9215.htm">get_<wbr />input</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="M_OpenVinoSharp_Model_get_input" href="M_OpenVinoSharp_Model_get_input.htm">get_<wbr />input</a>
+      <a id="0a2134fb-84b0-4852-6e5d-57c264184a3b" href="0a2134fb-84b0-4852-6e5d-57c264184a3b.htm">get_<wbr />input</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_Model_get_input_1" href="M_OpenVinoSharp_Model_get_input_1.htm">get_<wbr />input(<wbr />String)</a>
+      <a id="1413d2a0-2239-9959-3758-88eba613d642" href="1413d2a0-2239-9959-3758-88eba613d642.htm">get_<wbr />input(<wbr />String)</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_Model_get_input_2" href="M_OpenVinoSharp_Model_get_input_2.htm">get_<wbr />input(<wbr />UInt<wbr />64)</a>
+      <a id="b7ac0f04-4f54-961e-e943-006e3fb29af8" href="b7ac0f04-4f54-961e-e943-006e3fb29af8.htm">get_<wbr />input(<wbr />UInt<wbr />64)</a>
     </li>
   </tocItems>
 </toc>

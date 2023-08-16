@@ -2,49 +2,49 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp_preprocess.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
+      <a href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_preprocess_InputTensorInfo.htm">Input<wbr />Tensor<wbr />Info</a>
+      <a href="b81f02c7-8242-9e53-4118-7e68a21cf06f.htm">Input<wbr />Tensor<wbr />Info</a>
     </li>
     <li>
-      <a href="Methods_T_OpenVinoSharp_preprocess_InputTensorInfo.htm">Methods</a>
+      <a href="70c5dd37-c638-b333-ad83-8389e61f488d.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="M_OpenVinoSharp_preprocess_InputTensorInfo_dispose" href="M_OpenVinoSharp_preprocess_InputTensorInfo_dispose.htm">dispose</a>
+      <a id="84073c86-5e7f-5fe2-af27-006153ffd7e8" href="84073c86-5e7f-5fe2-af27-006153ffd7e8.htm">dispose</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_preprocess_InputTensorInfo_Finalize" href="M_OpenVinoSharp_preprocess_InputTensorInfo_Finalize.htm">Finalize</a>
+      <a id="21e33c17-a7cb-c959-33a4-5e70f3adbc5e" href="21e33c17-a7cb-c959-33a4-5e70f3adbc5e.htm">Finalize</a>
     </li>
     <li>
-      <a id="Overload_OpenVinoSharp_preprocess_InputTensorInfo_set_color_format" class="has-submenu" href="Overload_OpenVinoSharp_preprocess_InputTensorInfo_set_color_format.htm">
+      <a id="28ed41c5-f684-e3b2-89c0-ef37a1e0a5e0" class="has-submenu" href="28ed41c5-f684-e3b2-89c0-ef37a1e0a5e0.htm">
         <span data-tocFile="../toc/IDCCDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>set_<wbr />color_<wbr />format</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_preprocess_InputTensorInfo_set_element_type" href="M_OpenVinoSharp_preprocess_InputTensorInfo_set_element_type.htm">set_<wbr />element_<wbr />type</a>
+      <a id="495c0c44-3645-ace8-6155-0e3f979ef3d9" href="495c0c44-3645-ace8-6155-0e3f979ef3d9.htm">set_<wbr />element_<wbr />type</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_preprocess_InputTensorInfo_set_from" href="M_OpenVinoSharp_preprocess_InputTensorInfo_set_from.htm">set_<wbr />from</a>
+      <a id="bcb33df7-3c51-aafc-56fe-b1ad35285440" href="bcb33df7-3c51-aafc-56fe-b1ad35285440.htm">set_<wbr />from</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_preprocess_InputTensorInfo_set_layout" href="M_OpenVinoSharp_preprocess_InputTensorInfo_set_layout.htm">set_<wbr />layout</a>
+      <a id="e01b0ed1-9a3e-15e5-49aa-eaada8b2e6ed" href="e01b0ed1-9a3e-15e5-49aa-eaada8b2e6ed.htm">set_<wbr />layout</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_preprocess_InputTensorInfo_set_memory_type" href="M_OpenVinoSharp_preprocess_InputTensorInfo_set_memory_type.htm">set_<wbr />memory_<wbr />type</a>
+      <a id="8c9653bc-ce37-ad7a-08fc-b1ef97e9161d" href="8c9653bc-ce37-ad7a-08fc-b1ef97e9161d.htm">set_<wbr />memory_<wbr />type</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_preprocess_InputTensorInfo_set_spatial_static_shape" href="M_OpenVinoSharp_preprocess_InputTensorInfo_set_spatial_static_shape.htm">set_<wbr />spatial_<wbr />static_<wbr />shape</a>
+      <a id="498afd65-e096-fbc5-b343-4e51548a3dc8" href="498afd65-e096-fbc5-b343-4e51548a3dc8.htm">set_<wbr />spatial_<wbr />static_<wbr />shape</a>
     </li>
   </tocItems>
 </toc>

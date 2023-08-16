@@ -2,31 +2,31 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+      <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_Input.htm">Input</a>
+      <a href="c6836ef1-d57e-ffac-995e-1acaac29a979.htm">Input</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="M_OpenVinoSharp_Input__ctor" href="M_OpenVinoSharp_Input__ctor.htm">Constructor</a>
+      <a id="d5fa0411-b31f-c5e6-5695-d397a91cf586" href="d5fa0411-b31f-c5e6-5695-d397a91cf586.htm">Constructor</a>
     </li>
     <li>
-      <a id="Methods_T_OpenVinoSharp_Input" class="has-submenu" href="Methods_T_OpenVinoSharp_Input.htm">
+      <a id="9b649e5e-b6b9-915a-3c25-b7c697a023a2" class="has-submenu" href="9b649e5e-b6b9-915a-3c25-b7c697a023a2.htm">
         <span data-tocFile="../toc/IDBJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Methods</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="Fields_T_OpenVinoSharp_Input" class="has-submenu" href="Fields_T_OpenVinoSharp_Input.htm">
+      <a id="ff6cf944-d6ea-50ad-ee98-9e6b71dbdc4a" class="has-submenu" href="ff6cf944-d6ea-50ad-ee98-9e6b71dbdc4a.htm">
         <span data-tocFile="../toc/IDCJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Fields</a>

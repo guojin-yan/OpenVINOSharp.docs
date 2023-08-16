@@ -2,38 +2,38 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+      <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_InferRequest.htm">Infer<wbr />Request</a>
+      <a href="42804263-1a1a-0a59-02a5-0b1e0a98c900.htm">Infer<wbr />Request</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="M_OpenVinoSharp_InferRequest__ctor" href="M_OpenVinoSharp_InferRequest__ctor.htm">Constructor</a>
+      <a id="ace42d5e-f1df-8025-6279-7a3ea3f326d4" href="ace42d5e-f1df-8025-6279-7a3ea3f326d4.htm">Constructor</a>
     </li>
     <li>
-      <a id="Properties_T_OpenVinoSharp_InferRequest" class="has-submenu" href="Properties_T_OpenVinoSharp_InferRequest.htm">
+      <a id="3d47c032-92a6-4d55-2970-aae476296ecc" class="has-submenu" href="3d47c032-92a6-4d55-2970-aae476296ecc.htm">
         <span data-tocFile="../toc/IDBIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Properties</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="Methods_T_OpenVinoSharp_InferRequest" class="has-submenu" href="Methods_T_OpenVinoSharp_InferRequest.htm">
+      <a id="452c8f6f-368a-e25e-9801-b31bfec25d71" class="has-submenu" href="452c8f6f-368a-e25e-9801-b31bfec25d71.htm">
         <span data-tocFile="../toc/IDCIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Methods</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="Fields_T_OpenVinoSharp_InferRequest" class="has-submenu" href="Fields_T_OpenVinoSharp_InferRequest.htm">
+      <a id="cab03d79-bf4a-c3a0-ec68-eb39aaa99ae4" class="has-submenu" href="cab03d79-bf4a-c3a0-ec68-eb39aaa99ae4.htm">
         <span data-tocFile="../toc/IDDIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Fields</a>

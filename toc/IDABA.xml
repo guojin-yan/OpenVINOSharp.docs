@@ -2,38 +2,38 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp_core.htm">Open<wbr />Vino<wbr />Sharp.<wbr />core</a>
+      <a href="124d247d-d9f2-b35e-5c35-5d878e4175b6.htm">Open<wbr />Vino<wbr />Sharp.<wbr />core</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_core_Layout.htm">Layout</a>
+      <a href="3dfbcad7-8325-e92c-3495-2c61861f0fa0.htm">Layout</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="M_OpenVinoSharp_core_Layout__ctor" href="M_OpenVinoSharp_core_Layout__ctor.htm">Constructor</a>
+      <a id="65d276da-7357-ca3f-4dee-c03acf621a50" href="65d276da-7357-ca3f-4dee-c03acf621a50.htm">Constructor</a>
     </li>
     <li>
-      <a id="Properties_T_OpenVinoSharp_core_Layout" class="has-submenu" href="Properties_T_OpenVinoSharp_core_Layout.htm">
+      <a id="dcfad4ce-1ed1-d5b4-1a25-f9d68cea985a" class="has-submenu" href="dcfad4ce-1ed1-d5b4-1a25-f9d68cea985a.htm">
         <span data-tocFile="../toc/IDBABA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Properties</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="Methods_T_OpenVinoSharp_core_Layout" class="has-submenu" href="Methods_T_OpenVinoSharp_core_Layout.htm">
+      <a id="6d077c82-6af6-98d7-693a-3ecfb835d4fb" class="has-submenu" href="6d077c82-6af6-98d7-693a-3ecfb835d4fb.htm">
         <span data-tocFile="../toc/IDCABA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Methods</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="Fields_T_OpenVinoSharp_core_Layout" class="has-submenu" href="Fields_T_OpenVinoSharp_core_Layout.htm">
+      <a id="967ea8cb-ba88-7522-c6a4-b58f5bae4e4d" class="has-submenu" href="967ea8cb-ba88-7522-c6a4-b58f5bae4e4d.htm">
         <span data-tocFile="../toc/IDDABA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Fields</a>

@@ -2,30 +2,30 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp_model_Yolov8.htm">Open<wbr />Vino<wbr />Sharp.<wbr />model.<wbr />Yolov<wbr />8</a>
+      <a href="87e56f39-9a13-9a34-8ae4-0e78efbe8205.htm">Open<wbr />Vino<wbr />Sharp.<wbr />model.<wbr />Yolov<wbr />8</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_model_Yolov8_ResultProcess.htm">Result<wbr />Process</a>
+      <a href="f2591d14-5290-a59e-9487-1966d344819b.htm">Result<wbr />Process</a>
     </li>
     <li>
-      <a href="Methods_T_OpenVinoSharp_model_Yolov8_ResultProcess.htm">Methods</a>
+      <a href="646b8fbd-f82d-8b2c-bd84-58c801724601.htm">Methods</a>
     </li>
     <li>
-      <a href="Overload_OpenVinoSharp_model_Yolov8_ResultProcess_print_result.htm">print_<wbr />result</a>
+      <a href="d6a6b1c0-eecc-6011-5f20-7cf4bd263fad.htm">print_<wbr />result</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_print_result_1" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_print_result_1.htm">print_<wbr />result(<wbr />Key<wbr />Value<wbr />Pair&lt;Int<wbr />32, Single&gt;[])</a>
+      <a id="bdad6bd7-8e37-a7b6-467a-bada2a321816" href="bdad6bd7-8e37-a7b6-467a-bada2a321816.htm">print_<wbr />result(<wbr />Key<wbr />Value<wbr />Pair&lt;Int<wbr />32, Single&gt;[])</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_print_result" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_print_result.htm">print_<wbr />result(<wbr />Result)</a>
+      <a id="69e96350-da1b-44f8-4fb3-731c4cdb832b" href="69e96350-da1b-44f8-4fb3-731c4cdb832b.htm">print_<wbr />result(<wbr />Result)</a>
     </li>
   </tocItems>
 </toc>

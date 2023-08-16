@@ -2,36 +2,36 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
     </li>
     <li>
-      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
     </li>
     <li>
-      <a href="N_OpenVinoSharp_preprocess.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
+      <a href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
     </li>
     <li>
-      <a href="T_OpenVinoSharp_preprocess_InputInfo.htm">Input<wbr />Info</a>
+      <a href="85ce42c6-7332-baa3-213d-edecd32126bb.htm">Input<wbr />Info</a>
     </li>
     <li>
-      <a href="Methods_T_OpenVinoSharp_preprocess_InputInfo.htm">Methods</a>
+      <a href="65dfce52-dbb8-c6ad-d562-ffa3921459c1.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="M_OpenVinoSharp_preprocess_InputInfo_dispose" href="M_OpenVinoSharp_preprocess_InputInfo_dispose.htm">dispose</a>
+      <a id="b4d6a36f-da41-6452-26f9-1c85d9c6d268" href="b4d6a36f-da41-6452-26f9-1c85d9c6d268.htm">dispose</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_preprocess_InputInfo_Finalize" href="M_OpenVinoSharp_preprocess_InputInfo_Finalize.htm">Finalize</a>
+      <a id="e7d82a48-5a6a-8412-7159-077c878a5ad4" href="e7d82a48-5a6a-8412-7159-077c878a5ad4.htm">Finalize</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_preprocess_InputInfo_model" href="M_OpenVinoSharp_preprocess_InputInfo_model.htm">model</a>
+      <a id="6d41d95c-0743-5e77-e3d3-f9e5f6d7b48e" href="6d41d95c-0743-5e77-e3d3-f9e5f6d7b48e.htm">model</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_preprocess_InputInfo_preprocess" href="M_OpenVinoSharp_preprocess_InputInfo_preprocess.htm">preprocess</a>
+      <a id="dab3cf8a-e37f-f92d-b6a9-ba3d9003bb1f" href="dab3cf8a-e37f-f92d-b6a9-ba3d9003bb1f.htm">preprocess</a>
     </li>
     <li>
-      <a id="M_OpenVinoSharp_preprocess_InputInfo_tensor" href="M_OpenVinoSharp_preprocess_InputInfo_tensor.htm">tensor</a>
+      <a id="5d5c44f4-4d6a-bad7-85a1-f15d940c3e39" href="5d5c44f4-4d6a-bad7-85a1-f15d940c3e39.htm">tensor</a>
     </li>
   </tocItems>
 </toc>

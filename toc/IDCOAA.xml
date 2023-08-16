@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_Output.htm">Output</a>
+    </li>
+    <li>
+      <a href="Fields_T_OpenVinoSharp_Output.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="F_OpenVinoSharp_Output_m_index" href="F_OpenVinoSharp_Output_m_index.htm">m_<wbr />index</a>
+    </li>
+    <li>
+      <a id="F_OpenVinoSharp_Output_m_node" href="F_OpenVinoSharp_Output_m_node.htm">m_<wbr />node</a>
+    </li>
+  </tocItems>
+</toc>

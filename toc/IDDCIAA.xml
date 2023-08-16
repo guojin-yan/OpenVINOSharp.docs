@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_InferRequest.htm">Infer<wbr />Request</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_InferRequest.htm">Methods</a>
+    </li>
+    <li>
+      <a href="Overload_OpenVinoSharp_InferRequest_get_input_tensor.htm">get_<wbr />input_<wbr />tensor</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_InferRequest_get_input_tensor" href="M_OpenVinoSharp_InferRequest_get_input_tensor.htm">get_<wbr />input_<wbr />tensor</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_InferRequest_get_input_tensor_1" href="M_OpenVinoSharp_InferRequest_get_input_tensor_1.htm">get_<wbr />input_<wbr />tensor(<wbr />UInt<wbr />64)</a>
+    </li>
+  </tocItems>
+</toc>

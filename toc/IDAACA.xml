@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp_element.htm">Open<wbr />Vino<wbr />Sharp.<wbr />element</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_element_Type.htm">Type</a>
+    </li>
+    <li>
+      <a href="Overload_OpenVinoSharp_element_Type__ctor.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type__ctor_2" href="M_OpenVinoSharp_element_Type__ctor_2.htm">Type(<wbr />Element<wbr />Type)</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type__ctor_3" href="M_OpenVinoSharp_element_Type__ctor_3.htm">Type(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type__ctor" href="M_OpenVinoSharp_element_Type__ctor.htm">Type(<wbr />Type)</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type__ctor_1" href="M_OpenVinoSharp_element_Type__ctor_1.htm">Type(<wbr />Type_<wbr />t)</a>
+    </li>
+  </tocItems>
+</toc>

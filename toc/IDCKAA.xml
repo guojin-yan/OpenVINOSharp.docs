@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_Model.htm">Model</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_Model.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="Overload_OpenVinoSharp_Model_const_input" class="has-submenu" href="Overload_OpenVinoSharp_Model_const_input.htm">
+        <span data-tocFile="../toc/IDACKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>const_<wbr />input</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Model_const_inputs" href="M_OpenVinoSharp_Model_const_inputs.htm">const_<wbr />inputs</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_Model_const_output" class="has-submenu" href="Overload_OpenVinoSharp_Model_const_output.htm">
+        <span data-tocFile="../toc/IDCCKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>const_<wbr />output</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Model_const_outputs" href="M_OpenVinoSharp_Model_const_outputs.htm">const_<wbr />outputs</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Model_dispose" href="M_OpenVinoSharp_Model_dispose.htm">dispose</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Model_Finalize" href="M_OpenVinoSharp_Model_Finalize.htm">Finalize</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_Model_get_const_input" class="has-submenu" href="Overload_OpenVinoSharp_Model_get_const_input.htm">
+        <span data-tocFile="../toc/IDGCKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>get_<wbr />const_<wbr />input</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_Model_get_const_output" class="has-submenu" href="Overload_OpenVinoSharp_Model_get_const_output.htm">
+        <span data-tocFile="../toc/IDHCKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>get_<wbr />const_<wbr />output</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Model_get_friendly_name" href="M_OpenVinoSharp_Model_get_friendly_name.htm">get_<wbr />friendly_<wbr />name</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_Model_get_input" class="has-submenu" href="Overload_OpenVinoSharp_Model_get_input.htm">
+        <span data-tocFile="../toc/IDJCKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>get_<wbr />input</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Model_get_inputs_size" href="M_OpenVinoSharp_Model_get_inputs_size.htm">get_<wbr />inputs_<wbr />size</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_Model_get_output" class="has-submenu" href="Overload_OpenVinoSharp_Model_get_output.htm">
+        <span data-tocFile="../toc/IDLCKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>get_<wbr />output</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Model_get_outputs_size" href="M_OpenVinoSharp_Model_get_outputs_size.htm">get_<wbr />outputs_<wbr />size</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_Model_input" class="has-submenu" href="Overload_OpenVinoSharp_Model_input.htm">
+        <span data-tocFile="../toc/IDNCKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>input</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Model_inputs" href="M_OpenVinoSharp_Model_inputs.htm">inputs</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Model_is_dynamic" href="M_OpenVinoSharp_Model_is_dynamic.htm">is_<wbr />dynamic</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_Model_output" class="has-submenu" href="Overload_OpenVinoSharp_Model_output.htm">
+        <span data-tocFile="../toc/IDQCKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>output</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Model_outputs" href="M_OpenVinoSharp_Model_outputs.htm">outputs</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_Model_reshape" class="has-submenu" href="Overload_OpenVinoSharp_Model_reshape.htm">
+        <span data-tocFile="../toc/IDSCKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>reshape</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

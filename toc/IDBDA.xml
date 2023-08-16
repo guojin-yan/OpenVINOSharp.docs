@@ -1,1 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8"?><toc><breadcrumbs><li><a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Docs</a></li><li><a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a></li><li><a href="63c98b09-831c-4d86-7d65-492b082aed6b.htm">Core<wbr />Version<wbr />List</a></li><li><a href="04634394-dc76-5ccf-1be4-199de03fd9db.htm">Fields</a></li></breadcrumbs><tocItems><li><a id="d3c0c50d-cbce-75e8-b4e9-9472b8cf7acb" href="d3c0c50d-cbce-75e8-b4e9-9472b8cf7acb.htm">core_<wbr />version</a></li><li><a id="1e74215b-90bb-11ca-cc27-219e91819c44" href="1e74215b-90bb-11ca-cc27-219e91819c44.htm">size</a></li></tocItems></toc>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp_model_Yolov8.htm">Open<wbr />Vino<wbr />Sharp.<wbr />model.<wbr />Yolov<wbr />8</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_model_Yolov8_Result.htm">Result</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_Result__ctor" href="M_OpenVinoSharp_model_Yolov8_Result__ctor.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="Properties_T_OpenVinoSharp_model_Yolov8_Result" class="has-submenu" href="Properties_T_OpenVinoSharp_model_Yolov8_Result.htm">
+        <span data-tocFile="../toc/IDBBDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="Methods_T_OpenVinoSharp_model_Yolov8_Result" class="has-submenu" href="Methods_T_OpenVinoSharp_model_Yolov8_Result.htm">
+        <span data-tocFile="../toc/IDCBDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="Fields_T_OpenVinoSharp_model_Yolov8_Result" class="has-submenu" href="Fields_T_OpenVinoSharp_model_Yolov8_Result.htm">
+        <span data-tocFile="../toc/IDDBDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

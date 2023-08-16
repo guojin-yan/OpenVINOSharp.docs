@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp_model_Yolov8.htm">Open<wbr />Vino<wbr />Sharp.<wbr />model.<wbr />Yolov<wbr />8</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_model_Yolov8_ResultProcess.htm">Result<wbr />Process</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_model_Yolov8_ResultProcess.htm">Methods</a>
+    </li>
+    <li>
+      <a href="Overload_OpenVinoSharp_model_Yolov8_ResultProcess_print_result.htm">print_<wbr />result</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_print_result_1" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_print_result_1.htm">print_<wbr />result(<wbr />Key<wbr />Value<wbr />Pair&lt;Int<wbr />32, Single&gt;[])</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_print_result" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_print_result.htm">print_<wbr />result(<wbr />Result)</a>
+    </li>
+  </tocItems>
+</toc>

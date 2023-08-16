@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_Ov_ProfilingInfo.htm">Ov.<wbr />Profiling<wbr />Info</a>
+    </li>
+    <li>
+      <a href="Fields_T_OpenVinoSharp_Ov_ProfilingInfo.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="F_OpenVinoSharp_Ov_ProfilingInfo_cpu_time" href="F_OpenVinoSharp_Ov_ProfilingInfo_cpu_time.htm">cpu_<wbr />time</a>
+    </li>
+    <li>
+      <a id="F_OpenVinoSharp_Ov_ProfilingInfo_exec_type" href="F_OpenVinoSharp_Ov_ProfilingInfo_exec_type.htm">exec_<wbr />type</a>
+    </li>
+    <li>
+      <a id="F_OpenVinoSharp_Ov_ProfilingInfo_node_name" href="F_OpenVinoSharp_Ov_ProfilingInfo_node_name.htm">node_<wbr />name</a>
+    </li>
+    <li>
+      <a id="F_OpenVinoSharp_Ov_ProfilingInfo_node_type" href="F_OpenVinoSharp_Ov_ProfilingInfo_node_type.htm">node_<wbr />type</a>
+    </li>
+    <li>
+      <a id="F_OpenVinoSharp_Ov_ProfilingInfo_real_time" href="F_OpenVinoSharp_Ov_ProfilingInfo_real_time.htm">real_<wbr />time</a>
+    </li>
+  </tocItems>
+</toc>

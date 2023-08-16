@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp_element.htm">Open<wbr />Vino<wbr />Sharp.<wbr />element</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_element_Type.htm">Type</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_element_Type.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_bitwidth" href="M_OpenVinoSharp_element_Type_bitwidth.htm">bitwidth</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_c_type_string" href="M_OpenVinoSharp_element_Type_c_type_string.htm">c_<wbr />type_<wbr />string</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_get_type" href="M_OpenVinoSharp_element_Type_get_type.htm">get_<wbr />type</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_get_type_info" href="M_OpenVinoSharp_element_Type_get_type_info.htm">get_<wbr />type_<wbr />info</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_get_type_name" href="M_OpenVinoSharp_element_Type_get_type_name.htm">get_<wbr />type_<wbr />name</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_hash" href="M_OpenVinoSharp_element_Type_hash.htm">hash</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_is_integral" href="M_OpenVinoSharp_element_Type_is_integral.htm">is_<wbr />integral</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_is_integral_number" href="M_OpenVinoSharp_element_Type_is_integral_number.htm">is_<wbr />integral_<wbr />number</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_is_quantized" href="M_OpenVinoSharp_element_Type_is_quantized.htm">is_<wbr />quantized</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_is_real" href="M_OpenVinoSharp_element_Type_is_real.htm">is_<wbr />real</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_is_signed" href="M_OpenVinoSharp_element_Type_is_signed.htm">is_<wbr />signed</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_is_static" href="M_OpenVinoSharp_element_Type_is_static.htm">is_<wbr />static</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_size" href="M_OpenVinoSharp_element_Type_size.htm">size</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_to_string" href="M_OpenVinoSharp_element_Type_to_string.htm">to_<wbr />string</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_element_Type_type_from_string" href="M_OpenVinoSharp_element_Type_type_from_string.htm">type_<wbr />from_<wbr />string</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp_preprocess.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_preprocess_PrePostProcessor.htm">Pre<wbr />Post<wbr />Processor</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_preprocess_PrePostProcessor.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_PrePostProcessor_build" href="M_OpenVinoSharp_preprocess_PrePostProcessor_build.htm">build</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_PrePostProcessor_dispose" href="M_OpenVinoSharp_preprocess_PrePostProcessor_dispose.htm">dispose</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_PrePostProcessor_Finalize" href="M_OpenVinoSharp_preprocess_PrePostProcessor_Finalize.htm">Finalize</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_preprocess_PrePostProcessor_input" class="has-submenu" href="Overload_OpenVinoSharp_preprocess_PrePostProcessor_input.htm">
+        <span data-tocFile="../toc/IDDCHEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>input</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_preprocess_PrePostProcessor_output" class="has-submenu" href="Overload_OpenVinoSharp_preprocess_PrePostProcessor_output.htm">
+        <span data-tocFile="../toc/IDECHEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>output</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

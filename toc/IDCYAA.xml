@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_PartialShape.htm">Partial<wbr />Shape</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_PartialShape.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_PartialShape_get_partial_shape" href="M_OpenVinoSharp_PartialShape_get_partial_shape.htm">get_<wbr />partial_<wbr />shape</a>
+    </li>
+  </tocItems>
+</toc>

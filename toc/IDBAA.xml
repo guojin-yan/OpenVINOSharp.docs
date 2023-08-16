@@ -1,1 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8"?><toc><breadcrumbs><li><a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Docs</a></li><li><a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a></li><li><a href="567989b9-bba2-5819-d1f0-14f3a336da92.htm">Compiled<wbr />Model</a></li><li><a href="118a78c5-7fea-81ec-7794-458ef047455d.htm">Properties</a></li></breadcrumbs><tocItems><li><a id="3a341735-f170-288b-3764-e8d1c3f388c6" href="3a341735-f170-288b-3764-e8d1c3f388c6.htm">Ptr</a></li></tocItems></toc>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_Core.htm">Core</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_Core__ctor" href="M_OpenVinoSharp_Core__ctor.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="Properties_T_OpenVinoSharp_Core" class="has-submenu" href="Properties_T_OpenVinoSharp_Core.htm">
+        <span data-tocFile="../toc/IDBBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="Methods_T_OpenVinoSharp_Core" class="has-submenu" href="Methods_T_OpenVinoSharp_Core.htm">
+        <span data-tocFile="../toc/IDCBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="Fields_T_OpenVinoSharp_Core" class="has-submenu" href="Fields_T_OpenVinoSharp_Core.htm">
+        <span data-tocFile="../toc/IDDBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

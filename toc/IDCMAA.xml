@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_Node.htm">Node</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_Node.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_Node_dispose" href="M_OpenVinoSharp_Node_dispose.htm">dispose</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Node_Finalize" href="M_OpenVinoSharp_Node_Finalize.htm">Finalize</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Node_get_element_type" href="M_OpenVinoSharp_Node_get_element_type.htm">get_<wbr />element_<wbr />type</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Node_get_name" href="M_OpenVinoSharp_Node_get_name.htm">get_<wbr />name</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Node_get_partial_shape" href="M_OpenVinoSharp_Node_get_partial_shape.htm">get_<wbr />partial_<wbr />shape</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Node_get_shape" href="M_OpenVinoSharp_Node_get_shape.htm">get_<wbr />shape</a>
+    </li>
+  </tocItems>
+</toc>

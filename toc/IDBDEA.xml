@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp_preprocess.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_preprocess_InputTensorInfo.htm">Input<wbr />Tensor<wbr />Info</a>
+    </li>
+    <li>
+      <a href="Properties_T_OpenVinoSharp_preprocess_InputTensorInfo.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="P_OpenVinoSharp_preprocess_InputTensorInfo_Ptr" href="P_OpenVinoSharp_preprocess_InputTensorInfo_Ptr.htm">Ptr</a>
+    </li>
+  </tocItems>
+</toc>

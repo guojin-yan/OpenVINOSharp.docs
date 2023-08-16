@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp_preprocess.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_preprocess_PreProcessSteps.htm">Pre<wbr />Process<wbr />Steps</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_preprocess_PreProcessSteps.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_PreProcessSteps_convert_color" href="M_OpenVinoSharp_preprocess_PreProcessSteps_convert_color.htm">convert_<wbr />color</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_PreProcessSteps_convert_element_type" href="M_OpenVinoSharp_preprocess_PreProcessSteps_convert_element_type.htm">convert_<wbr />element_<wbr />type</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_PreProcessSteps_convert_layout" href="M_OpenVinoSharp_preprocess_PreProcessSteps_convert_layout.htm">convert_<wbr />layout</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_preprocess_PreProcessSteps_crop" class="has-submenu" href="Overload_OpenVinoSharp_preprocess_PreProcessSteps_crop.htm">
+        <span data-tocFile="../toc/IDDCIEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>crop</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_PreProcessSteps_dispose" href="M_OpenVinoSharp_preprocess_PreProcessSteps_dispose.htm">dispose</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_PreProcessSteps_Finalize" href="M_OpenVinoSharp_preprocess_PreProcessSteps_Finalize.htm">Finalize</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_PreProcessSteps_mean" href="M_OpenVinoSharp_preprocess_PreProcessSteps_mean.htm">mean</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_PreProcessSteps_resize" href="M_OpenVinoSharp_preprocess_PreProcessSteps_resize.htm">resize</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_PreProcessSteps_reverse_channels" href="M_OpenVinoSharp_preprocess_PreProcessSteps_reverse_channels.htm">reverse_<wbr />channels</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_PreProcessSteps_scale" href="M_OpenVinoSharp_preprocess_PreProcessSteps_scale.htm">scale</a>
+    </li>
+  </tocItems>
+</toc>

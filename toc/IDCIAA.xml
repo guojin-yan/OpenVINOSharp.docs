@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_InferRequest.htm">Infer<wbr />Request</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_InferRequest.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_InferRequest_cancel" href="M_OpenVinoSharp_InferRequest_cancel.htm">cancel</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_InferRequest_dispose" href="M_OpenVinoSharp_InferRequest_dispose.htm">dispose</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_InferRequest_Finalize" href="M_OpenVinoSharp_InferRequest_Finalize.htm">Finalize</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_InferRequest_get_input_tensor" class="has-submenu" href="Overload_OpenVinoSharp_InferRequest_get_input_tensor.htm">
+        <span data-tocFile="../toc/IDDCIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>get_<wbr />input_<wbr />tensor</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_InferRequest_get_output_tensor" class="has-submenu" href="Overload_OpenVinoSharp_InferRequest_get_output_tensor.htm">
+        <span data-tocFile="../toc/IDECIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>get_<wbr />output_<wbr />tensor</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_InferRequest_get_profiling_info" href="M_OpenVinoSharp_InferRequest_get_profiling_info.htm">get_<wbr />profiling_<wbr />info</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_InferRequest_get_tensor" class="has-submenu" href="Overload_OpenVinoSharp_InferRequest_get_tensor.htm">
+        <span data-tocFile="../toc/IDGCIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>get_<wbr />tensor</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_InferRequest_infer" href="M_OpenVinoSharp_InferRequest_infer.htm">infer</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_InferRequest_set_input_tensor" class="has-submenu" href="Overload_OpenVinoSharp_InferRequest_set_input_tensor.htm">
+        <span data-tocFile="../toc/IDICIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>set_<wbr />input_<wbr />tensor</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_InferRequest_set_output_tensor" class="has-submenu" href="Overload_OpenVinoSharp_InferRequest_set_output_tensor.htm">
+        <span data-tocFile="../toc/IDJCIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>set_<wbr />output_<wbr />tensor</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_InferRequest_set_tensor" class="has-submenu" href="Overload_OpenVinoSharp_InferRequest_set_tensor.htm">
+        <span data-tocFile="../toc/IDKCIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>set_<wbr />tensor</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_InferRequest_start_async" href="M_OpenVinoSharp_InferRequest_start_async.htm">start_<wbr />async</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_InferRequest_wait" href="M_OpenVinoSharp_InferRequest_wait.htm">wait</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_InferRequest_wait_for" href="M_OpenVinoSharp_InferRequest_wait_for.htm">wait_<wbr />for</a>
+    </li>
+  </tocItems>
+</toc>

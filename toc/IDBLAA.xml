@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_NativeMethods.htm">Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_NativeMethods.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_available_devices_free" href="M_OpenVinoSharp_NativeMethods_ov_available_devices_free.htm">ov_<wbr />available_<wbr />devices_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_create_infer_request" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_create_infer_request.htm">ov_<wbr />compiled_<wbr />model_<wbr />create_<wbr />infer_<wbr />request</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_export_model" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_export_model.htm">ov_<wbr />compiled_<wbr />model_<wbr />export_<wbr />model</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_free" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_free.htm">ov_<wbr />compiled_<wbr />model_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_get_context" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_get_context.htm">ov_<wbr />compiled_<wbr />model_<wbr />get_<wbr />context</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_get_property" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_get_property.htm">ov_<wbr />compiled_<wbr />model_<wbr />get_<wbr />property</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_get_runtime_model" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_get_runtime_model.htm">ov_<wbr />compiled_<wbr />model_<wbr />get_<wbr />runtime_<wbr />model</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_input" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_input.htm">ov_<wbr />compiled_<wbr />model_<wbr />input</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_input_by_index" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_input_by_index.htm">ov_<wbr />compiled_<wbr />model_<wbr />input_<wbr />by_<wbr />index</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_input_by_name" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_input_by_name.htm">ov_<wbr />compiled_<wbr />model_<wbr />input_<wbr />by_<wbr />name</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_inputs_size" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_inputs_size.htm">ov_<wbr />compiled_<wbr />model_<wbr />inputs_<wbr />size</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_output" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_output.htm">ov_<wbr />compiled_<wbr />model_<wbr />output</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_output_by_index" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_output_by_index.htm">ov_<wbr />compiled_<wbr />model_<wbr />output_<wbr />by_<wbr />index</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_output_by_name" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_output_by_name.htm">ov_<wbr />compiled_<wbr />model_<wbr />output_<wbr />by_<wbr />name</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_outputs_size" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_outputs_size.htm">ov_<wbr />compiled_<wbr />model_<wbr />outputs_<wbr />size</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_compiled_model_set_property" href="M_OpenVinoSharp_NativeMethods_ov_compiled_model_set_property.htm">ov_<wbr />compiled_<wbr />model_<wbr />set_<wbr />property</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_const_port_get_shape" href="M_OpenVinoSharp_NativeMethods_ov_const_port_get_shape.htm">ov_<wbr />const_<wbr />port_<wbr />get_<wbr />shape</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_compile_model" href="M_OpenVinoSharp_NativeMethods_ov_core_compile_model.htm">ov_<wbr />core_<wbr />compile_<wbr />model</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_compile_model_from_file" href="M_OpenVinoSharp_NativeMethods_ov_core_compile_model_from_file.htm">ov_<wbr />core_<wbr />compile_<wbr />model_<wbr />from_<wbr />file</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_NativeMethods_ov_core_compile_model_with_context" class="has-submenu" href="Overload_OpenVinoSharp_NativeMethods_ov_core_compile_model_with_context.htm">
+        <span data-tocFile="../toc/IDTBLAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>ov_<wbr />core_<wbr />compile_<wbr />model_<wbr />with_<wbr />context</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_create" href="M_OpenVinoSharp_NativeMethods_ov_core_create.htm">ov_<wbr />core_<wbr />create</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_create_context" href="M_OpenVinoSharp_NativeMethods_ov_core_create_context.htm">ov_<wbr />core_<wbr />create_<wbr />context</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_create_with_config" href="M_OpenVinoSharp_NativeMethods_ov_core_create_with_config.htm">ov_<wbr />core_<wbr />create_<wbr />with_<wbr />config</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_free" href="M_OpenVinoSharp_NativeMethods_ov_core_free.htm">ov_<wbr />core_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_get_available_devices" href="M_OpenVinoSharp_NativeMethods_ov_core_get_available_devices.htm">ov_<wbr />core_<wbr />get_<wbr />available_<wbr />devices</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_get_property" href="M_OpenVinoSharp_NativeMethods_ov_core_get_property.htm">ov_<wbr />core_<wbr />get_<wbr />property</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_get_versions_by_device_name" href="M_OpenVinoSharp_NativeMethods_ov_core_get_versions_by_device_name.htm">ov_<wbr />core_<wbr />get_<wbr />versions_<wbr />by_<wbr />device_<wbr />name</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_import_model" href="M_OpenVinoSharp_NativeMethods_ov_core_import_model.htm">ov_<wbr />core_<wbr />import_<wbr />model</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_read_model" href="M_OpenVinoSharp_NativeMethods_ov_core_read_model.htm">ov_<wbr />core_<wbr />read_<wbr />model</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_read_model_from_memory" href="M_OpenVinoSharp_NativeMethods_ov_core_read_model_from_memory.htm">ov_<wbr />core_<wbr />read_<wbr />model_<wbr />from_<wbr />memory</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_read_model_unicode" href="M_OpenVinoSharp_NativeMethods_ov_core_read_model_unicode.htm">ov_<wbr />core_<wbr />read_<wbr />model_<wbr />unicode</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_set_property" href="M_OpenVinoSharp_NativeMethods_ov_core_set_property.htm">ov_<wbr />core_<wbr />set_<wbr />property</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_core_versions_free" href="M_OpenVinoSharp_NativeMethods_ov_core_versions_free.htm">ov_<wbr />core_<wbr />versions_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_dimension_is_dynamic" href="M_OpenVinoSharp_NativeMethods_ov_dimension_is_dynamic.htm">ov_<wbr />dimension_<wbr />is_<wbr />dynamic</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_free" href="M_OpenVinoSharp_NativeMethods_ov_free.htm">ov_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_get_error_info" href="M_OpenVinoSharp_NativeMethods_ov_get_error_info.htm">ov_<wbr />get_<wbr />error_<wbr />info</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_get_openvino_version" href="M_OpenVinoSharp_NativeMethods_ov_get_openvino_version.htm">ov_<wbr />get_<wbr />openvino_<wbr />version</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_cancel" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_cancel.htm">ov_<wbr />infer_<wbr />request_<wbr />cancel</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_free" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_free.htm">ov_<wbr />infer_<wbr />request_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_input_tensor" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_input_tensor.htm">ov_<wbr />infer_<wbr />request_<wbr />get_<wbr />input_<wbr />tensor</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_input_tensor_by_index" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_input_tensor_by_index.htm">ov_<wbr />infer_<wbr />request_<wbr />get_<wbr />input_<wbr />tensor_<wbr />by_<wbr />index</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_output_tensor" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_output_tensor.htm">ov_<wbr />infer_<wbr />request_<wbr />get_<wbr />output_<wbr />tensor</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_output_tensor_by_index" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_output_tensor_by_index.htm">ov_<wbr />infer_<wbr />request_<wbr />get_<wbr />output_<wbr />tensor_<wbr />by_<wbr />index</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_profiling_info" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_profiling_info.htm">ov_<wbr />infer_<wbr />request_<wbr />get_<wbr />profiling_<wbr />info</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_tensor" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_tensor.htm">ov_<wbr />infer_<wbr />request_<wbr />get_<wbr />tensor</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_tensor_by_const_port" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_tensor_by_const_port.htm">ov_<wbr />infer_<wbr />request_<wbr />get_<wbr />tensor_<wbr />by_<wbr />const_<wbr />port</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_tensor_by_port" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_get_tensor_by_port.htm">ov_<wbr />infer_<wbr />request_<wbr />get_<wbr />tensor_<wbr />by_<wbr />port</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_infer" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_infer.htm">ov_<wbr />infer_<wbr />request_<wbr />infer</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_callback" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_callback.htm">ov_<wbr />infer_<wbr />request_<wbr />set_<wbr />callback</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_input_tensor" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_input_tensor.htm">ov_<wbr />infer_<wbr />request_<wbr />set_<wbr />input_<wbr />tensor</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_input_tensor_by_index" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_input_tensor_by_index.htm">ov_<wbr />infer_<wbr />request_<wbr />set_<wbr />input_<wbr />tensor_<wbr />by_<wbr />index</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_output_tensor" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_output_tensor.htm">ov_<wbr />infer_<wbr />request_<wbr />set_<wbr />output_<wbr />tensor</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_output_tensor_by_index" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_output_tensor_by_index.htm">ov_<wbr />infer_<wbr />request_<wbr />set_<wbr />output_<wbr />tensor_<wbr />by_<wbr />index</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_tensor" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_tensor.htm">ov_<wbr />infer_<wbr />request_<wbr />set_<wbr />tensor</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_tensor_by_const_port" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_tensor_by_const_port.htm">ov_<wbr />infer_<wbr />request_<wbr />set_<wbr />tensor_<wbr />by_<wbr />const_<wbr />port</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_tensor_by_port" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_set_tensor_by_port.htm">ov_<wbr />infer_<wbr />request_<wbr />set_<wbr />tensor_<wbr />by_<wbr />port</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_start_async" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_start_async.htm">ov_<wbr />infer_<wbr />request_<wbr />start_<wbr />async</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_wait" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_wait.htm">ov_<wbr />infer_<wbr />request_<wbr />wait</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_infer_request_wait_for" href="M_OpenVinoSharp_NativeMethods_ov_infer_request_wait_for.htm">ov_<wbr />infer_<wbr />request_<wbr />wait_<wbr />for</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_layout_create" href="M_OpenVinoSharp_NativeMethods_ov_layout_create.htm">ov_<wbr />layout_<wbr />create</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_layout_free" href="M_OpenVinoSharp_NativeMethods_ov_layout_free.htm">ov_<wbr />layout_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_layout_to_string" href="M_OpenVinoSharp_NativeMethods_ov_layout_to_string.htm">ov_<wbr />layout_<wbr />to_<wbr />string</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_const_input" href="M_OpenVinoSharp_NativeMethods_ov_model_const_input.htm">ov_<wbr />model_<wbr />const_<wbr />input</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_const_input_by_index" href="M_OpenVinoSharp_NativeMethods_ov_model_const_input_by_index.htm">ov_<wbr />model_<wbr />const_<wbr />input_<wbr />by_<wbr />index</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_const_input_by_name" href="M_OpenVinoSharp_NativeMethods_ov_model_const_input_by_name.htm">ov_<wbr />model_<wbr />const_<wbr />input_<wbr />by_<wbr />name</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_const_output" href="M_OpenVinoSharp_NativeMethods_ov_model_const_output.htm">ov_<wbr />model_<wbr />const_<wbr />output</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_const_output_by_index" href="M_OpenVinoSharp_NativeMethods_ov_model_const_output_by_index.htm">ov_<wbr />model_<wbr />const_<wbr />output_<wbr />by_<wbr />index</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_const_output_by_name" href="M_OpenVinoSharp_NativeMethods_ov_model_const_output_by_name.htm">ov_<wbr />model_<wbr />const_<wbr />output_<wbr />by_<wbr />name</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_free" href="M_OpenVinoSharp_NativeMethods_ov_model_free.htm">ov_<wbr />model_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_get_friendly_name" href="M_OpenVinoSharp_NativeMethods_ov_model_get_friendly_name.htm">ov_<wbr />model_<wbr />get_<wbr />friendly_<wbr />name</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_input" href="M_OpenVinoSharp_NativeMethods_ov_model_input.htm">ov_<wbr />model_<wbr />input</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_input_by_index" href="M_OpenVinoSharp_NativeMethods_ov_model_input_by_index.htm">ov_<wbr />model_<wbr />input_<wbr />by_<wbr />index</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_input_by_name" href="M_OpenVinoSharp_NativeMethods_ov_model_input_by_name.htm">ov_<wbr />model_<wbr />input_<wbr />by_<wbr />name</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_inputs_size" href="M_OpenVinoSharp_NativeMethods_ov_model_inputs_size.htm">ov_<wbr />model_<wbr />inputs_<wbr />size</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_is_dynamic" href="M_OpenVinoSharp_NativeMethods_ov_model_is_dynamic.htm">ov_<wbr />model_<wbr />is_<wbr />dynamic</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_output" href="M_OpenVinoSharp_NativeMethods_ov_model_output.htm">ov_<wbr />model_<wbr />output</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_output_by_index" href="M_OpenVinoSharp_NativeMethods_ov_model_output_by_index.htm">ov_<wbr />model_<wbr />output_<wbr />by_<wbr />index</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_output_by_name" href="M_OpenVinoSharp_NativeMethods_ov_model_output_by_name.htm">ov_<wbr />model_<wbr />output_<wbr />by_<wbr />name</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_outputs_size" href="M_OpenVinoSharp_NativeMethods_ov_model_outputs_size.htm">ov_<wbr />model_<wbr />outputs_<wbr />size</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_reshape" href="M_OpenVinoSharp_NativeMethods_ov_model_reshape.htm">ov_<wbr />model_<wbr />reshape</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_reshape_by_port_indexes" href="M_OpenVinoSharp_NativeMethods_ov_model_reshape_by_port_indexes.htm">ov_<wbr />model_<wbr />reshape_<wbr />by_<wbr />port_<wbr />indexes</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_reshape_by_ports" href="M_OpenVinoSharp_NativeMethods_ov_model_reshape_by_ports.htm">ov_<wbr />model_<wbr />reshape_<wbr />by_<wbr />ports</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_reshape_input_by_name" href="M_OpenVinoSharp_NativeMethods_ov_model_reshape_input_by_name.htm">ov_<wbr />model_<wbr />reshape_<wbr />input_<wbr />by_<wbr />name</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_model_reshape_single_input" href="M_OpenVinoSharp_NativeMethods_ov_model_reshape_single_input.htm">ov_<wbr />model_<wbr />reshape_<wbr />single_<wbr />input</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_output_const_port_free" href="M_OpenVinoSharp_NativeMethods_ov_output_const_port_free.htm">ov_<wbr />output_<wbr />const_<wbr />port_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_output_port_free" href="M_OpenVinoSharp_NativeMethods_ov_output_port_free.htm">ov_<wbr />output_<wbr />port_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_partial_shape_create" href="M_OpenVinoSharp_NativeMethods_ov_partial_shape_create.htm">ov_<wbr />partial_<wbr />shape_<wbr />create</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_partial_shape_create_dynamic" href="M_OpenVinoSharp_NativeMethods_ov_partial_shape_create_dynamic.htm">ov_<wbr />partial_<wbr />shape_<wbr />create_<wbr />dynamic</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_partial_shape_create_static" href="M_OpenVinoSharp_NativeMethods_ov_partial_shape_create_static.htm">ov_<wbr />partial_<wbr />shape_<wbr />create_<wbr />static</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_partial_shape_free" href="M_OpenVinoSharp_NativeMethods_ov_partial_shape_free.htm">ov_<wbr />partial_<wbr />shape_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_partial_shape_is_dynamic" href="M_OpenVinoSharp_NativeMethods_ov_partial_shape_is_dynamic.htm">ov_<wbr />partial_<wbr />shape_<wbr />is_<wbr />dynamic</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_partial_shape_to_shape" href="M_OpenVinoSharp_NativeMethods_ov_partial_shape_to_shape.htm">ov_<wbr />partial_<wbr />shape_<wbr />to_<wbr />shape</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_partial_shape_to_string" href="M_OpenVinoSharp_NativeMethods_ov_partial_shape_to_string.htm">ov_<wbr />partial_<wbr />shape_<wbr />to_<wbr />string</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_port_get_any_name" href="M_OpenVinoSharp_NativeMethods_ov_port_get_any_name.htm">ov_<wbr />port_<wbr />get_<wbr />any_<wbr />name</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_port_get_element_type" href="M_OpenVinoSharp_NativeMethods_ov_port_get_element_type.htm">ov_<wbr />port_<wbr />get_<wbr />element_<wbr />type</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_port_get_partial_shape" href="M_OpenVinoSharp_NativeMethods_ov_port_get_partial_shape.htm">ov_<wbr />port_<wbr />get_<wbr />partial_<wbr />shape</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_port_get_shape" href="M_OpenVinoSharp_NativeMethods_ov_port_get_shape.htm">ov_<wbr />port_<wbr />get_<wbr />shape</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_info_free" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_info_free.htm">ov_<wbr />preprocess_<wbr />input_<wbr />info_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_info_get_model_info" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_info_get_model_info.htm">ov_<wbr />preprocess_<wbr />input_<wbr />info_<wbr />get_<wbr />model_<wbr />info</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_info_get_preprocess_steps" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_info_get_preprocess_steps.htm">ov_<wbr />preprocess_<wbr />input_<wbr />info_<wbr />get_<wbr />preprocess_<wbr />steps</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_info_get_tensor_info" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_info_get_tensor_info.htm">ov_<wbr />preprocess_<wbr />input_<wbr />info_<wbr />get_<wbr />tensor_<wbr />info</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_model_info_free" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_model_info_free.htm">ov_<wbr />preprocess_<wbr />input_<wbr />model_<wbr />info_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_model_info_set_layout" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_model_info_set_layout.htm">ov_<wbr />preprocess_<wbr />input_<wbr />model_<wbr />info_<wbr />set_<wbr />layout</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_free" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_free.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_set_color_format" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_set_color_format.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />color_<wbr />format</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_set_color_format_with_subname" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_set_color_format_with_subname.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />color_<wbr />format_<wbr />with_<wbr />subname</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_set_element_type" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_set_element_type.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />element_<wbr />type</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_set_from" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_set_from.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />from</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_set_layout" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_set_layout.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />layout</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_set_memory_type" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_set_memory_type.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />memory_<wbr />type</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_set_spatial_static_shape" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_input_tensor_info_set_spatial_static_shape.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />spatial_<wbr />static_<wbr />shape</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_output_info_free" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_output_info_free.htm">ov_<wbr />preprocess_<wbr />output_<wbr />info_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_output_info_get_tensor_info" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_output_info_get_tensor_info.htm">ov_<wbr />preprocess_<wbr />output_<wbr />info_<wbr />get_<wbr />tensor_<wbr />info</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_output_set_element_type" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_output_set_element_type.htm">ov_<wbr />preprocess_<wbr />output_<wbr />set_<wbr />element_<wbr />type</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_output_tensor_info_free" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_output_tensor_info_free.htm">ov_<wbr />preprocess_<wbr />output_<wbr />tensor_<wbr />info_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_build" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_build.htm">ov_<wbr />preprocess_<wbr />prepostprocessor_<wbr />build</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_create" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_create.htm">ov_<wbr />preprocess_<wbr />prepostprocessor_<wbr />create</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_free" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_free.htm">ov_<wbr />preprocess_<wbr />prepostprocessor_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_get_input_info" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_get_input_info.htm">ov_<wbr />preprocess_<wbr />prepostprocessor_<wbr />get_<wbr />input_<wbr />info</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_get_input_info_by_index" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_get_input_info_by_index.htm">ov_<wbr />preprocess_<wbr />prepostprocessor_<wbr />get_<wbr />input_<wbr />info_<wbr />by_<wbr />index</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_get_input_info_by_name" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_get_input_info_by_name.htm">ov_<wbr />preprocess_<wbr />prepostprocessor_<wbr />get_<wbr />input_<wbr />info_<wbr />by_<wbr />name</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_get_output_info" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_get_output_info.htm">ov_<wbr />preprocess_<wbr />prepostprocessor_<wbr />get_<wbr />output_<wbr />info</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_get_output_info_by_index" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_get_output_info_by_index.htm">ov_<wbr />preprocess_<wbr />prepostprocessor_<wbr />get_<wbr />output_<wbr />info_<wbr />by_<wbr />index</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_get_output_info_by_name" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_prepostprocessor_get_output_info_by_name.htm">ov_<wbr />preprocess_<wbr />prepostprocessor_<wbr />get_<wbr />output_<wbr />info_<wbr />by_<wbr />name</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_convert_color" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_convert_color.htm">ov_<wbr />preprocess_<wbr />preprocess_<wbr />steps_<wbr />convert_<wbr />color</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_convert_element_type" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_convert_element_type.htm">ov_<wbr />preprocess_<wbr />preprocess_<wbr />steps_<wbr />convert_<wbr />element_<wbr />type</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_convert_layout" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_convert_layout.htm">ov_<wbr />preprocess_<wbr />preprocess_<wbr />steps_<wbr />convert_<wbr />layout</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_crop" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_crop.htm">ov_<wbr />preprocess_<wbr />preprocess_<wbr />steps_<wbr />crop</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_free" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_free.htm">ov_<wbr />preprocess_<wbr />preprocess_<wbr />steps_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_mean" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_mean.htm">ov_<wbr />preprocess_<wbr />preprocess_<wbr />steps_<wbr />mean</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_resize" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_resize.htm">ov_<wbr />preprocess_<wbr />preprocess_<wbr />steps_<wbr />resize</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_reverse_channels" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_reverse_channels.htm">ov_<wbr />preprocess_<wbr />preprocess_<wbr />steps_<wbr />reverse_<wbr />channels</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_scale" href="M_OpenVinoSharp_NativeMethods_ov_preprocess_preprocess_steps_scale.htm">ov_<wbr />preprocess_<wbr />preprocess_<wbr />steps_<wbr />scale</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_profiling_info_list_free" href="M_OpenVinoSharp_NativeMethods_ov_profiling_info_list_free.htm">ov_<wbr />profiling_<wbr />info_<wbr />list_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_rank_is_dynamic" href="M_OpenVinoSharp_NativeMethods_ov_rank_is_dynamic.htm">ov_<wbr />rank_<wbr />is_<wbr />dynamic</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_shape_create" href="M_OpenVinoSharp_NativeMethods_ov_shape_create.htm">ov_<wbr />shape_<wbr />create</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_shape_free" href="M_OpenVinoSharp_NativeMethods_ov_shape_free.htm">ov_<wbr />shape_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_shape_to_partial_shape" href="M_OpenVinoSharp_NativeMethods_ov_shape_to_partial_shape.htm">ov_<wbr />shape_<wbr />to_<wbr />partial_<wbr />shape</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_tensor_create" href="M_OpenVinoSharp_NativeMethods_ov_tensor_create.htm">ov_<wbr />tensor_<wbr />create</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_tensor_create_from_host_ptr" href="M_OpenVinoSharp_NativeMethods_ov_tensor_create_from_host_ptr.htm">ov_<wbr />tensor_<wbr />create_<wbr />from_<wbr />host_<wbr />ptr</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_tensor_data" href="M_OpenVinoSharp_NativeMethods_ov_tensor_data.htm">ov_<wbr />tensor_<wbr />data</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_tensor_free" href="M_OpenVinoSharp_NativeMethods_ov_tensor_free.htm">ov_<wbr />tensor_<wbr />free</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_tensor_get_byte_size" href="M_OpenVinoSharp_NativeMethods_ov_tensor_get_byte_size.htm">ov_<wbr />tensor_<wbr />get_<wbr />byte_<wbr />size</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_tensor_get_element_type" href="M_OpenVinoSharp_NativeMethods_ov_tensor_get_element_type.htm">ov_<wbr />tensor_<wbr />get_<wbr />element_<wbr />type</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_tensor_get_shape" href="M_OpenVinoSharp_NativeMethods_ov_tensor_get_shape.htm">ov_<wbr />tensor_<wbr />get_<wbr />shape</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_tensor_get_size" href="M_OpenVinoSharp_NativeMethods_ov_tensor_get_size.htm">ov_<wbr />tensor_<wbr />get_<wbr />size</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_tensor_set_shape" href="M_OpenVinoSharp_NativeMethods_ov_tensor_set_shape.htm">ov_<wbr />tensor_<wbr />set_<wbr />shape</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_NativeMethods_ov_version_free" href="M_OpenVinoSharp_NativeMethods_ov_version_free.htm">ov_<wbr />version_<wbr />free</a>
+    </li>
+  </tocItems>
+</toc>

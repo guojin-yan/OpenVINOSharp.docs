@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_Core_ov_available_devices_t.htm">Core.<wbr />ov_<wbr />available_<wbr />devices_<wbr />t</a>
+    </li>
+    <li>
+      <a href="Fields_T_OpenVinoSharp_Core_ov_available_devices_t.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="F_OpenVinoSharp_Core_ov_available_devices_t_devices" href="F_OpenVinoSharp_Core_ov_available_devices_t_devices.htm">devices</a>
+    </li>
+    <li>
+      <a id="F_OpenVinoSharp_Core_ov_available_devices_t_size" href="F_OpenVinoSharp_Core_ov_available_devices_t_size.htm">size</a>
+    </li>
+  </tocItems>
+</toc>

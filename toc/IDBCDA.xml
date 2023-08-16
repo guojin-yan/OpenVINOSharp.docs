@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp_model_Yolov8.htm">Open<wbr />Vino<wbr />Sharp.<wbr />model.<wbr />Yolov<wbr />8</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_model_Yolov8_ResultProcess.htm">Result<wbr />Process</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_model_Yolov8_ResultProcess.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_draw_cls_result" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_draw_cls_result.htm">draw_<wbr />cls_<wbr />result</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_draw_det_result" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_draw_det_result.htm">draw_<wbr />det_<wbr />result</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_draw_pose_result" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_draw_pose_result.htm">draw_<wbr />pose_<wbr />result</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_draw_poses" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_draw_poses.htm">draw_<wbr />poses</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_draw_seg_result" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_draw_seg_result.htm">draw_<wbr />seg_<wbr />result</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_model_Yolov8_ResultProcess_print_result" class="has-submenu" href="Overload_OpenVinoSharp_model_Yolov8_ResultProcess_print_result.htm">
+        <span data-tocFile="../toc/IDFBCDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>print_<wbr />result</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_process_cls_result" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_process_cls_result.htm">process_<wbr />cls_<wbr />result</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_process_det_result" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_process_det_result.htm">process_<wbr />det_<wbr />result</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_process_pose_result" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_process_pose_result.htm">process_<wbr />pose_<wbr />result</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_process_seg_result" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_process_seg_result.htm">process_<wbr />seg_<wbr />result</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_read_class_names" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_read_class_names.htm">read_<wbr />class_<wbr />names</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_ResultProcess_sigmoid" href="M_OpenVinoSharp_model_Yolov8_ResultProcess_sigmoid.htm">sigmoid</a>
+    </li>
+  </tocItems>
+</toc>

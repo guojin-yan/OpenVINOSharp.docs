@@ -1,1 +1,203 @@
-﻿<?xml version="1.0" encoding="utf-8"?><toc><breadcrumbs><li><a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Docs</a></li><li><a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a></li><li><a href="567989b9-bba2-5819-d1f0-14f3a336da92.htm">Compiled<wbr />Model</a></li></breadcrumbs><tocItems><li><a id="628e5054-faff-4acb-ce2c-ed89dd0ed5dd" href="628e5054-faff-4acb-ce2c-ed89dd0ed5dd.htm">Constructor</a></li><li><a id="118a78c5-7fea-81ec-7794-458ef047455d" class="has-submenu" href="118a78c5-7fea-81ec-7794-458ef047455d.htm"><span data-tocFile="../toc/IDBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;"><i class="fa fa-angle-right"> </i></span>Properties</a><ul class="toc-menu is-hidden"> </ul></li><li><a id="43ccc7ae-6c2e-ea8b-a9ee-5f0497a53105" class="has-submenu" href="43ccc7ae-6c2e-ea8b-a9ee-5f0497a53105.htm"><span data-tocFile="../toc/IDCAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;"><i class="fa fa-angle-right"> </i></span>Methods</a><ul class="toc-menu is-hidden"> </ul></li></tocItems></toc>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="T_OpenVinoSharp_CompiledModel" class="has-submenu" href="T_OpenVinoSharp_CompiledModel.htm">
+        <span data-tocFile="../toc/IDAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Compiled<wbr />Model</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Core" class="has-submenu" href="T_OpenVinoSharp_Core.htm">
+        <span data-tocFile="../toc/IDBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Core</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Core_ov_available_devices_t" class="has-submenu" href="T_OpenVinoSharp_Core_ov_available_devices_t.htm">
+        <span data-tocFile="../toc/IDCAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Core.<wbr />ov_<wbr />available_<wbr />devices_<wbr />t</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_CoreVersion" class="has-submenu" href="T_OpenVinoSharp_CoreVersion.htm">
+        <span data-tocFile="../toc/IDDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Core<wbr />Version</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_CoreVersionList" class="has-submenu" href="T_OpenVinoSharp_CoreVersionList.htm">
+        <span data-tocFile="../toc/IDEAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Core<wbr />Version<wbr />List</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Dimension" class="has-submenu" href="T_OpenVinoSharp_Dimension.htm">
+        <span data-tocFile="../toc/IDFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dimension</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_ElementType" href="T_OpenVinoSharp_ElementType.htm">Element<wbr />Type</a>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_ExceptionStatus" href="T_OpenVinoSharp_ExceptionStatus.htm">Exception<wbr />Status</a>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_InferRequest" class="has-submenu" href="T_OpenVinoSharp_InferRequest.htm">
+        <span data-tocFile="../toc/IDIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Infer<wbr />Request</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Input" class="has-submenu" href="T_OpenVinoSharp_Input.htm">
+        <span data-tocFile="../toc/IDJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Input</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Model" class="has-submenu" href="T_OpenVinoSharp_Model.htm">
+        <span data-tocFile="../toc/IDKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Model</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_NativeMethods" class="has-submenu" href="T_OpenVinoSharp_NativeMethods.htm">
+        <span data-tocFile="../toc/IDLAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Native<wbr />Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Node" class="has-submenu" href="T_OpenVinoSharp_Node.htm">
+        <span data-tocFile="../toc/IDMAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Node</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Node_NodeType" href="T_OpenVinoSharp_Node_NodeType.htm">Node.<wbr />Node<wbr />Type</a>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Output" class="has-submenu" href="T_OpenVinoSharp_Output.htm">
+        <span data-tocFile="../toc/IDOAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Output</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Ov" class="has-submenu" href="T_OpenVinoSharp_Ov.htm">
+        <span data-tocFile="../toc/IDPAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Ov</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Ov_ov_dimension" class="has-submenu" href="T_OpenVinoSharp_Ov_ov_dimension.htm">
+        <span data-tocFile="../toc/IDQAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Ov.<wbr />ov_<wbr />dimension</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Ov_ov_partial_shape" class="has-submenu" href="T_OpenVinoSharp_Ov_ov_partial_shape.htm">
+        <span data-tocFile="../toc/IDRAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Ov.<wbr />ov_<wbr />partial_<wbr />shape</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Ov_ov_profiling_info_list" class="has-submenu" href="T_OpenVinoSharp_Ov_ov_profiling_info_list.htm">
+        <span data-tocFile="../toc/IDSAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Ov.<wbr />ov_<wbr />profiling_<wbr />info_<wbr />list</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Ov_ov_rank" class="has-submenu" href="T_OpenVinoSharp_Ov_ov_rank.htm">
+        <span data-tocFile="../toc/IDTAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Ov.<wbr />ov_<wbr />rank</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Ov_ov_shape" class="has-submenu" href="T_OpenVinoSharp_Ov_ov_shape.htm">
+        <span data-tocFile="../toc/IDUAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Ov.<wbr />ov_<wbr />shape</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Ov_ProfilingInfo" class="has-submenu" href="T_OpenVinoSharp_Ov_ProfilingInfo.htm">
+        <span data-tocFile="../toc/IDVAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Ov.<wbr />Profiling<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Ov_ProfilingInfo_Status" href="T_OpenVinoSharp_Ov_ProfilingInfo_Status.htm">Ov.<wbr />Profiling<wbr />Info.<wbr />Status</a>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_OvType" class="has-submenu" href="T_OpenVinoSharp_OvType.htm">
+        <span data-tocFile="../toc/IDXAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Ov<wbr />Type</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_PartialShape" class="has-submenu" href="T_OpenVinoSharp_PartialShape.htm">
+        <span data-tocFile="../toc/IDYAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Partial<wbr />Shape</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_RemoteContext" class="has-submenu" href="T_OpenVinoSharp_RemoteContext.htm">
+        <span data-tocFile="../toc/IDZAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remote<wbr />Context</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Shape" class="has-submenu" href="T_OpenVinoSharp_Shape.htm">
+        <span data-tocFile="../toc/ID1AA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Shape</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Tensor" class="has-submenu" href="T_OpenVinoSharp_Tensor.htm">
+        <span data-tocFile="../toc/ID2AA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Tensor</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="T_OpenVinoSharp_Version" class="has-submenu" href="T_OpenVinoSharp_Version.htm">
+        <span data-tocFile="../toc/ID3AA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Version</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

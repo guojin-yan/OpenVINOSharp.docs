@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp_model_Yolov8.htm">Open<wbr />Vino<wbr />Sharp.<wbr />model.<wbr />Yolov<wbr />8</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_model_Yolov8_ResultProcess.htm">Result<wbr />Process</a>
+    </li>
+    <li>
+      <a href="Fields_T_OpenVinoSharp_model_Yolov8_ResultProcess.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="F_OpenVinoSharp_model_Yolov8_ResultProcess_categ_nums" href="F_OpenVinoSharp_model_Yolov8_ResultProcess_categ_nums.htm">categ_<wbr />nums</a>
+    </li>
+    <li>
+      <a id="F_OpenVinoSharp_model_Yolov8_ResultProcess_class_names" href="F_OpenVinoSharp_model_Yolov8_ResultProcess_class_names.htm">class_<wbr />names</a>
+    </li>
+    <li>
+      <a id="F_OpenVinoSharp_model_Yolov8_ResultProcess_nms_threshold" href="F_OpenVinoSharp_model_Yolov8_ResultProcess_nms_threshold.htm">nms_<wbr />threshold</a>
+    </li>
+    <li>
+      <a id="F_OpenVinoSharp_model_Yolov8_ResultProcess_scales" href="F_OpenVinoSharp_model_Yolov8_ResultProcess_scales.htm">scales</a>
+    </li>
+    <li>
+      <a id="F_OpenVinoSharp_model_Yolov8_ResultProcess_score_threshold" href="F_OpenVinoSharp_model_Yolov8_ResultProcess_score_threshold.htm">score_<wbr />threshold</a>
+    </li>
+  </tocItems>
+</toc>

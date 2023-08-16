@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_Core.htm">Core</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_Core.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="Overload_OpenVinoSharp_Core_compiled_model" class="has-submenu" href="Overload_OpenVinoSharp_Core_compiled_model.htm">
+        <span data-tocFile="../toc/IDACBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>compiled_<wbr />model</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Core_dispose" href="M_OpenVinoSharp_Core_dispose.htm">dispose</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Core_Finalize" href="M_OpenVinoSharp_Core_Finalize.htm">Finalize</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Core_get_available_devices" href="M_OpenVinoSharp_Core_get_available_devices.htm">get_<wbr />available_<wbr />devices</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Core_get_versions" href="M_OpenVinoSharp_Core_get_versions.htm">get_<wbr />versions</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_Core_read_model" class="has-submenu" href="Overload_OpenVinoSharp_Core_read_model.htm">
+        <span data-tocFile="../toc/IDFCBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>read_<wbr />model</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

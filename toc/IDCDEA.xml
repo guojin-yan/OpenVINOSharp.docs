@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp_preprocess.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_preprocess_InputTensorInfo.htm">Input<wbr />Tensor<wbr />Info</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_preprocess_InputTensorInfo.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_InputTensorInfo_dispose" href="M_OpenVinoSharp_preprocess_InputTensorInfo_dispose.htm">dispose</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_InputTensorInfo_Finalize" href="M_OpenVinoSharp_preprocess_InputTensorInfo_Finalize.htm">Finalize</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_preprocess_InputTensorInfo_set_color_format" class="has-submenu" href="Overload_OpenVinoSharp_preprocess_InputTensorInfo_set_color_format.htm">
+        <span data-tocFile="../toc/IDCCDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>set_<wbr />color_<wbr />format</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_InputTensorInfo_set_element_type" href="M_OpenVinoSharp_preprocess_InputTensorInfo_set_element_type.htm">set_<wbr />element_<wbr />type</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_InputTensorInfo_set_from" href="M_OpenVinoSharp_preprocess_InputTensorInfo_set_from.htm">set_<wbr />from</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_InputTensorInfo_set_layout" href="M_OpenVinoSharp_preprocess_InputTensorInfo_set_layout.htm">set_<wbr />layout</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_InputTensorInfo_set_memory_type" href="M_OpenVinoSharp_preprocess_InputTensorInfo_set_memory_type.htm">set_<wbr />memory_<wbr />type</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_preprocess_InputTensorInfo_set_spatial_static_shape" href="M_OpenVinoSharp_preprocess_InputTensorInfo_set_spatial_static_shape.htm">set_<wbr />spatial_<wbr />static_<wbr />shape</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_Core.htm">Core</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_Core.htm">Methods</a>
+    </li>
+    <li>
+      <a href="Overload_OpenVinoSharp_Core_compiled_model.htm">compiled_<wbr />model</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_Core_compiled_model" href="M_OpenVinoSharp_Core_compiled_model.htm">compiled_<wbr />model(<wbr />Model)</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Core_compiled_model_2" href="M_OpenVinoSharp_Core_compiled_model_2.htm">compiled_<wbr />model(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Core_compiled_model_1" href="M_OpenVinoSharp_Core_compiled_model_1.htm">compiled_<wbr />model(<wbr />Model, String)</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Core_compiled_model_3" href="M_OpenVinoSharp_Core_compiled_model_3.htm">compiled_<wbr />model(<wbr />String, String)</a>
+    </li>
+  </tocItems>
+</toc>

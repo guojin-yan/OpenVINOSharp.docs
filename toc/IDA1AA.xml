@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_Shape.htm">Shape</a>
+    </li>
+    <li>
+      <a href="Overload_OpenVinoSharp_Shape__ctor.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_Shape__ctor_1" href="M_OpenVinoSharp_Shape__ctor_1.htm">Shape(<wbr />Int<wbr />64[])</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Shape__ctor_2" href="M_OpenVinoSharp_Shape__ctor_2.htm">Shape(<wbr />Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_Shape__ctor" href="M_OpenVinoSharp_Shape__ctor.htm">Shape(<wbr />List&lt;Int<wbr />64&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

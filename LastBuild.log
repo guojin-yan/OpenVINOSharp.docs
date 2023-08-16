@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2023.7.8.0" projectFile="E:\GitSpace\OpenVinoSharp\others\API 文档\API生成.shfbproj" started="2023/8/9 10:23:14">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2023.7.8.0" projectFile="E:\GitSpace\OpenVinoSharp\others\API 文档\API生成.shfbproj" started="2023/8/16 17:29:29">
 <buildStep step="Initializing">
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder&#39;
 Locating components in the following folder(s):
@@ -11,12 +11,9 @@ Using presentation style &#39;Default2022&#39; located in &#39;C:\Program Files 
 Loading and initializing plug-ins...
 Website Table of Contents Generator Version 2023.7.8.0
 Copyright &#169; 2006-2023, Eric Woodruff, All Rights Reserved
-</buildStep>
-<buildStep step="ClearWorkFolder">
-Clearing working folder...
 -------------------------------
 Clearing any prior web/markdown output...
-    Ignoring read-only/hidden folder E:\GitSpace\OpenVINOSharp.docs\.git
+    Did not delete folder &#39;E:\GitSpace\OpenVINOSharp.docs\.git&#39; as it contains read-only or hidden folders/files
 </buildStep>
 <buildStep step="ValidatingDocumentationSources">
 Validating and copying documentation source information
@@ -196,18 +193,18 @@ Copying XML comments files
 </buildStep>
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, 英语(美国))...
-    Last step completed in 00:00:00.0000
+    Last step completed in 00:00:00.0010
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0452
+    Last step completed in 00:00:00.0010
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
-[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateRefInfo-2eac5469-6ecb-48c0-be4f-a343f08328d4.proj]
-生成启动时间为 2023/8/9 10:23:15。
+[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateRefInfo-672f3d4d-54e6-44e6-8b26-3dbd5a09373f.proj]
+生成启动时间为 2023/8/16 17:29:30。
 
-节点 1 上的项目“E:\GitSpace\OpenVINOSharp.docs\Working\GenerateRefInfo-2eac5469-6ecb-48c0-be4f-a343f08328d4.proj”(默认目标)。
+节点 1 上的项目“E:\GitSpace\OpenVINOSharp.docs\Working\GenerateRefInfo-672f3d4d-54e6-44e6-8b26-3dbd5a09373f.proj”(默认目标)。
 PrepareForBuild:
   正在创建目录“obj\Debug\”。
 GenerateBindingRedirects:
@@ -217,33 +214,101 @@ GenerateRefInfo:
   ? Microsoft Corporation. All rights reserved.
   No source code context base path specified.  Source context information is unavailable.
   Loaded 1 assemblies for reflection and 166 dependency assemblies.
-  Wrote information on 5 namespaces, 33 types, and 368 members
+  Wrote information on 5 namespaces, 45 types, and 560 members
   Merging duplicate type and member information
   Merged 0 duplicate type(s) and 0 duplicate member(s)
-已完成生成项目“E:\GitSpace\OpenVINOSharp.docs\Working\GenerateRefInfo-2eac5469-6ecb-48c0-be4f-a343f08328d4.proj”(默认目标)的操作。
-    Last step completed in 00:00:00.7348
+已完成生成项目“E:\GitSpace\OpenVINOSharp.docs\Working\GenerateRefInfo-672f3d4d-54e6-44e6-8b26-3dbd5a09373f.proj”(默认目标)的操作。
+    Last step completed in 00:00:00.7705
 </buildStep>
 <buildStep step="ApplyDocumentModel">
 Applying document model to reflection output...
-    Last step completed in 00:00:00.0230
+    Last step completed in 00:00:00.0229
+</buildStep>
+<buildStep step="AddNamespaceGroups">
+Adding namespace group entries...
+Added 0 namespace group entries
+    Last step completed in 00:00:00.0100
 </buildStep>
 <buildStep step="AddApiTopicFilenames">
 Adding topic filenames to API members...
-    Last step completed in 00:00:00.0120
+    Unique name M_OpenVinoSharp_CompiledModel_get_input_1 generated for M:OpenVinoSharp.CompiledModel.get_input(System.String)
+    Unique name M_OpenVinoSharp_CompiledModel_get_input_2 generated for M:OpenVinoSharp.CompiledModel.get_input(System.UInt64)
+    Unique name M_OpenVinoSharp_CompiledModel_get_output_1 generated for M:OpenVinoSharp.CompiledModel.get_output(System.String)
+    Unique name M_OpenVinoSharp_CompiledModel_get_output_2 generated for M:OpenVinoSharp.CompiledModel.get_output(System.UInt64)
+    Unique name M_OpenVinoSharp_CompiledModel_input_1 generated for M:OpenVinoSharp.CompiledModel.input(System.String)
+    Unique name M_OpenVinoSharp_CompiledModel_input_2 generated for M:OpenVinoSharp.CompiledModel.input(System.UInt64)
+    Unique name M_OpenVinoSharp_CompiledModel_output_1 generated for M:OpenVinoSharp.CompiledModel.output(System.String)
+    Unique name M_OpenVinoSharp_CompiledModel_output_2 generated for M:OpenVinoSharp.CompiledModel.output(System.UInt64)
+    Unique name M_OpenVinoSharp_Core_compiled_model_1 generated for M:OpenVinoSharp.Core.compiled_model(OpenVinoSharp.Model,System.String)
+    Unique name M_OpenVinoSharp_Core_compiled_model_2 generated for M:OpenVinoSharp.Core.compiled_model(System.String)
+    Unique name M_OpenVinoSharp_Core_compiled_model_3 generated for M:OpenVinoSharp.Core.compiled_model(System.String,System.String)
+    Unique name M_OpenVinoSharp_Core_read_model_1 generated for M:OpenVinoSharp.Core.read_model(System.String,System.String)
+    Unique name M_OpenVinoSharp_Dimension__ctor_1 generated for M:OpenVinoSharp.Dimension.#ctor(System.Int64,System.Int64)
+    Unique name M_OpenVinoSharp_InferRequest_get_input_tensor_1 generated for M:OpenVinoSharp.InferRequest.get_input_tensor(System.UInt64)
+    Unique name M_OpenVinoSharp_InferRequest_get_output_tensor_1 generated for M:OpenVinoSharp.InferRequest.get_output_tensor(System.UInt64)
+    Unique name M_OpenVinoSharp_InferRequest_get_tensor_1 generated for M:OpenVinoSharp.InferRequest.get_tensor(OpenVinoSharp.Output)
+    Unique name M_OpenVinoSharp_InferRequest_get_tensor_2 generated for M:OpenVinoSharp.InferRequest.get_tensor(System.String)
+    Unique name M_OpenVinoSharp_InferRequest_set_input_tensor_1 generated for M:OpenVinoSharp.InferRequest.set_input_tensor(System.UInt64,OpenVinoSharp.Tensor)
+    Unique name M_OpenVinoSharp_InferRequest_set_output_tensor_1 generated for M:OpenVinoSharp.InferRequest.set_output_tensor(System.UInt64,OpenVinoSharp.Tensor)
+    Unique name M_OpenVinoSharp_InferRequest_set_tensor_1 generated for M:OpenVinoSharp.InferRequest.set_tensor(OpenVinoSharp.Output,OpenVinoSharp.Tensor)
+    Unique name M_OpenVinoSharp_InferRequest_set_tensor_2 generated for M:OpenVinoSharp.InferRequest.set_tensor(System.String,OpenVinoSharp.Tensor)
+    Unique name M_OpenVinoSharp_Model_const_input_1 generated for M:OpenVinoSharp.Model.const_input(System.String)
+    Unique name M_OpenVinoSharp_Model_const_input_2 generated for M:OpenVinoSharp.Model.const_input(System.UInt64)
+    Unique name M_OpenVinoSharp_Model_const_output_1 generated for M:OpenVinoSharp.Model.const_output(System.String)
+    Unique name M_OpenVinoSharp_Model_const_output_2 generated for M:OpenVinoSharp.Model.const_output(System.UInt64)
+    Unique name M_OpenVinoSharp_Model_get_const_input_1 generated for M:OpenVinoSharp.Model.get_const_input(System.String)
+    Unique name M_OpenVinoSharp_Model_get_const_input_2 generated for M:OpenVinoSharp.Model.get_const_input(System.UInt64)
+    Unique name M_OpenVinoSharp_Model_get_const_output_1 generated for M:OpenVinoSharp.Model.get_const_output(System.String)
+    Unique name M_OpenVinoSharp_Model_get_const_output_2 generated for M:OpenVinoSharp.Model.get_const_output(System.UInt64)
+    Unique name M_OpenVinoSharp_Model_get_input_1 generated for M:OpenVinoSharp.Model.get_input(System.String)
+    Unique name M_OpenVinoSharp_Model_get_input_2 generated for M:OpenVinoSharp.Model.get_input(System.UInt64)
+    Unique name M_OpenVinoSharp_Model_get_output_1 generated for M:OpenVinoSharp.Model.get_output(System.String)
+    Unique name M_OpenVinoSharp_Model_get_output_2 generated for M:OpenVinoSharp.Model.get_output(System.UInt64)
+    Unique name M_OpenVinoSharp_Model_input_1 generated for M:OpenVinoSharp.Model.input(System.String)
+    Unique name M_OpenVinoSharp_Model_input_2 generated for M:OpenVinoSharp.Model.input(System.UInt64)
+    Unique name M_OpenVinoSharp_Model_output_1 generated for M:OpenVinoSharp.Model.output(System.String)
+    Unique name M_OpenVinoSharp_Model_output_2 generated for M:OpenVinoSharp.Model.output(System.UInt64)
+    Unique name M_OpenVinoSharp_Model_reshape_1 generated for M:OpenVinoSharp.Model.reshape(System.Collections.Generic.Dictionary{OpenVinoSharp.Node,OpenVinoSharp.PartialShape})
+    Unique name M_OpenVinoSharp_Model_reshape_2 generated for M:OpenVinoSharp.Model.reshape(System.Collections.Generic.Dictionary{System.String,OpenVinoSharp.PartialShape})
+    Unique name M_OpenVinoSharp_Model_reshape_3 generated for M:OpenVinoSharp.Model.reshape(System.Collections.Generic.Dictionary{System.UInt64,OpenVinoSharp.PartialShape})
+    Unique name M_OpenVinoSharp_NativeMethods_ov_core_compile_model_with_context_1 generated for M:OpenVinoSharp.NativeMethods.ov_core_compile_model_with_context(System.IntPtr,System.SByte@,System.IntPtr@)
+    Unique name M_OpenVinoSharp_OvType__ctor_1 generated for M:OpenVinoSharp.OvType.#ctor(OpenVinoSharp.OvType)
+    Unique name M_OpenVinoSharp_OvType__ctor_2 generated for M:OpenVinoSharp.OvType.#ctor(System.String)
+    Unique name M_OpenVinoSharp_Shape__ctor_1 generated for M:OpenVinoSharp.Shape.#ctor(System.Int64[])
+    Unique name M_OpenVinoSharp_Shape__ctor_2 generated for M:OpenVinoSharp.Shape.#ctor(System.IntPtr)
+    Unique name M_OpenVinoSharp_Tensor__ctor_1 generated for M:OpenVinoSharp.Tensor.#ctor(OpenVinoSharp.element.Type,OpenVinoSharp.Shape,OpenVinoSharp.preprocess.OvMat)
+    Unique name M_OpenVinoSharp_Tensor__ctor_2 generated for M:OpenVinoSharp.Tensor.#ctor(OpenVinoSharp.element.Type,OpenVinoSharp.Shape,System.IntPtr)
+    Unique name M_OpenVinoSharp_Tensor__ctor_3 generated for M:OpenVinoSharp.Tensor.#ctor(OpenVinoSharp.Tensor)
+    Unique name M_OpenVinoSharp_Tensor__ctor_4 generated for M:OpenVinoSharp.Tensor.#ctor(System.IntPtr)
+    Unique name M_OpenVinoSharp_element_Type__ctor_1 generated for M:OpenVinoSharp.element.Type.#ctor(OpenVinoSharp.element.Type_t)
+    Unique name M_OpenVinoSharp_element_Type__ctor_2 generated for M:OpenVinoSharp.element.Type.#ctor(OpenVinoSharp.ElementType)
+    Unique name M_OpenVinoSharp_element_Type__ctor_3 generated for M:OpenVinoSharp.element.Type.#ctor(System.String)
+    Unique name M_OpenVinoSharp_model_Yolov8_Result_add_1 generated for M:OpenVinoSharp.model.Yolov8.Result.add(System.Single,OpenCvSharp.Rect,System.Int32)
+    Unique name M_OpenVinoSharp_model_Yolov8_Result_add_2 generated for M:OpenVinoSharp.model.Yolov8.Result.add(System.Single,OpenCvSharp.Rect,System.Int32,OpenCvSharp.Mat)
+    Unique name M_OpenVinoSharp_model_Yolov8_ResultProcess_print_result_1 generated for M:OpenVinoSharp.model.Yolov8.ResultProcess.print_result(System.Collections.Generic.KeyValuePair{System.Int32,System.Single}[])
+    Unique name M_OpenVinoSharp_preprocess_InputTensorInfo_set_color_format_1 generated for M:OpenVinoSharp.preprocess.InputTensorInfo.set_color_format(OpenVinoSharp.preprocess.ColorFormat,System.UInt64)
+    Unique name M_OpenVinoSharp_preprocess_OvMat__ctor_1 generated for M:OpenVinoSharp.preprocess.OvMat.#ctor(System.Byte[],System.UInt64,System.Int32,System.Int32,System.Int32,OpenVinoSharp.ElementType)
+    Unique name M_OpenVinoSharp_preprocess_OvMat__ctor_2 generated for M:OpenVinoSharp.preprocess.OvMat.#ctor(System.String)
+    Unique name M_OpenVinoSharp_preprocess_PrePostProcessor_input_1 generated for M:OpenVinoSharp.preprocess.PrePostProcessor.input(System.String)
+    Unique name M_OpenVinoSharp_preprocess_PrePostProcessor_input_2 generated for M:OpenVinoSharp.preprocess.PrePostProcessor.input(System.UInt64)
+    Unique name M_OpenVinoSharp_preprocess_PrePostProcessor_output_1 generated for M:OpenVinoSharp.preprocess.PrePostProcessor.output(System.String)
+    Unique name M_OpenVinoSharp_preprocess_PrePostProcessor_output_2 generated for M:OpenVinoSharp.preprocess.PrePostProcessor.output(System.UInt64)
+    Unique name M_OpenVinoSharp_preprocess_PreProcessSteps_crop_1 generated for M:OpenVinoSharp.preprocess.PreProcessSteps.crop(System.Int32[],System.Int32[])
+    Last step completed in 00:00:00.0177
 </buildStep>
 <buildStep step="GenerateApiTopicManifest">
 Generating API topic manifest...
-    Last step completed in 00:00:00.0140
+    Last step completed in 00:00:00.0070
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.5345
+    Last step completed in 00:00:00.5364
 </buildStep>
 <buildStep step="GenerateInheritedDocumentation">
 Generating inherited documentation...
 [C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateInheritedDocs.proj]
 
-    Last step completed in 00:00:01.3908
+    Last step completed in 00:00:01.4920
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
@@ -257,22 +322,22 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file for API content...
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.0259
+    Last step completed in 00:00:00.0139
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
-    Last step completed in 00:00:00.3572
+    Last step completed in 00:00:00.3588
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0009
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
 E:\GitSpace\OpenVINOSharp.docs\Working\BuildAssembler.config
   Updating reference topic configurations.
   No conceptual content.  Removing conceptual content components.
-    Last step completed in 00:00:00.0040
+    Last step completed in 00:00:00.0020
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
@@ -281,606 +346,43 @@ Loading TOC info and adding unique IDs to parent nodes
 </plugIn>Loading configuration...
 ResolveReferenceLinksComponent: The member ID URL cache &#39;C:\Users\Intel NUC\AppData\Local\EWSoftware\Sandcastle Help File Builder\Cache\MemberIdUrl.cache&#39; does not exist yet.  All IDs will be looked up in this build which will slow it down.
 Processing topics...
-SHFB: Warning BE0066: ShowMissingComponent: [N:OpenVinoSharp] Missing &lt;summary&gt; documentation
 TopicTransformation: [N:OpenVinoSharp] Unhandled transformation element: ingroupe  Parent element: summary
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.CompiledModel.#ctor(System.IntPtr)] Missing &lt;param name=&quot;ptr&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.CompiledModel.Ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.Core.Ptr] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.CompiledModel.get_runtime_model] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.CompiledModel.input] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.CompiledModel.input(System.String)] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.CompiledModel.input(System.UInt64)] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.CompiledModel.output] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.CompiledModel.output(System.String)] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.CompiledModel.output(System.UInt64)] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
 SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.CoreVersion.version] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.#ctor(System.IntPtr)] Missing &lt;param name=&quot;ptr&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.get_input_tensor] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.get_input_tensor] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.get_input_tensor(System.UInt64)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.get_input_tensor(System.UInt64)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.get_input_tensor(System.UInt64)] Missing &lt;param name=&quot;index&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.get_output_tensor] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.get_output_tensor] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.get_output_tensor(System.UInt64)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.get_output_tensor(System.UInt64)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.get_output_tensor(System.UInt64)] Missing &lt;param name=&quot;index&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.get_tensor(OpenVinoSharp.Node)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.get_tensor(OpenVinoSharp.Node)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.get_tensor(OpenVinoSharp.Node)] Missing &lt;param name=&quot;node&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.InferRequest.Ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_input_tensor(OpenVinoSharp.Tensor)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_input_tensor(OpenVinoSharp.Tensor)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_input_tensor(System.UInt64,OpenVinoSharp.Tensor)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_input_tensor(System.UInt64,OpenVinoSharp.Tensor)] Missing &lt;param name=&quot;index&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_input_tensor(System.UInt64,OpenVinoSharp.Tensor)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_output_tensor(OpenVinoSharp.Tensor)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_output_tensor(OpenVinoSharp.Tensor)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_output_tensor(System.UInt64,OpenVinoSharp.Tensor)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_output_tensor(System.UInt64,OpenVinoSharp.Tensor)] Missing &lt;param name=&quot;index&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_output_tensor(System.UInt64,OpenVinoSharp.Tensor)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_tensor(OpenVinoSharp.Node,OpenVinoSharp.Tensor)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_tensor(OpenVinoSharp.Node,OpenVinoSharp.Tensor)] Missing &lt;param name=&quot;node&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.InferRequest.get_tensor(OpenVinoSharp.Node)] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.InferRequest.get_tensor(OpenVinoSharp.Output)] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.InferRequest.set_input_tensor(OpenVinoSharp.Tensor)] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.InferRequest.set_output_tensor(OpenVinoSharp.Tensor)] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_tensor(OpenVinoSharp.Node,OpenVinoSharp.Tensor)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_tensor(System.String,OpenVinoSharp.Tensor)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_tensor(System.String,OpenVinoSharp.Tensor)] Missing &lt;param name=&quot;tensor_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_tensor(System.String,OpenVinoSharp.Tensor)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.Model] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.#ctor(System.IntPtr)] Missing &lt;param name=&quot;ptr&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_input] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_input] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_input(System.String)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_input(System.String)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_input(System.String)] Missing &lt;param name=&quot;tensor_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_input(System.UInt64)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_input(System.UInt64)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_input(System.UInt64)] Missing &lt;param name=&quot;index&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_output] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_output] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_output(System.String)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_output(System.String)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_output(System.String)] Missing &lt;param name=&quot;tensor_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_output(System.UInt64)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_output(System.UInt64)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_const_output(System.UInt64)] Missing &lt;param name=&quot;index&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_friendly_name] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Model.get_friendly_name] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.Model.m_ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.Model.Ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.NativeMethods] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_create_infer_request(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_create_infer_request(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_create_infer_request(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_create_infer_request(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_export_model(System.IntPtr,System.SByte@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_export_model(System.IntPtr,System.SByte@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_export_model(System.IntPtr,System.SByte@)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_export_model(System.IntPtr,System.SByte@)] Missing &lt;param name=&quot;export_model_path&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_free(System.IntPtr)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_get_context(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_get_context(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_get_context(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_get_context(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;context&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_get_property(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_get_property(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_get_property(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_get_property(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;property_key&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_get_property(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;property_value&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_get_runtime_model(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_get_runtime_model(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_get_runtime_model(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_get_runtime_model(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_input(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_input(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_input(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_input(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;input_port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_input_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_input_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_input_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_input_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;index&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_input_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;input_port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_input_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_input_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_input_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_input_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_input_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;input_port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_inputs_size(System.IntPtr,System.UInt64@)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.Input.m_index] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.Input.m_node] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.NativeMethods.dll_extern] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_inputs_size(System.IntPtr,System.UInt64@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_inputs_size(System.IntPtr,System.UInt64@)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_inputs_size(System.IntPtr,System.UInt64@)] Missing &lt;param name=&quot;size&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_output(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_output(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_output(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_output(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;output_port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_output_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_output_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_output_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_output_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;index&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_output_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;output_port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_output_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_output_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_output_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_output_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_output_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;output_port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_outputs_size(System.IntPtr,System.UInt64@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_outputs_size(System.IntPtr,System.UInt64@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_outputs_size(System.IntPtr,System.UInt64@)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_outputs_size(System.IntPtr,System.UInt64@)] Missing &lt;param name=&quot;size&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_set_property(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_set_property(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_compiled_model_set_property(System.IntPtr)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_const_port_get_shape(System.IntPtr,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_const_port_get_shape(System.IntPtr,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_const_port_get_shape(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_const_port_get_shape(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;tensor_shape&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_compile_model(System.IntPtr,System.IntPtr,System.SByte@,System.UInt64,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_compile_model(System.IntPtr,System.IntPtr,System.SByte@,System.UInt64,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_compile_model(System.IntPtr,System.IntPtr,System.SByte@,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;core&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_compile_model(System.IntPtr,System.IntPtr,System.SByte@,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_compile_model(System.IntPtr,System.IntPtr,System.SByte@,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;device_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_compile_model(System.IntPtr,System.IntPtr,System.SByte@,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;property_args_size&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_compile_model(System.IntPtr,System.IntPtr,System.SByte@,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;compiled_model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_create(System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_create(System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_create(System.IntPtr@)] Missing &lt;param name=&quot;core&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_create_with_config(System.String,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_create_with_config(System.String,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_create_with_config(System.String,System.IntPtr@)] Missing &lt;param name=&quot;xml_config_file&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_create_with_config(System.String,System.IntPtr@)] Missing &lt;param name=&quot;core&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_free(System.IntPtr)] Missing &lt;param name=&quot;core&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_get_versions_by_device_name(System.IntPtr,System.SByte@,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_get_versions_by_device_name(System.IntPtr,System.SByte@,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_get_versions_by_device_name(System.IntPtr,System.SByte@,System.IntPtr)] Missing &lt;param name=&quot;core&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_get_versions_by_device_name(System.IntPtr,System.SByte@,System.IntPtr)] Missing &lt;param name=&quot;device_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_get_versions_by_device_name(System.IntPtr,System.SByte@,System.IntPtr)] Missing &lt;param name=&quot;versions&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model(System.IntPtr,System.Char@,System.Char@,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model(System.IntPtr,System.Char@,System.Char@,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model(System.IntPtr,System.Char@,System.Char@,System.IntPtr@)] Missing &lt;param name=&quot;core&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model(System.IntPtr,System.Char@,System.Char@,System.IntPtr@)] Missing &lt;param name=&quot;model_path&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model(System.IntPtr,System.Char@,System.Char@,System.IntPtr@)] Missing &lt;param name=&quot;bin_path&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model(System.IntPtr,System.Char@,System.Char@,System.IntPtr@)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model_from_memory(System.IntPtr,System.String,System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model_from_memory(System.IntPtr,System.String,System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model_from_memory(System.IntPtr,System.String,System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;core&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model_from_memory(System.IntPtr,System.String,System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;model_path&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model_from_memory(System.IntPtr,System.String,System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;weights&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model_from_memory(System.IntPtr,System.String,System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model_unicode(System.IntPtr,System.String,System.String,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model_unicode(System.IntPtr,System.String,System.String,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model_unicode(System.IntPtr,System.String,System.String,System.IntPtr@)] Missing &lt;param name=&quot;core&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model_unicode(System.IntPtr,System.String,System.String,System.IntPtr@)] Missing &lt;param name=&quot;model_path&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model_unicode(System.IntPtr,System.String,System.String,System.IntPtr@)] Missing &lt;param name=&quot;bin_path&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_read_model_unicode(System.IntPtr,System.String,System.String,System.IntPtr@)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_versions_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_core_versions_free(System.IntPtr)] Missing &lt;param name=&quot;versions&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_free(System.Char@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_free(System.Char@)] Missing &lt;param name=&quot;content&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_get_error_info(System.Int32)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_get_error_info(System.Int32)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_get_error_info(System.Int32)] Missing &lt;param name=&quot;status&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_get_openvino_version(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_get_openvino_version(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_get_openvino_version(System.IntPtr)] Missing &lt;param name=&quot;version&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_input_tensor(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_input_tensor(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_input_tensor(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_input_tensor(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_input_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_input_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_input_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_input_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;idx&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_input_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_output_tensor(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_output_tensor(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_output_tensor(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_output_tensor(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_output_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_output_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_output_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_output_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;idx&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_output_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;tensor_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor_by_const_port(System.IntPtr,System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor_by_const_port(System.IntPtr,System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor_by_const_port(System.IntPtr,System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor_by_const_port(System.IntPtr,System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor_by_const_port(System.IntPtr,System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor_by_port(System.IntPtr,System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor_by_port(System.IntPtr,System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor_by_port(System.IntPtr,System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor_by_port(System.IntPtr,System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_get_tensor_by_port(System.IntPtr,System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_infer(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_infer(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_infer(System.IntPtr)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_input_tensor(System.IntPtr,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_input_tensor(System.IntPtr,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_input_tensor(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_input_tensor(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_input_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_input_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_input_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_input_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr)] Missing &lt;param name=&quot;idx&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_input_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_output_tensor(System.IntPtr,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_output_tensor(System.IntPtr,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_output_tensor(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_output_tensor(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_output_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_output_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_output_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_output_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr)] Missing &lt;param name=&quot;idx&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_output_tensor_by_index(System.IntPtr,System.UInt64,System.IntPtr)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor(System.IntPtr,System.SByte@,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor(System.IntPtr,System.SByte@,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor(System.IntPtr,System.SByte@,System.IntPtr)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor(System.IntPtr,System.SByte@,System.IntPtr)] Missing &lt;param name=&quot;tensor_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor(System.IntPtr,System.SByte@,System.IntPtr)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor_by_const_port(System.IntPtr,System.IntPtr,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor_by_const_port(System.IntPtr,System.IntPtr,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor_by_const_port(System.IntPtr,System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor_by_const_port(System.IntPtr,System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor_by_const_port(System.IntPtr,System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor_by_port(System.IntPtr,System.IntPtr,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor_by_port(System.IntPtr,System.IntPtr,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor_by_port(System.IntPtr,System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;infer_request&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor_by_port(System.IntPtr,System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;port&quot;/&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_infer_request_set_tensor_by_port(System.IntPtr,System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_layout_create(System.SByte@,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_layout_create(System.SByte@,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_layout_create(System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;layout_desc&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_layout_create(System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;layout&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_layout_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_layout_free(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_layout_free(System.IntPtr)] Missing &lt;param name=&quot;layout&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_layout_to_string(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_layout_to_string(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_layout_to_string(System.IntPtr)] Missing &lt;param name=&quot;layout&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_input(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_input(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_input(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_input(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;input_port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_input_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_input_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_input_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_input_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;index&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_input_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;input_port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_input_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_input_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_input_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_input_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;tensor_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_input_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;input_port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_output(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_output(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_output(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_output(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;output_port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_output_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_output_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_output_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_output_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;index&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_output_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;output_port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_output_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_output_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_output_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_output_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;tensor_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_const_output_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;output_port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_free(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_free(System.IntPtr)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_get_friendly_name(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_get_friendly_name(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_get_friendly_name(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_model_get_friendly_name(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;friendly_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_output_const_port_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_output_const_port_free(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_output_const_port_free(System.IntPtr)] Missing &lt;param name=&quot;port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_output_port_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_output_port_free(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_output_port_free(System.IntPtr)] Missing &lt;param name=&quot;port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_any_name(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_any_name(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_any_name(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_any_name(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;tensor_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_element_type(System.IntPtr,System.UInt32@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_element_type(System.IntPtr,System.UInt32@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_element_type(System.IntPtr,System.UInt32@)] Missing &lt;param name=&quot;port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_element_type(System.IntPtr,System.UInt32@)] Missing &lt;param name=&quot;tensor_type&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_partial_shape(System.IntPtr,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_partial_shape(System.IntPtr,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_partial_shape(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_partial_shape(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;partial_shape&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_shape(System.IntPtr,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_shape(System.IntPtr,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_shape(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;port&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_port_get_shape(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;tensor_shape&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_free(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_free(System.IntPtr)] Missing &lt;param name=&quot;preprocess_input_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_get_model_info(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_get_model_info(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_get_model_info(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;preprocess_input_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_get_model_info(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;preprocess_input_model_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_get_preprocess_steps(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_get_preprocess_steps(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_get_preprocess_steps(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;preprocess_input_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_get_preprocess_steps(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;preprocess_input_steps&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_get_tensor_info(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_get_tensor_info(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_get_tensor_info(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;preprocess_input_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_info_get_tensor_info(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;preprocess_input_tensor_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_model_info_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_model_info_free(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_model_info_free(System.IntPtr)] Missing &lt;param name=&quot;preprocess_input_model_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_model_info_set_layout(System.IntPtr,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_model_info_set_layout(System.IntPtr,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_model_info_set_layout(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;preprocess_input_model_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_model_info_set_layout(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;layout&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_free(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_free(System.IntPtr)] Missing &lt;param name=&quot;preprocess_input_tensor_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_color_format(System.IntPtr,System.UInt32)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_color_format(System.IntPtr,System.UInt32)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_color_format(System.IntPtr,System.UInt32)] Missing &lt;param name=&quot;preprocess_input_tensor_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_color_format(System.IntPtr,System.UInt32)] Missing &lt;param name=&quot;color_format&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_color_format_with_subname(System.IntPtr,System.UInt32,System.UInt64)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_color_format_with_subname(System.IntPtr,System.UInt32,System.UInt64)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_color_format_with_subname(System.IntPtr,System.UInt32,System.UInt64)] Missing &lt;param name=&quot;preprocess_input_tensor_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_color_format_with_subname(System.IntPtr,System.UInt32,System.UInt64)] Missing &lt;param name=&quot;color_format&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_color_format_with_subname(System.IntPtr,System.UInt32,System.UInt64)] Missing &lt;param name=&quot;sub_names_size&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_element_type(System.IntPtr,System.UInt32)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_element_type(System.IntPtr,System.UInt32)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_element_type(System.IntPtr,System.UInt32)] Missing &lt;param name=&quot;preprocess_input_tensor_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_element_type(System.IntPtr,System.UInt32)] Missing &lt;param name=&quot;element_type&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_from(System.IntPtr,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_from(System.IntPtr,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_from(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;preprocess_input_tensor_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_from(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_layout(System.IntPtr,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_layout(System.IntPtr,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_layout(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;preprocess_input_tensor_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_layout(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;layout&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_memory_type(System.IntPtr,System.SByte@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_memory_type(System.IntPtr,System.SByte@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_memory_type(System.IntPtr,System.SByte@)] Missing &lt;param name=&quot;preprocess_input_tensor_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_memory_type(System.IntPtr,System.SByte@)] Missing &lt;param name=&quot;mem_type&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_spatial_static_shape(System.IntPtr,System.UInt64,System.UInt64)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_spatial_static_shape(System.IntPtr,System.UInt64,System.UInt64)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_spatial_static_shape(System.IntPtr,System.UInt64,System.UInt64)] Missing &lt;param name=&quot;preprocess_input_tensor_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_spatial_static_shape(System.IntPtr,System.UInt64,System.UInt64)] Missing &lt;param name=&quot;input_height&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_input_tensor_info_set_spatial_static_shape(System.IntPtr,System.UInt64,System.UInt64)] Missing &lt;param name=&quot;input_width&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_output_info_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_output_info_free(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_output_info_free(System.IntPtr)] Missing &lt;param name=&quot;preprocess_output_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_output_info_get_tensor_info(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_output_info_get_tensor_info(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_output_info_get_tensor_info(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;preprocess_output_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_output_info_get_tensor_info(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;preprocess_output_tensor_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_output_set_element_type(System.IntPtr,System.UInt32)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_output_set_element_type(System.IntPtr,System.UInt32)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_output_set_element_type(System.IntPtr,System.UInt32)] Missing &lt;param name=&quot;preprocess_output_tensor_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_output_set_element_type(System.IntPtr,System.UInt32)] Missing &lt;param name=&quot;element_type&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_output_tensor_info_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_output_tensor_info_free(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_output_tensor_info_free(System.IntPtr)] Missing &lt;param name=&quot;preprocess_output_tensor_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_build(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_build(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_build(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;preprocess&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_build(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_create(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_create(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_create(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_create(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;preprocess&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_free(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_free(System.IntPtr)] Missing &lt;param name=&quot;preprocess&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_input_info(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_input_info(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_input_info(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;preprocess&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_input_info(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;preprocess_input_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_input_info_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_input_info_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_input_info_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;preprocess&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_input_info_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;tensor_index&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_input_info_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;preprocess_input_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_input_info_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_input_info_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_input_info_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;preprocess&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_input_info_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;tensor_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_input_info_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;preprocess_input_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_output_info(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_output_info(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_output_info(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;preprocess&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_output_info(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;preprocess_output_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_output_info_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_output_info_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_output_info_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;preprocess&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_output_info_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;tensor_index&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_output_info_by_index(System.IntPtr,System.UInt64,System.IntPtr@)] Missing &lt;param name=&quot;preprocess_output_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_output_info_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_output_info_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_output_info_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;preprocess&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_output_info_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;tensor_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_prepostprocessor_get_output_info_by_name(System.IntPtr,System.SByte@,System.IntPtr@)] Missing &lt;param name=&quot;preprocess_output_info&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_convert_color(System.IntPtr,System.UInt32)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_convert_color(System.IntPtr,System.UInt32)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_convert_color(System.IntPtr,System.UInt32)] Missing &lt;param name=&quot;preprocess_input_process_steps&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_convert_color(System.IntPtr,System.UInt32)] Missing &lt;param name=&quot;color_format&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_convert_element_type(System.IntPtr,System.UInt32)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_convert_element_type(System.IntPtr,System.UInt32)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_convert_element_type(System.IntPtr,System.UInt32)] Missing &lt;param name=&quot;preprocess_input_process_steps&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_convert_element_type(System.IntPtr,System.UInt32)] Missing &lt;param name=&quot;element_type&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_convert_layout(System.IntPtr,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_convert_layout(System.IntPtr,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_convert_layout(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;preprocess_input_process_steps&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_convert_layout(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;layout&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_crop(System.IntPtr,System.Int32@,System.Int32,System.Int32@,System.Int32)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_crop(System.IntPtr,System.Int32@,System.Int32,System.Int32@,System.Int32)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_crop(System.IntPtr,System.Int32@,System.Int32,System.Int32@,System.Int32)] Missing &lt;param name=&quot;preprocess_input_process_steps&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_crop(System.IntPtr,System.Int32@,System.Int32,System.Int32@,System.Int32)] Missing &lt;param name=&quot;begin&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_crop(System.IntPtr,System.Int32@,System.Int32,System.Int32@,System.Int32)] Missing &lt;param name=&quot;begin_size&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_crop(System.IntPtr,System.Int32@,System.Int32,System.Int32@,System.Int32)] Missing &lt;param name=&quot;end&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_crop(System.IntPtr,System.Int32@,System.Int32,System.Int32@,System.Int32)] Missing &lt;param name=&quot;end_size&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_free(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_free(System.IntPtr)] Missing &lt;param name=&quot;preprocess_input_process_steps&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_mean(System.IntPtr,System.Single)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_mean(System.IntPtr,System.Single)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_mean(System.IntPtr,System.Single)] Missing &lt;param name=&quot;preprocess_input_process_steps&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_mean(System.IntPtr,System.Single)] Missing &lt;param name=&quot;value&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_resize(System.IntPtr,System.Int32)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_resize(System.IntPtr,System.Int32)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_resize(System.IntPtr,System.Int32)] Missing &lt;param name=&quot;preprocess_input_process_steps&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_resize(System.IntPtr,System.Int32)] Missing &lt;param name=&quot;resize_algorithm&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_reverse_channels(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_reverse_channels(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_reverse_channels(System.IntPtr)] Missing &lt;param name=&quot;preprocess_input_process_steps&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_scale(System.IntPtr,System.Single)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_scale(System.IntPtr,System.Single)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_scale(System.IntPtr,System.Single)] Missing &lt;param name=&quot;preprocess_input_process_steps&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_preprocess_preprocess_steps_scale(System.IntPtr,System.Single)] Missing &lt;param name=&quot;value&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_shape_create(System.Int64,System.Int64@,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_shape_create(System.Int64,System.Int64@,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_shape_create(System.Int64,System.Int64@,System.IntPtr)] Missing &lt;param name=&quot;rank&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_shape_create(System.Int64,System.Int64@,System.IntPtr)] Missing &lt;param name=&quot;dims&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_shape_create(System.Int64,System.Int64@,System.IntPtr)] Missing &lt;param name=&quot;shape&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_shape_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_shape_free(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_shape_free(System.IntPtr)] Missing &lt;param name=&quot;shape&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_create(System.UInt32,OpenVinoSharp.Shape.ov_shape,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_create(System.UInt32,OpenVinoSharp.Shape.ov_shape,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_create(System.UInt32,OpenVinoSharp.Shape.ov_shape,System.IntPtr@)] Missing &lt;param name=&quot;type&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_create(System.UInt32,OpenVinoSharp.Shape.ov_shape,System.IntPtr@)] Missing &lt;param name=&quot;shape&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_create(System.UInt32,OpenVinoSharp.Shape.ov_shape,System.IntPtr@)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_create_from_host_ptr(System.UInt32,OpenVinoSharp.Shape.ov_shape,System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_create_from_host_ptr(System.UInt32,OpenVinoSharp.Shape.ov_shape,System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_create_from_host_ptr(System.UInt32,OpenVinoSharp.Shape.ov_shape,System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;type&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_create_from_host_ptr(System.UInt32,OpenVinoSharp.Shape.ov_shape,System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;shape&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_create_from_host_ptr(System.UInt32,OpenVinoSharp.Shape.ov_shape,System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;host_ptr&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_create_from_host_ptr(System.UInt32,OpenVinoSharp.Shape.ov_shape,System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_data(System.IntPtr,System.IntPtr@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_data(System.IntPtr,System.IntPtr@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_data(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_data(System.IntPtr,System.IntPtr@)] Missing &lt;param name=&quot;data&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_free(System.IntPtr)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_byte_size(System.IntPtr,System.UInt64@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_byte_size(System.IntPtr,System.UInt64@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_byte_size(System.IntPtr,System.UInt64@)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_byte_size(System.IntPtr,System.UInt64@)] Missing &lt;param name=&quot;byte_size&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_element_type(System.IntPtr,System.UInt32@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_element_type(System.IntPtr,System.UInt32@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_element_type(System.IntPtr,System.UInt32@)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_element_type(System.IntPtr,System.UInt32@)] Missing &lt;param name=&quot;type&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_shape(System.IntPtr,System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_shape(System.IntPtr,System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_shape(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_shape(System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;shape&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_size(System.IntPtr,System.UInt64@)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_size(System.IntPtr,System.UInt64@)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_size(System.IntPtr,System.UInt64@)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_get_size(System.IntPtr,System.UInt64@)] Missing &lt;param name=&quot;elements_size&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_set_shape(System.IntPtr,OpenVinoSharp.Shape.ov_shape)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_set_shape(System.IntPtr,OpenVinoSharp.Shape.ov_shape)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_set_shape(System.IntPtr,OpenVinoSharp.Shape.ov_shape)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_tensor_set_shape(System.IntPtr,OpenVinoSharp.Shape.ov_shape)] Missing &lt;param name=&quot;shape&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_version_free(System.IntPtr)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_version_free(System.IntPtr)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_version_free(System.IntPtr)] Missing &lt;param name=&quot;version&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.Node] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Node.#ctor(System.IntPtr,OpenVinoSharp.Node.NodeType)] Missing &lt;param name=&quot;ptr&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Node.#ctor(System.IntPtr,OpenVinoSharp.Node.NodeType)] Missing &lt;param name=&quot;type&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Node.dispose] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Node.get_name] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Node.get_name] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Node.get_shape] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Node.get_shape] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Node.get_type] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Node.get_type] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.Node.node_type] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.Node.ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.Node.Ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.Node.NodeType] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.OvType] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.OvType.#ctor(OpenVinoSharp.ElementType)] Missing &lt;param name=&quot;t&quot;/&gt; documentation
-SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:OpenVinoSharp.Shape] Member ID URL resolver service failed.  No further look ups will be performed for this build.
-Reason: 远程服务器返回错误: (403) 已禁止。
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.Shape.Ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.Shape.shape] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.#ctor(OpenVinoSharp.element.Type,OpenVinoSharp.Shape)] Missing &lt;param name=&quot;type&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.#ctor(OpenVinoSharp.element.Type,OpenVinoSharp.Shape)] Missing &lt;param name=&quot;shape&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.#ctor(OpenVinoSharp.element.Type,OpenVinoSharp.Shape,OpenVinoSharp.preprocess.OvMat)] Missing &lt;param name=&quot;type&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.#ctor(OpenVinoSharp.element.Type,OpenVinoSharp.Shape,OpenVinoSharp.preprocess.OvMat)] Missing &lt;param name=&quot;shape&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.#ctor(OpenVinoSharp.element.Type,OpenVinoSharp.Shape,OpenVinoSharp.preprocess.OvMat)] Missing &lt;param name=&quot;mat&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.#ctor(System.IntPtr)] Missing &lt;param name=&quot;ptr&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.data] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.data] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.get_byte_size] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.get_byte_size] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.get_data``1(System.Int32)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.get_data``1(System.Int32)] Missing &lt;typeparam name=&quot;T&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.get_data``1(System.Int32)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.get_data``1(System.Int32)] Missing &lt;param name=&quot;length&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.get_size] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.get_size] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.Tensor.Ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.set_data``1(``0[])] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.set_data``1(``0[])] Missing &lt;typeparam name=&quot;T&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Tensor.set_data``1(``0[])] Missing &lt;param name=&quot;input_data&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.Output.m_index] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.Output.m_node] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.PartialShape.#ctor(System.IntPtr)] Missing &lt;param name=&quot;ptr&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.Tensor.set_shape(OpenVinoSharp.Shape)] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Version.#ctor(System.String,System.String)] Missing &lt;param name=&quot;buildNumber&quot;/&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Version.#ctor(System.String,System.String)] Missing &lt;param name=&quot;description&quot;/&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [N:OpenVinoSharp.core] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.core.Layout] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.core.Layout.#ctor(System.String)] Missing &lt;param name=&quot;layout_desc&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.core.Layout.dispose] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.core.Layout.Ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.core.Layout.to_string] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.core.Layout.to_string] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [N:OpenVinoSharp.element] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.#ctor(OpenVinoSharp.element.Type)] Missing &lt;param name=&quot;t&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.#ctor(OpenVinoSharp.element.Type_t)] Missing &lt;param name=&quot;t&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.#ctor(OpenVinoSharp.ElementType)] Missing &lt;param name=&quot;t&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.#ctor(System.String)] Missing &lt;param name=&quot;type&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.bitwidth] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.bitwidth] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.c_type_string] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.c_type_string] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.get_type] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.get_type] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.get_type_name] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.get_type_name] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.hash] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.hash] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.is_integral] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.is_integral] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.is_integral_number] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.is_integral_number] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.is_quantized] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.is_quantized] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.is_real] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.is_real] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.is_signed] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.is_signed] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.is_static] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.is_static] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.size] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.size] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.to_string] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.element.Type.to_string] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [N:OpenVinoSharp.model.Yolov8] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.model.Yolov8.PoseData.#ctor(System.Single[],System.Single[])] Missing &lt;param name=&quot;data&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.model.Yolov8.PoseData.#ctor(System.Single[],System.Single[])] Missing &lt;param name=&quot;scales&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.model.Yolov8.PoseData.point] Missing &lt;summary&gt; documentation
+TopicTransformation: [N:OpenVinoSharp.element] Unhandled transformation element: ingroup  Parent element: summary
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.element.Type.get_type_info(OpenVinoSharp.element.Type_t)] Unknown reference link target &#39;T:OpenVinoSharp.element.TypeInfo&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:OpenVinoSharp.model.Yolov8.PoseData.point] Unknown reference link target &#39;T:OpenCvSharp.Point&#39;.
-SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.model.Yolov8.PoseData.score] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.model.Yolov8.PoseData.to_string] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.model.Yolov8.PoseData.to_string] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.model.Yolov8.Result] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.model.Yolov8.Result.add(System.Single,OpenCvSharp.Rect,OpenVinoSharp.model.Yolov8.PoseData)] Unknown reference link target &#39;T:OpenCvSharp.Rect&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.model.Yolov8.Result.add(System.Single,OpenCvSharp.Rect,System.Int32)] Unknown reference link target &#39;T:OpenCvSharp.Rect&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.model.Yolov8.Result.add(System.Single,OpenCvSharp.Rect,System.Int32,OpenCvSharp.Mat)] Unknown reference link target &#39;T:OpenCvSharp.Rect&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.model.Yolov8.Result.add(System.Single,OpenCvSharp.Rect,System.Int32,OpenCvSharp.Mat)] Unknown reference link target &#39;T:OpenCvSharp.Mat&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:OpenVinoSharp.model.Yolov8.Result.masks] Unknown reference link target &#39;T:OpenCvSharp.Mat&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:OpenVinoSharp.model.Yolov8.Result.rects] Unknown reference link target &#39;T:OpenCvSharp.Rect&#39;.
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.model.Yolov8.ResultProcess] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.model.Yolov8.ResultProcess.#ctor(System.Single[],System.Int32,System.Single,System.Single)] Missing &lt;param name=&quot;categ_nums&quot;/&gt; documentation
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.model.Yolov8.ResultProcess.draw_cls_result(System.Collections.Generic.KeyValuePair{System.Int32,System.Single},OpenCvSharp.Mat)] Unknown reference link target &#39;T:OpenCvSharp.Mat&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.model.Yolov8.ResultProcess.draw_cls_result(System.Collections.Generic.KeyValuePair{System.Int32,System.Single},OpenCvSharp.Mat)] Unknown reference link target &#39;T:OpenCvSharp.Mat&#39;.
@@ -896,60 +398,15 @@ SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.model.Yol
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.model.Yolov8.ResultProcess.draw_seg_result(OpenVinoSharp.model.Yolov8.Result,OpenCvSharp.Mat)] Missing &lt;returns&gt; documentation
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.model.Yolov8.ResultProcess.draw_seg_result(OpenVinoSharp.model.Yolov8.Result,OpenCvSharp.Mat)] Unknown reference link target &#39;T:OpenCvSharp.Mat&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.model.Yolov8.ResultProcess.draw_seg_result(OpenVinoSharp.model.Yolov8.Result,OpenCvSharp.Mat)] Unknown reference link target &#39;T:OpenCvSharp.Mat&#39;.
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.model.Yolov8.ResultProcess.print_result(OpenVinoSharp.model.Yolov8.Result)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.model.Yolov8.ResultProcess.print_result(OpenVinoSharp.model.Yolov8.Result)] Missing &lt;param name=&quot;result&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.model.Yolov8.ResultProcess.print_result(System.Collections.Generic.KeyValuePair{System.Int32,System.Single}[])] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.model.Yolov8.ResultProcess.print_result(System.Collections.Generic.KeyValuePair{System.Int32,System.Single}[])] Missing &lt;param name=&quot;result&quot;/&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.model.Yolov8.ResultProcess.process_seg_result(System.Single[],System.Single[])] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [N:OpenVinoSharp.preprocess] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.preprocess.InputInfo] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputInfo.#ctor(System.IntPtr)] Missing &lt;param name=&quot;ptr&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputInfo.dispose] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputInfo.model] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputInfo.model] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputInfo.preprocess] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputInfo.preprocess] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.preprocess.InputInfo.Ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputInfo.tensor] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputInfo.tensor] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.preprocess.InputModelInfo] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputModelInfo.#ctor(System.IntPtr)] Missing &lt;param name=&quot;ptr&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputModelInfo.dispose] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.preprocess.InputModelInfo.Ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputModelInfo.set_layout(OpenVinoSharp.core.Layout)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputModelInfo.set_layout(OpenVinoSharp.core.Layout)] Missing &lt;param name=&quot;layout&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.preprocess.InputTensorInfo] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.#ctor(System.IntPtr)] Missing &lt;param name=&quot;ptr&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.dispose] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.preprocess.InputTensorInfo.Ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_color_format(OpenVinoSharp.preprocess.ColorFormat)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_color_format(OpenVinoSharp.preprocess.ColorFormat)] Missing &lt;param name=&quot;format&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.model.Yolov8.ResultProcess.sigmoid(System.Single)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.model.Yolov8.ResultProcess.sigmoid(System.Single)] Missing &lt;param name=&quot;a&quot;/&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_color_format(OpenVinoSharp.preprocess.ColorFormat,System.UInt64)] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_color_format(OpenVinoSharp.preprocess.ColorFormat,System.UInt64)] Missing &lt;param name=&quot;format&quot;/&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_color_format(OpenVinoSharp.preprocess.ColorFormat,System.UInt64)] Missing &lt;param name=&quot;sub_names_size&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_element_type(OpenVinoSharp.OvType)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_element_type(OpenVinoSharp.OvType)] Missing &lt;param name=&quot;type&quot;/&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_from(OpenVinoSharp.Tensor)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_from(OpenVinoSharp.Tensor)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_layout(OpenVinoSharp.core.Layout)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_layout(OpenVinoSharp.core.Layout)] Missing &lt;param name=&quot;layout&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_memory_type(System.String)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_memory_type(System.String)] Missing &lt;param name=&quot;mem_type&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_shape(System.UInt64,System.UInt64)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_shape(System.UInt64,System.UInt64)] Missing &lt;param name=&quot;input_height&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_shape(System.UInt64,System.UInt64)] Missing &lt;param name=&quot;input_width&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.preprocess.OutputInfo] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OutputInfo.#ctor(System.IntPtr)] Missing &lt;param name=&quot;ptr&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OutputInfo.dispose] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.preprocess.OutputInfo.Ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OutputInfo.tensor] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OutputInfo.tensor] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.preprocess.OutputTensorInfo] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OutputTensorInfo.#ctor(System.IntPtr)] Missing &lt;param name=&quot;ptr&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OutputTensorInfo.dispose] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.preprocess.OutputTensorInfo.Ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OutputTensorInfo.set_element_type(OpenVinoSharp.ElementType)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OutputTensorInfo.set_element_type(OpenVinoSharp.ElementType)] Missing &lt;param name=&quot;type&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_from(OpenVinoSharp.Tensor)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.InputTensorInfo.set_from(OpenVinoSharp.Tensor)] Missing &lt;param name=&quot;runtime_tensor&quot;/&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.preprocess.OvMat] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OvMat.#ctor(System.Byte[],System.UInt64,System.Int32,System.Int32,System.Int32,OpenVinoSharp.ElementType)] Missing &lt;param name=&quot;mat_data&quot;/&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OvMat.#ctor(System.Byte[],System.UInt64,System.Int32,System.Int32,System.Int32,OpenVinoSharp.ElementType)] Missing &lt;param name=&quot;mat_data_size&quot;/&gt; documentation
@@ -967,55 +424,13 @@ SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.preprocess.OvMat.ma
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OvMat.read(System.String)] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OvMat.read(System.String)] Missing &lt;returns&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OvMat.read(System.String)] Missing &lt;param name=&quot;image_path&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.preprocess.PrePostProcessor] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.#ctor(OpenVinoSharp.Model)] Missing &lt;param name=&quot;model&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.build] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.build] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.dispose] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.input] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.input] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.input(System.String)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.input(System.String)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.input(System.String)] Missing &lt;param name=&quot;tensor_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.input(System.UInt64)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.input(System.UInt64)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.input(System.UInt64)] Missing &lt;param name=&quot;tensor_index&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.output] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.output] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.output(System.String)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.output(System.String)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.output(System.String)] Missing &lt;param name=&quot;tensor_name&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.output(System.UInt64)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.output(System.UInt64)] Missing &lt;returns&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PrePostProcessor.output(System.UInt64)] Missing &lt;param name=&quot;tensor_index&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.preprocess.PrePostProcessor.Ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [T:OpenVinoSharp.preprocess.PreProcessSteps] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.#ctor(System.IntPtr)] Missing &lt;param name=&quot;ptr&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.convert_color(OpenVinoSharp.preprocess.ColorFormat)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.convert_color(OpenVinoSharp.preprocess.ColorFormat)] Missing &lt;param name=&quot;format&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.convert_element_type(OpenVinoSharp.OvType)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.convert_element_type(OpenVinoSharp.OvType)] Missing &lt;param name=&quot;type&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.convert_layout(OpenVinoSharp.core.Layout)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.convert_layout(OpenVinoSharp.core.Layout)] Missing &lt;param name=&quot;layout&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.crop(System.Int32[],System.Int32[])] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.crop(System.Int32[],System.Int32[])] Missing &lt;param name=&quot;begin&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.crop(System.Int32[],System.Int32[])] Missing &lt;param name=&quot;end&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.dispose] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.mean(System.Single)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.mean(System.Single)] Missing &lt;param name=&quot;value&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.preprocess.PreProcessSteps.Ptr] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.resize(OpenVinoSharp.preprocess.ResizeAlgorithm)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.resize(OpenVinoSharp.preprocess.ResizeAlgorithm)] Missing &lt;param name=&quot;resize&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.reverse_channels] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.scale(System.Single)] Missing &lt;summary&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.PreProcessSteps.scale(System.Single)] Missing &lt;param name=&quot;value&quot;/&gt; documentation
-Processed 408 topic(s)
-726 warning(s)
+Processed 657 topic(s)
+76 warning(s)
 CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 3 of 15.
-CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 3 of 30.
+CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 1 of 30.
 <plugIn name="Website Table of Contents Generator" behavior="After" priority="1000">
 Generating TOC fragment files
-</plugIn>    Last step completed in 00:00:11.0647
+</plugIn>    Last step completed in 00:00:08.5213
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -1051,27 +466,27 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Defaul
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.inc.php -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\SearchHelp.inc.php
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.php -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\SearchHelp.php
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\Web.Config -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\Web.Config
-    Last step completed in 00:00:00.0170
+    Last step completed in 00:00:00.0140
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
-    Last step completed in 00:00:00.1991
+    Last step completed in 00:00:00.2007
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
 Copied 500 files
-Copied 573 files for the website content
-    Last step completed in 00:00:00.1830
+Copied 878 files for the website content
+    Last step completed in 00:00:00.2128
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.0630
+    Last step completed in 00:00:00.0748
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 2023/8/9 10:23:29.  Total time: 00:00:15.1213
+Build completed successfully at 2023/8/16 17:29:42.  Total time: 00:00:12.7592
 
 </buildStep>
 </shfbBuild>

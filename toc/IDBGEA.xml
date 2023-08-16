@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp_preprocess.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_preprocess_OvMat.htm">Ov<wbr />Mat</a>
+    </li>
+    <li>
+      <a href="Properties_T_OpenVinoSharp_preprocess_OvMat.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="P_OpenVinoSharp_preprocess_OvMat_mat_channels" href="P_OpenVinoSharp_preprocess_OvMat_mat_channels.htm">mat_<wbr />channels</a>
+    </li>
+    <li>
+      <a id="P_OpenVinoSharp_preprocess_OvMat_mat_data" href="P_OpenVinoSharp_preprocess_OvMat_mat_data.htm">mat_<wbr />data</a>
+    </li>
+    <li>
+      <a id="P_OpenVinoSharp_preprocess_OvMat_mat_data_size" href="P_OpenVinoSharp_preprocess_OvMat_mat_data_size.htm">mat_<wbr />data_<wbr />size</a>
+    </li>
+    <li>
+      <a id="P_OpenVinoSharp_preprocess_OvMat_mat_height" href="P_OpenVinoSharp_preprocess_OvMat_mat_height.htm">mat_<wbr />height</a>
+    </li>
+    <li>
+      <a id="P_OpenVinoSharp_preprocess_OvMat_mat_type" href="P_OpenVinoSharp_preprocess_OvMat_mat_type.htm">mat_<wbr />type</a>
+    </li>
+    <li>
+      <a id="P_OpenVinoSharp_preprocess_OvMat_mat_width" href="P_OpenVinoSharp_preprocess_OvMat_mat_width.htm">mat_<wbr />width</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_CompiledModel.htm">Compiled<wbr />Model</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_CompiledModel.htm">Methods</a>
+    </li>
+    <li>
+      <a href="Overload_OpenVinoSharp_CompiledModel_get_input.htm">get_<wbr />input</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_get_input" href="M_OpenVinoSharp_CompiledModel_get_input.htm">get_<wbr />input</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_get_input_1" href="M_OpenVinoSharp_CompiledModel_get_input_1.htm">get_<wbr />input(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_get_input_2" href="M_OpenVinoSharp_CompiledModel_get_input_2.htm">get_<wbr />input(<wbr />UInt<wbr />64)</a>
+    </li>
+  </tocItems>
+</toc>

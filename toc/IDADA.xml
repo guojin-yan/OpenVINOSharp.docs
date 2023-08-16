@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp_model_Yolov8.htm">Open<wbr />Vino<wbr />Sharp.<wbr />model.<wbr />Yolov<wbr />8</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_model_Yolov8_PoseData.htm">Pose<wbr />Data</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_model_Yolov8_PoseData__ctor" href="M_OpenVinoSharp_model_Yolov8_PoseData__ctor.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="Methods_T_OpenVinoSharp_model_Yolov8_PoseData" class="has-submenu" href="Methods_T_OpenVinoSharp_model_Yolov8_PoseData.htm">
+        <span data-tocFile="../toc/IDBADA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="Fields_T_OpenVinoSharp_model_Yolov8_PoseData" class="has-submenu" href="Fields_T_OpenVinoSharp_model_Yolov8_PoseData.htm">
+        <span data-tocFile="../toc/IDCADA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

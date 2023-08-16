@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Docs</a>
+    </li>
+    <li>
+      <a href="R_Project_OpenVINOSharp_Help_File.htm">Open<wbr />VINOSharp Help File</a>
+    </li>
+    <li>
+      <a href="N_OpenVinoSharp.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="T_OpenVinoSharp_CompiledModel.htm">Compiled<wbr />Model</a>
+    </li>
+    <li>
+      <a href="Methods_T_OpenVinoSharp_CompiledModel.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_create_infer_request" href="M_OpenVinoSharp_CompiledModel_create_infer_request.htm">create_<wbr />infer_<wbr />request</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_dispose" href="M_OpenVinoSharp_CompiledModel_dispose.htm">dispose</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_export_model" href="M_OpenVinoSharp_CompiledModel_export_model.htm">export_<wbr />model</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_Finalize" href="M_OpenVinoSharp_CompiledModel_Finalize.htm">Finalize</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_get_context" href="M_OpenVinoSharp_CompiledModel_get_context.htm">get_<wbr />context</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_CompiledModel_get_input" class="has-submenu" href="Overload_OpenVinoSharp_CompiledModel_get_input.htm">
+        <span data-tocFile="../toc/IDFCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>get_<wbr />input</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_get_inputs_size" href="M_OpenVinoSharp_CompiledModel_get_inputs_size.htm">get_<wbr />inputs_<wbr />size</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_CompiledModel_get_output" class="has-submenu" href="Overload_OpenVinoSharp_CompiledModel_get_output.htm">
+        <span data-tocFile="../toc/IDHCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>get_<wbr />output</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_get_outputs_size" href="M_OpenVinoSharp_CompiledModel_get_outputs_size.htm">get_<wbr />outputs_<wbr />size</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_get_property" href="M_OpenVinoSharp_CompiledModel_get_property.htm">get_<wbr />property</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_get_runtime_model" href="M_OpenVinoSharp_CompiledModel_get_runtime_model.htm">get_<wbr />runtime_<wbr />model</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_CompiledModel_input" class="has-submenu" href="Overload_OpenVinoSharp_CompiledModel_input.htm">
+        <span data-tocFile="../toc/IDLCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>input</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_inputs" href="M_OpenVinoSharp_CompiledModel_inputs.htm">inputs</a>
+    </li>
+    <li>
+      <a id="Overload_OpenVinoSharp_CompiledModel_output" class="has-submenu" href="Overload_OpenVinoSharp_CompiledModel_output.htm">
+        <span data-tocFile="../toc/IDNCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>output</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_outputs" href="M_OpenVinoSharp_CompiledModel_outputs.htm">outputs</a>
+    </li>
+    <li>
+      <a id="M_OpenVinoSharp_CompiledModel_set_property" href="M_OpenVinoSharp_CompiledModel_set_property.htm">set_<wbr />property</a>
+    </li>
+  </tocItems>
+</toc>

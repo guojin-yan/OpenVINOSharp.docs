@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
     </li>
     <li>
-      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
     </li>
     <li>
       <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
@@ -20,6 +20,15 @@
   <tocItems>
     <li>
       <a id="58dadf1b-83da-fcbc-b0d5-ddb1b8cd692e" href="58dadf1b-83da-fcbc-b0d5-ddb1b8cd692e.htm">get_<wbr />dimension</a>
+    </li>
+    <li>
+      <a id="3bf3a226-b094-b318-58fc-eb43d764639d" href="3bf3a226-b094-b318-58fc-eb43d764639d.htm">get_<wbr />max</a>
+    </li>
+    <li>
+      <a id="3ec639f0-e712-a233-b0e5-8a1e6ad2ac16" href="3ec639f0-e712-a233-b0e5-8a1e6ad2ac16.htm">get_<wbr />min</a>
+    </li>
+    <li>
+      <a id="e6f0d678-6ca6-de4e-3acc-88542979892d" href="e6f0d678-6ca6-de4e-3acc-88542979892d.htm">is_<wbr />dynamic</a>
     </li>
   </tocItems>
 </toc>

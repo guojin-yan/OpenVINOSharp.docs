@@ -2,24 +2,27 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
     </li>
     <li>
-      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
     </li>
     <li>
       <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
     </li>
     <li>
-      <a href="45bc244a-0dde-6e37-3019-0c3f0d0f39b8.htm">Ov.<wbr />ov_<wbr />shape</a>
+      <a href="da1a1937-b7e4-09d7-a4a2-6d2531e82bb7.htm">Ov.<wbr />ov_<wbr />rank</a>
     </li>
     <li>
-      <a href="2ede6333-5f9a-e52f-4338-3f81d3a6c117.htm">Methods</a>
+      <a href="ecf599eb-d0e3-b359-b0f3-39717db9090e.htm">Fields</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="7770352f-0f9e-ad91-37e1-37f7c45df2da" href="7770352f-0f9e-ad91-37e1-37f7c45df2da.htm">get_<wbr />dims</a>
+      <a id="a5219fbc-684d-67ee-430a-97b9a53939e9" href="a5219fbc-684d-67ee-430a-97b9a53939e9.htm">max</a>
+    </li>
+    <li>
+      <a id="0b0eccf0-498a-f847-f350-9537c86d5a90" href="0b0eccf0-498a-f847-f350-9537c86d5a90.htm">min</a>
     </li>
   </tocItems>
 </toc>

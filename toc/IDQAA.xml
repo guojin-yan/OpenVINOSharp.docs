@@ -2,24 +2,24 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
     </li>
     <li>
-      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
     </li>
     <li>
       <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
     </li>
     <li>
-      <a href="9f2da02c-6fdb-5eba-eaa0-404efc244a42.htm">Ov.<wbr />ov_<wbr />dimension</a>
+      <a href="cccc9973-4d61-1971-374d-864772816706.htm">Ov</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="52b0c8b5-24ef-dc5e-cbd3-86cc603c5861" class="has-submenu" href="52b0c8b5-24ef-dc5e-cbd3-86cc603c5861.htm">
+      <a id="6b03c39c-89e3-9669-4020-24d0f04b544b" class="has-submenu" href="6b03c39c-89e3-9669-4020-24d0f04b544b.htm">
         <span data-tocFile="../toc/IDAQAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Fields</a>
+        </span>Methods</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>

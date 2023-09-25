@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="840c8811-cbf0-1709-6ae5-6f233c262380.htm">Partial<wbr />Shape</a>
+    </li>
+    <li>
+      <a href="5376dc1a-0258-7898-43fc-fa110ecdebd0.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1b2f9df8-4eed-c35e-32d2-ce3bf47a3254" href="1b2f9df8-4eed-c35e-32d2-ce3bf47a3254.htm">Partial<wbr />Shape(<wbr />Dimension[])</a>
+    </li>
+    <li>
+      <a id="fc5ab35e-3699-7846-4f84-273787c0c446" href="fc5ab35e-3699-7846-4f84-273787c0c446.htm">Partial<wbr />Shape(<wbr />Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="65a05464-1b09-6093-a1bb-cbd16e164734" href="65a05464-1b09-6093-a1bb-cbd16e164734.htm">Partial<wbr />Shape(<wbr />List&lt;Dimension&gt;)</a>
+    </li>
+    <li>
+      <a id="6c358ea7-4f4b-0a47-31a5-f8543fedfd6b" href="6c358ea7-4f4b-0a47-31a5-f8543fedfd6b.htm">Partial<wbr />Shape(<wbr />Shape)</a>
+    </li>
+    <li>
+      <a id="e0bb4692-442f-f3ab-25f8-51fc577a9a51" href="e0bb4692-442f-f3ab-25f8-51fc577a9a51.htm">Partial<wbr />Shape(<wbr />Dimension, Dimension[])</a>
+    </li>
+    <li>
+      <a id="e79d1ad0-b60d-0205-6987-918affc5af7f" href="e79d1ad0-b60d-0205-6987-918affc5af7f.htm">Partial<wbr />Shape(<wbr />Dimension, List&lt;Dimension&gt;)</a>
+    </li>
+    <li>
+      <a id="4a10bab3-92d3-f3ec-3fc3-18460ef44dbb" href="4a10bab3-92d3-f3ec-3fc3-18460ef44dbb.htm">Partial<wbr />Shape(<wbr />Int<wbr />64, List&lt;Int<wbr />64&gt;)</a>
+    </li>
+    <li>
+      <a id="a29fa75f-d59c-d758-4e4b-e64dfd0e947e" href="a29fa75f-d59c-d758-4e4b-e64dfd0e947e.htm">Partial<wbr />Shape(<wbr />Int<wbr />64, Int<wbr />64[])</a>
+    </li>
+  </tocItems>
+</toc>

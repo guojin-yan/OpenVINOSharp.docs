@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
     </li>
     <li>
-      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
     </li>
     <li>
       <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
@@ -18,6 +18,12 @@
     </li>
   </breadcrumbs>
   <tocItems>
+    <li>
+      <a id="d196daf6-d2ef-615b-35f3-f2c12ade7c23" href="d196daf6-d2ef-615b-35f3-f2c12ade7c23.htm">dispose</a>
+    </li>
+    <li>
+      <a id="5152467c-18c0-429f-c0de-56f66cbf64d4" href="5152467c-18c0-429f-c0de-56f66cbf64d4.htm">Finalize</a>
+    </li>
     <li>
       <a id="8f22def8-bc4f-18a2-b26b-f1a6b27fbb74" href="8f22def8-bc4f-18a2-b26b-f1a6b27fbb74.htm">get_<wbr />any_<wbr />name</a>
     </li>

@@ -2,39 +2,36 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
     </li>
     <li>
-      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
     </li>
     <li>
-      <a href="124d247d-d9f2-b35e-5c35-5d878e4175b6.htm">Open<wbr />Vino<wbr />Sharp.<wbr />core</a>
+      <a href="8a390adf-893a-9f44-56ac-b27ccc752957.htm">Open<wbr />Vino<wbr />Sharp.<wbr />element</a>
     </li>
     <li>
-      <a href="3dfbcad7-8325-e92c-3495-2c61861f0fa0.htm">Layout</a>
+      <a href="cca35695-d9e1-b04d-ac05-7f4b1853f9f3.htm">Type</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="65d276da-7357-ca3f-4dee-c03acf621a50" href="65d276da-7357-ca3f-4dee-c03acf621a50.htm">Constructor</a>
-    </li>
-    <li>
-      <a id="dcfad4ce-1ed1-d5b4-1a25-f9d68cea985a" class="has-submenu" href="dcfad4ce-1ed1-d5b4-1a25-f9d68cea985a.htm">
-        <span data-tocFile="../toc/IDBABA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="8f1e3853-b48e-162b-0422-41bce3675347" class="has-submenu" href="8f1e3853-b48e-162b-0422-41bce3675347.htm">
+        <span data-tocFile="../toc/IDAABA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Properties</a>
+        </span>Constructors</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="6d077c82-6af6-98d7-693a-3ecfb835d4fb" class="has-submenu" href="6d077c82-6af6-98d7-693a-3ecfb835d4fb.htm">
-        <span data-tocFile="../toc/IDCABA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="7bc21c0a-aa10-47c2-3cb0-0ab1d646ee4e" class="has-submenu" href="7bc21c0a-aa10-47c2-3cb0-0ab1d646ee4e.htm">
+        <span data-tocFile="../toc/IDBABA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Methods</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="967ea8cb-ba88-7522-c6a4-b58f5bae4e4d" class="has-submenu" href="967ea8cb-ba88-7522-c6a4-b58f5bae4e4d.htm">
-        <span data-tocFile="../toc/IDDABA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="5625398c-b7b6-bf4c-6077-ea8084af52f0" class="has-submenu" href="5625398c-b7b6-bf4c-6077-ea8084af52f0.htm">
+        <span data-tocFile="../toc/IDCABA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Fields</a>
       <ul class="toc-menu is-hidden"> </ul>

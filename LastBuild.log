@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2023.7.8.0" projectFile="E:\GitSpace\OpenVinoSharp\others\API 文档\API生成.shfbproj" started="2023/8/16 17:52:57">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2023.7.8.0" projectFile="E:\GitSpace\OpenVINO-CSharp-API\others\API 文档\API生成.shfbproj" started="2023/9/25 21:05:34">
 <buildStep step="Initializing">
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder&#39;
 Locating components in the following folder(s):
-    E:\GitSpace\OpenVinoSharp\others\API 文档
+    E:\GitSpace\OpenVINO-CSharp-API\others\API 文档
     C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins
     C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components
 Using framework reflection data for &#39;.NET Core/.NET Standard/.NET 5.0+&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Data\.NET&#39;
@@ -11,18 +11,21 @@ Using presentation style &#39;Default2022&#39; located in &#39;C:\Program Files 
 Loading and initializing plug-ins...
 Website Table of Contents Generator Version 2023.7.8.0
 Copyright &#169; 2006-2023, Eric Woodruff, All Rights Reserved
+</buildStep>
+<buildStep step="ClearWorkFolder">
+Clearing working folder...
 -------------------------------
 Clearing any prior web/markdown output...
-    Did not delete folder &#39;E:\GitSpace\OpenVINOSharp.docs\.git&#39; as it contains read-only or hidden folders/files
+    Did not delete folder &#39;E:\GitSpace\OpenVINO-CSharp-API.docs\.git&#39; as it contains read-only or hidden folders/files
 </buildStep>
 <buildStep step="ValidatingDocumentationSources">
 Validating and copying documentation source information
-Source: E:\GitSpace\OpenVinoSharp\src\OpenVINOSharp\OpenVINOSharp.csproj
-    Found project &#39;E:\GitSpace\OpenVinoSharp\src\OpenVINOSharp\OpenVINOSharp.csproj&#39;
+Source: E:\GitSpace\OpenVINO-CSharp-API\src\CSharpAPI\CSharpAPI.csproj
+    Found project &#39;E:\GitSpace\OpenVINO-CSharp-API\src\CSharpAPI\CSharpAPI.csproj&#39;
 
 Parsing project files
     Multi-targeted projects were found.  The common target framework &#39;net6.0&#39; will be used.  Override using the TargetFramework property on the documentation sources.
-    Found assembly &#39;E:\GitSpace\OpenVinoSharp\src\OpenVINOSharp\bin\Release\net6.0\OpenVINOSharp.dll&#39; (.NETCoreApp 6.0)
+    Found assembly &#39;E:\GitSpace\OpenVINO-CSharp-API\src\CSharpAPI\bin\Release\net6.0\OpenVINOCSharp.dll&#39; (.NETCoreApp 6.0)
 
 References to include:
     Microsoft.CSharp
@@ -189,22 +192,22 @@ References to include:
     WindowsBase
 
 Copying XML comments files
-    E:\GitSpace\OpenVinoSharp\src\OpenVINOSharp\bin\Release\net6.0\OpenVINOSharp.xml -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\OpenVINOSharp.xml
+    E:\GitSpace\OpenVINO-CSharp-API\src\CSharpAPI\bin\Release\net6.0\OpenVINOCSharp.xml -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\OpenVINOCSharp.xml
 </buildStep>
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, 英语(美国))...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0030
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0090
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
-[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateRefInfo-065a382e-e813-433b-9475-310c2c5cad70.proj]
-生成启动时间为 2023/8/16 17:52:58。
+[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateRefInfo-6a07b063-4fc3-4788-9b83-fc19037fb878.proj]
+生成启动时间为 2023/9/25 21:05:35。
 
-节点 1 上的项目“E:\GitSpace\OpenVINOSharp.docs\Working\GenerateRefInfo-065a382e-e813-433b-9475-310c2c5cad70.proj”(默认目标)。
+节点 1 上的项目“E:\GitSpace\OpenVINO-CSharp-API.docs\Working\GenerateRefInfo-6a07b063-4fc3-4788-9b83-fc19037fb878.proj”(默认目标)。
 PrepareForBuild:
   正在创建目录“obj\Debug\”。
 GenerateBindingRedirects:
@@ -214,43 +217,43 @@ GenerateRefInfo:
   ? Microsoft Corporation. All rights reserved.
   No source code context base path specified.  Source context information is unavailable.
   Loaded 1 assemblies for reflection and 166 dependency assemblies.
-  Wrote information on 5 namespaces, 45 types, and 560 members
+  Wrote information on 4 namespaces, 45 types, and 583 members
   Merging duplicate type and member information
   Merged 0 duplicate type(s) and 0 duplicate member(s)
-已完成生成项目“E:\GitSpace\OpenVINOSharp.docs\Working\GenerateRefInfo-065a382e-e813-433b-9475-310c2c5cad70.proj”(默认目标)的操作。
-    Last step completed in 00:00:00.7919
+已完成生成项目“E:\GitSpace\OpenVINO-CSharp-API.docs\Working\GenerateRefInfo-6a07b063-4fc3-4788-9b83-fc19037fb878.proj”(默认目标)的操作。
+    Last step completed in 00:00:00.7481
 </buildStep>
 <buildStep step="ApplyDocumentModel">
 Applying document model to reflection output...
-    Last step completed in 00:00:00.0188
+    Last step completed in 00:00:00.0559
 </buildStep>
 <buildStep step="AddNamespaceGroups">
 Adding namespace group entries...
 Added 0 namespace group entries
-    Last step completed in 00:00:00.0159
+    Last step completed in 00:00:00.0190
 </buildStep>
 <buildStep step="AddApiTopicFilenames">
 Adding topic filenames to API members...
-    Last step completed in 00:00:00.0120
+    Last step completed in 00:00:00.0156
 </buildStep>
 <buildStep step="GenerateApiTopicManifest">
 Generating API topic manifest...
-    Last step completed in 00:00:00.0189
+    Last step completed in 00:00:00.0090
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.5203
+    Last step completed in 00:00:00.4946
 </buildStep>
 <buildStep step="GenerateInheritedDocumentation">
 Generating inherited documentation...
 [C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateInheritedDocs.proj]
 
-    Last step completed in 00:00:01.4309
+    Last step completed in 00:00:15.3583
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 No additional content to copy
-    Last step completed in 00:00:00.0000
+    Last step completed in 00:00:00.0019
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
@@ -259,22 +262,22 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file for API content...
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.0133
+    Last step completed in 00:00:00.0249
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
-    Last step completed in 00:00:00.3546
+    Last step completed in 00:00:00.3569
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0070
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
-E:\GitSpace\OpenVINOSharp.docs\Working\BuildAssembler.config
+E:\GitSpace\OpenVINO-CSharp-API.docs\Working\BuildAssembler.config
   Updating reference topic configurations.
   No conceptual content.  Removing conceptual content components.
-    Last step completed in 00:00:00.0026
+    Last step completed in 00:00:00.0090
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
@@ -298,7 +301,6 @@ SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.InferRequ
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.InferRequest.get_tensor(OpenVinoSharp.Output)] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.InferRequest.set_input_tensor(OpenVinoSharp.Tensor)] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.InferRequest.set_output_tensor(OpenVinoSharp.Tensor)] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
-SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.InferRequest.set_tensor(OpenVinoSharp.Node,OpenVinoSharp.Tensor)] Missing &lt;param name=&quot;tensor&quot;/&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.Input.m_index] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.Input.m_node] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.NativeMethods.dll_extern] Missing &lt;summary&gt; documentation
@@ -307,10 +309,10 @@ SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.NativeMethods.ov_in
 SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.Output.m_index] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [F:OpenVinoSharp.Output.m_node] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.PartialShape.#ctor(System.IntPtr)] Missing &lt;param name=&quot;ptr&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.PartialShape.to_string] Missing &lt;returns&gt; documentation
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.Tensor.set_shape(OpenVinoSharp.Shape)] The target attribute is missing or has no value.  You have most likely omitted a cref attribute or left it blank on an XML comments element such as see, seealso, or exception.
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Version.#ctor(System.String,System.String)] Missing &lt;param name=&quot;buildNumber&quot;/&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.Version.#ctor(System.String,System.String)] Missing &lt;param name=&quot;description&quot;/&gt; documentation
-SHFB: Warning BE0066: ShowMissingComponent: [N:OpenVinoSharp.core] Missing &lt;summary&gt; documentation
 TopicTransformation: [N:OpenVinoSharp.element] Unhandled transformation element: ingroup  Parent element: summary
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:OpenVinoSharp.element.Type.get_type_info(OpenVinoSharp.element.Type_t)] Unknown reference link target &#39;T:OpenVinoSharp.element.TypeInfo&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:OpenVinoSharp.model.Yolov8.PoseData.point] Unknown reference link target &#39;T:OpenCvSharp.Point&#39;.
@@ -361,69 +363,70 @@ SHFB: Warning BE0066: ShowMissingComponent: [P:OpenVinoSharp.preprocess.OvMat.ma
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OvMat.read(System.String)] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OvMat.read(System.String)] Missing &lt;returns&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:OpenVinoSharp.preprocess.OvMat.read(System.String)] Missing &lt;param name=&quot;image_path&quot;/&gt; documentation
-Processed 657 topic(s)
-76 warning(s)
+Processed 680 topic(s)
+75 warning(s)
 CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 3 of 15.
 CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 1 of 30.
+ResolveReferenceLinksComponent: 18 entries added to the member ID URL cache.  New cache size: 18 entries
 <plugIn name="Website Table of Contents Generator" behavior="After" priority="1000">
 Generating TOC fragment files
-</plugIn>    Last step completed in 00:00:11.3213
+</plugIn>    Last step completed in 00:00:18.5663
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\bulma.css -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\css\bulma.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\bulma.css.map -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\css\bulma.css.map
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\bulma.min.css -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\css\bulma.min.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\font-awesome.css -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\css\font-awesome.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\font-awesome.min.css -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\css\font-awesome.min.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\ja-JP.css -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\css\ja-JP.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\ko-KR.css -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\css\ko-KR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\presentationStyle.css -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\css\presentationStyle.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\vs.min.css -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\css\vs.min.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\zh-CN.css -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\css\zh-CN.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\zh-TW.css -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\css\zh-TW.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\icons\favicon.ico -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\icons\favicon.ico
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\clipboard.min.js -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\scripts\clipboard.min.js
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\highlight.min.js -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\scripts\highlight.min.js
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\jquery-3.5.1.min.js -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\scripts\jquery-3.5.1.min.js
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\presentationStyle.js -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\scripts\presentationStyle.js
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-brands-400.ttf -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\webfonts\fa-brands-400.ttf
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-brands-400.woff2 -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\webfonts\fa-brands-400.woff2
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-regular-400.ttf -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\webfonts\fa-regular-400.ttf
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-regular-400.woff2 -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\webfonts\fa-regular-400.woff2
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-solid-900.ttf -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\webfonts\fa-solid-900.ttf
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-solid-900.woff2 -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\webfonts\fa-solid-900.woff2
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-v4compatibility.ttf -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\webfonts\fa-v4compatibility.ttf
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-v4compatibility.woff2 -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\webfonts\fa-v4compatibility.woff2
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\GeneralError.html -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\GeneralError.html
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\index.html -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\index.html
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\PageNotFound.html -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\PageNotFound.html
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\search.html -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\search.html
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.aspx -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\SearchHelp.aspx
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.inc.php -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\SearchHelp.inc.php
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.php -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\SearchHelp.php
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\Web.Config -&gt; E:\GitSpace\OpenVINOSharp.docs\Working\Output\Website\Web.Config
-    Last step completed in 00:00:00.0170
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\bulma.css -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\css\bulma.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\bulma.css.map -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\css\bulma.css.map
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\bulma.min.css -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\css\bulma.min.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\font-awesome.css -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\css\font-awesome.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\font-awesome.min.css -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\css\font-awesome.min.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\ja-JP.css -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\css\ja-JP.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\ko-KR.css -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\css\ko-KR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\presentationStyle.css -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\css\presentationStyle.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\vs.min.css -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\css\vs.min.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\zh-CN.css -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\css\zh-CN.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\zh-TW.css -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\css\zh-TW.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\icons\favicon.ico -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\icons\favicon.ico
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\clipboard.min.js -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\scripts\clipboard.min.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\highlight.min.js -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\scripts\highlight.min.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\jquery-3.5.1.min.js -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\scripts\jquery-3.5.1.min.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\presentationStyle.js -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\scripts\presentationStyle.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-brands-400.ttf -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\webfonts\fa-brands-400.ttf
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-brands-400.woff2 -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\webfonts\fa-brands-400.woff2
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-regular-400.ttf -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\webfonts\fa-regular-400.ttf
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-regular-400.woff2 -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\webfonts\fa-regular-400.woff2
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-solid-900.ttf -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\webfonts\fa-solid-900.ttf
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-solid-900.woff2 -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\webfonts\fa-solid-900.woff2
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-v4compatibility.ttf -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\webfonts\fa-v4compatibility.ttf
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-v4compatibility.woff2 -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\webfonts\fa-v4compatibility.woff2
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\GeneralError.html -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\GeneralError.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\index.html -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\index.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\PageNotFound.html -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\PageNotFound.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\search.html -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\search.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.aspx -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\SearchHelp.aspx
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.inc.php -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\SearchHelp.inc.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.php -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\SearchHelp.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\Web.Config -&gt; E:\GitSpace\OpenVINO-CSharp-API.docs\Working\Output\Website\Web.Config
+    Last step completed in 00:00:00.0269
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
-    Last step completed in 00:00:00.2428
+    Last step completed in 00:00:00.2675
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
 Copied 500 files
-Copied 878 files for the website content
-    Last step completed in 00:00:00.2421
+Copied 901 files for the website content
+    Last step completed in 00:00:00.2292
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.0736
+    Last step completed in 00:00:00.0758
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 2023/8/16 17:53:13.  Total time: 00:00:15.5843
+Build completed successfully at 2023/9/25 21:06:11.  Total time: 00:00:36.8940
 
 </buildStep>
 </shfbBuild>

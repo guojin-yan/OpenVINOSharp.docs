@@ -2,30 +2,24 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
     </li>
     <li>
-      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
     </li>
     <li>
       <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
     </li>
     <li>
-      <a href="2e3e98b6-c751-ea92-7de2-d6877f91b09b.htm">Shape</a>
+      <a href="4e7cb3c6-ae62-44c9-64a7-29731496f20b.htm">Remote<wbr />Context</a>
     </li>
     <li>
-      <a href="1a96afe0-78b1-91ee-30d6-71b48112807f.htm">Methods</a>
+      <a href="84117449-1ca6-5525-3744-fb38271f8693.htm">Fields</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="a0e4cb42-bcbe-0ff1-23a4-99b2b8ceb3cc" href="a0e4cb42-bcbe-0ff1-23a4-99b2b8ceb3cc.htm">dispose</a>
-    </li>
-    <li>
-      <a id="b47cea73-b164-6792-2ffa-0edc0c491abd" href="b47cea73-b164-6792-2ffa-0edc0c491abd.htm">Finalize</a>
-    </li>
-    <li>
-      <a id="2b8d9028-fbf2-8982-04fd-ff35b0cf9c5a" href="2b8d9028-fbf2-8982-04fd-ff35b0cf9c5a.htm">to_<wbr />string</a>
+      <a id="e534d011-d4e4-8d37-94ae-1c0ad1d7c5ea" href="e534d011-d4e4-8d37-94ae-1c0ad1d7c5ea.htm">m_<wbr />ptr</a>
     </li>
   </tocItems>
 </toc>

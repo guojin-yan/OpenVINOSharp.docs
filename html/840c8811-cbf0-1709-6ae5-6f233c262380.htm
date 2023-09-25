@@ -26,7 +26,7 @@
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">OpenVINOSharp API Documented</div>
+            <div id="DocumentationTitle" class="level-item">OpenVINO C# API Documented</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -93,7 +93,7 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp</a><br /><strong>Assembly:</strong> OpenVINOSharp (in OpenVINOSharp.dll) Version: 3.0.121.1<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">PartialShape</span></code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">PartialShape</span></dd></dl></div>
+              <strong>Namespace:</strong> <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp</a><br /><strong>Assembly:</strong> OpenVINOCSharp (in OpenVINOCSharp.dll) Version: 3.0.122-test-8<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">PartialShape</span></code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">PartialShape</span></dd></dl></div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
@@ -109,14 +109,68 @@
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Constructors</h2>
-            <div id="IDCEASection">
+            <div id="IDADEASection">
               <table id="ConstructorList" class="table is-hoverable">
                 <tr>
                   <td>
-                    <a href="fc5ab35e-3699-7846-4f84-273787c0c446.htm">PartialShape</a>
+                    <a href="1b2f9df8-4eed-c35e-32d2-ce3bf47a3254.htm">PartialShape(<span id="LSTF90F8369_0" data-languageSpecificText="cpp=array&lt;"></span>Dimension<span id="LSTF90F8369_1" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
                   </td>
                   <td>
-            Constructing partialShape by pointer.
+            Constructing partial shape by dimensions.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="fc5ab35e-3699-7846-4f84-273787c0c446.htm">PartialShape(IntPtr)</a>
+                  </td>
+                  <td>Initializes a new instance of the <span class="selflink">PartialShape</span> class</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="65a05464-1b09-6093-a1bb-cbd16e164734.htm">PartialShape(List<span id="LSTF90F8369_2" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>Dimension<span id="LSTF90F8369_3" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>)</a>
+                  </td>
+                  <td>
+            Constructing partial shape by dimensions.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="6c358ea7-4f4b-0a47-31a5-f8543fedfd6b.htm">PartialShape(Shape)</a>
+                  </td>
+                  <td>
+            Constructing static partial shape by shape.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="e0bb4692-442f-f3ab-25f8-51fc577a9a51.htm">PartialShape(Dimension, <span id="LSTF90F8369_4" data-languageSpecificText="cpp=array&lt;"></span>Dimension<span id="LSTF90F8369_5" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                  </td>
+                  <td>
+            Constructing dynamic partial shape by dimensions.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="e79d1ad0-b60d-0205-6987-918affc5af7f.htm">PartialShape(Dimension, List<span id="LSTF90F8369_6" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>Dimension<span id="LSTF90F8369_7" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>)</a>
+                  </td>
+                  <td>
+            Constructing dynamic partial shape by dimensions.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="4a10bab3-92d3-f3ec-3fc3-18460ef44dbb.htm">PartialShape(Int64, List<span id="LSTF90F8369_8" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>Int64<span id="LSTF90F8369_9" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>)</a>
+                  </td>
+                  <td>
+            Constructing static partial shape by dimensions.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="a29fa75f-d59c-d758-4e4b-e64dfd0e947e.htm">PartialShape(Int64, <span id="LSTF90F8369_10" data-languageSpecificText="cpp=array&lt;"></span>Int64<span id="LSTF90F8369_11" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                  </td>
+                  <td>
+            Constructing static partial shape by dimensions.
             </td>
                 </tr>
               </table>
@@ -125,7 +179,7 @@
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Properties</h2>
-            <div id="IDEEASection">
+            <div id="IDMEASection">
               <table id="PropertyList" class="table is-hoverable">
                 <tr>
                   <td>
@@ -141,14 +195,70 @@
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Methods</h2>
-            <div id="IDDEASection">
+            <div id="IDEEASection">
               <table id="MethodList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="af8a00ac-5da9-7ab6-487b-57b9d730f29f.htm">dispose</a>
+                  </td>
+                  <td>
+            Release unmanaged resources.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="1e210eef-fa77-376c-7e7b-14d138c20a91.htm">Finalize</a>
+                  </td>
+                  <td>
+            Default deconstruction.
+            <br />(Overrides <a href="https://learn.microsoft.com/dotnet/api/system.object.finalize#system-object-finalize" target="_blank" rel="noopener noreferrer">Object<span id="LSTF90F8369_12" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>Finalize<span id="LSTF90F8369_13" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="d197f0a1-8a7e-8c2f-0ccf-ccc9911293bb.htm">get_dimensions</a>
+                  </td>
+                  <td>
+            Get dimensions.
+            </td>
+                </tr>
                 <tr>
                   <td>
                     <a href="3a4a0a47-e026-4cfd-85ee-daf2bb42d216.htm">get_partial_shape</a>
                   </td>
                   <td>
             Get ov_partial_shape
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="7b213713-b443-2416-24e7-b588a3017267.htm">is_dynamic</a>
+                  </td>
+                  <td>
+            Check if this shape is dynamic.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="a5035917-3c05-2a7b-4a91-ce4f14e91b4f.htm">is_static</a>
+                  </td>
+                  <td>
+            Check if this shape is static.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="8d15b713-6f55-f72e-0188-b8c6765b8e01.htm">to_shape</a>
+                  </td>
+                  <td>
+            Convert partial shape without dynamic data to a static shape.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="0a178a29-ad1e-8789-0fe1-9ff7f2993848.htm">to_string</a>
+                  </td>
+                  <td>
+            Get partial shape string.
             </td>
                 </tr>
               </table>
@@ -161,6 +271,14 @@
               <table id="FieldList" class="table is-hoverable">
                 <tr>
                   <td>
+                    <a href="3292627b-51af-3c8a-4244-bd7a5acdb2a3.htm">dimensions</a>
+                  </td>
+                  <td>
+            PartialShape dimensions.
+            </td>
+                </tr>
+                <tr>
+                  <td>
                     <a href="eb5dcbba-a273-645b-1faf-6535bde93941.htm">m_ptr</a>
                   </td>
                   <td>
@@ -169,10 +287,10 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="dbd1c43d-e179-93ef-e637-ae3f8223b09f.htm">shape</a>
+                    <a href="9c24bb94-91b4-9504-325f-affa47672063.htm">rank</a>
                   </td>
                   <td>
-            The struct of ov_partial_shape
+            PartialShape rank.
             </td>
                 </tr>
               </table>
@@ -222,7 +340,7 @@
       </div>
       <footer id="PageFooter" class="footer border-top py-3 fixedFooter">
         <div class="columns">
-          <div class="column">Copyright © 2023 Yan Guojin OpenVINOSharp. All rights reserved.<p><a href="https://github.com/guojin-yan/OpenVINOSharp" target="_blank" rel="noopener noreferrer">Copyright © 2023 Yan Guojin OpenVINOSharp. All rights reserved.</a></p> 
+          <div class="column">Copyright © 2023 Yan Guojin OpenVINO C# API. All rights reserved.<p><a href="https://github.com/guojin-yan/OpenVINO-CSharp-API" target="_blank" rel="noopener noreferrer">Copyright © 2023 Yan Guojin OpenVINO C# API. All rights reserved.</a></p> 
 				</div>
           <div class="column"> 
 				</div>

@@ -2,27 +2,54 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Docs</a>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
     </li>
     <li>
-      <a href="52b86269-2820-bfe0-6c96-29b485f089ff.htm">Open<wbr />VINOSharp Help File</a>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
     </li>
     <li>
       <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
     </li>
     <li>
-      <a href="5c63ba7c-12bf-33a9-3cbb-f7926f961c49.htm">Version</a>
+      <a href="f23db667-2dde-f372-1b3d-e0e0eda400ea.htm">Tensor</a>
     </li>
     <li>
-      <a href="694a8b4e-0571-3899-3473-08396d46c4de.htm">Fields</a>
+      <a href="e093793f-38e7-b99c-f36b-a40800b776f3.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="39ae3e0f-ef58-ae05-5859-c2d6698b0fc8" href="39ae3e0f-ef58-ae05-5859-c2d6698b0fc8.htm">build<wbr />Number</a>
+      <a id="6a70952f-5c1a-d3ff-421b-192d3a1bbb34" href="6a70952f-5c1a-d3ff-421b-192d3a1bbb34.htm">copy_<wbr />to&lt;T&gt;</a>
     </li>
     <li>
-      <a id="ee377f8f-54cb-44af-537b-1ae3aed253e8" href="ee377f8f-54cb-44af-537b-1ae3aed253e8.htm">description</a>
+      <a id="e701c8df-4c78-363a-ee23-f6660fe4d00c" href="e701c8df-4c78-363a-ee23-f6660fe4d00c.htm">data</a>
+    </li>
+    <li>
+      <a id="582e2bda-06e0-a497-8f81-9b207373ff48" href="582e2bda-06e0-a497-8f81-9b207373ff48.htm">dispose</a>
+    </li>
+    <li>
+      <a id="979d9531-cc2b-b92d-1942-5f7fad25178b" href="979d9531-cc2b-b92d-1942-5f7fad25178b.htm">Finalize</a>
+    </li>
+    <li>
+      <a id="d6e791eb-e20f-7ce3-c1e9-bfb87901b4ba" href="d6e791eb-e20f-7ce3-c1e9-bfb87901b4ba.htm">get_<wbr />byte_<wbr />size</a>
+    </li>
+    <li>
+      <a id="d2e6746c-c3bd-b9ff-1c8d-2880becb3af4" href="d2e6746c-c3bd-b9ff-1c8d-2880becb3af4.htm">get_<wbr />data&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="315e49ee-0ff7-d2a8-ba1c-11eb5595b8c8" href="315e49ee-0ff7-d2a8-ba1c-11eb5595b8c8.htm">get_<wbr />element_<wbr />type</a>
+    </li>
+    <li>
+      <a id="7959aaef-af67-e968-1407-44623e6dfa25" href="7959aaef-af67-e968-1407-44623e6dfa25.htm">get_<wbr />shape</a>
+    </li>
+    <li>
+      <a id="3508c900-a63b-55c0-3220-748c718eaccf" href="3508c900-a63b-55c0-3220-748c718eaccf.htm">get_<wbr />size</a>
+    </li>
+    <li>
+      <a id="7e37225d-f1eb-eaec-e03c-b74fa5901fe3" href="7e37225d-f1eb-eaec-e03c-b74fa5901fe3.htm">set_<wbr />data&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="d7fba5de-90d5-56d8-a5c6-a33f787f3bf0" href="d7fba5de-90d5-56d8-a5c6-a33f787f3bf0.htm">set_<wbr />shape</a>
     </li>
   </tocItems>
 </toc>

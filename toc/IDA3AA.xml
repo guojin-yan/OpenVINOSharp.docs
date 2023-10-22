@@ -28,7 +28,7 @@
       <a id="6feece4b-fc13-5e98-faa6-686fcc00747b" href="6feece4b-fc13-5e98-faa6-686fcc00747b.htm">Tensor(<wbr />Type, Shape)</a>
     </li>
     <li>
-      <a id="ba8a19d9-84d6-6e4b-ab0a-dae1f85f72cc" href="ba8a19d9-84d6-6e4b-ab0a-dae1f85f72cc.htm">Tensor(<wbr />Type, Shape, Ov<wbr />Mat)</a>
+      <a id="7bd2487b-fc1b-3776-af22-8344cb77ef26" href="7bd2487b-fc1b-3776-af22-8344cb77ef26.htm">Tensor(<wbr />Type, Shape, Byte[])</a>
     </li>
     <li>
       <a id="e2192220-f344-166b-4847-94b98641e351" href="e2192220-f344-166b-4847-94b98641e351.htm">Tensor(<wbr />Type, Shape, Int<wbr />Ptr)</a>

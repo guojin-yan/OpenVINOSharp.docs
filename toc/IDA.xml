@@ -24,15 +24,8 @@
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="87e56f39-9a13-9a34-8ae4-0e78efbe8205" class="has-submenu" href="87e56f39-9a13-9a34-8ae4-0e78efbe8205.htm">
-        <span data-tocFile="../toc/IDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Open<wbr />Vino<wbr />Sharp.<wbr />model.<wbr />Yolov<wbr />8</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
       <a id="7f998fed-f90c-a3b4-c971-bde122ff758e" class="has-submenu" href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">
-        <span data-tocFile="../toc/IDDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/IDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
       <ul class="toc-menu is-hidden"> </ul>

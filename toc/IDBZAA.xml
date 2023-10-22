@@ -14,12 +14,33 @@
       <a href="840c8811-cbf0-1709-6ae5-6f233c262380.htm">Partial<wbr />Shape</a>
     </li>
     <li>
-      <a href="904e6a29-3a93-a615-80eb-0e78bc60d6c9.htm">Properties</a>
+      <a href="f36ab557-c36d-4e4a-1c3b-e87130b9fc87.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="7c71ac1f-dc7e-e672-e05c-aeed01ad819a" href="7c71ac1f-dc7e-e672-e05c-aeed01ad819a.htm">Ptr</a>
+      <a id="1e210eef-fa77-376c-7e7b-14d138c20a91" href="1e210eef-fa77-376c-7e7b-14d138c20a91.htm">Finalize</a>
+    </li>
+    <li>
+      <a id="d197f0a1-8a7e-8c2f-0ccf-ccc9911293bb" href="d197f0a1-8a7e-8c2f-0ccf-ccc9911293bb.htm">get_<wbr />dimensions</a>
+    </li>
+    <li>
+      <a id="3a4a0a47-e026-4cfd-85ee-daf2bb42d216" href="3a4a0a47-e026-4cfd-85ee-daf2bb42d216.htm">get_<wbr />partial_<wbr />shape</a>
+    </li>
+    <li>
+      <a id="7b213713-b443-2416-24e7-b588a3017267" href="7b213713-b443-2416-24e7-b588a3017267.htm">is_<wbr />dynamic</a>
+    </li>
+    <li>
+      <a id="a5035917-3c05-2a7b-4a91-ce4f14e91b4f" href="a5035917-3c05-2a7b-4a91-ce4f14e91b4f.htm">is_<wbr />static</a>
+    </li>
+    <li>
+      <a id="6cfa13c6-e0c8-3a0d-cb0c-ab3f8f103394" href="6cfa13c6-e0c8-3a0d-cb0c-ab3f8f103394.htm">partial_<wbr />shape_<wbr />convert</a>
+    </li>
+    <li>
+      <a id="8d15b713-6f55-f72e-0188-b8c6765b8e01" href="8d15b713-6f55-f72e-0188-b8c6765b8e01.htm">to_<wbr />shape</a>
+    </li>
+    <li>
+      <a id="0a178a29-ad1e-8789-0fe1-9ff7f2993848" href="0a178a29-ad1e-8789-0fe1-9ff7f2993848.htm">to_<wbr />string</a>
     </li>
   </tocItems>
 </toc>

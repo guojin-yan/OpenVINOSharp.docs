@@ -94,12 +94,12 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp</a><br /><strong>Assembly:</strong> OpenVINOCSharp (in OpenVINOCSharp.dll) Version: 3.0.122-test-8<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">Tensor</span></code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">Tensor</span></dd></dl></div>
+              <strong>Namespace:</strong> <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp</a><br /><strong>Assembly:</strong> OpenVINO_CSharp_API (in OpenVINO_CSharp_API.dll) Version: 2023.1.0.1<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">Tensor</span> : <span class="identifier">IDisposable</span></code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">Tensor</span></dd></dl><dl class="implementsList"><dt>Implements</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a></dd></dl></div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Constructors</h2>
-            <div id="IDABEASection">
+            <div id="IDABFASection">
               <table id="ConstructorList" class="table is-hoverable">
                 <tr>
                   <td>
@@ -127,7 +127,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="ba8a19d9-84d6-6e4b-ab0a-dae1f85f72cc.htm">Tensor(Type, Shape, OvMat)</a>
+                    <a href="7bd2487b-fc1b-3776-af22-8344cb77ef26.htm">Tensor(Type, Shape, <span id="LST9D530CC9_0" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST9D530CC9_1" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
                   </td>
                   <td>
             Constructs Tensor using element type ,shape and image data. 
@@ -147,7 +147,7 @@
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Properties</h2>
-            <div id="IDNEASection">
+            <div id="IDNFASection">
               <table id="PropertyList" class="table is-hoverable">
                 <tr>
                   <td>
@@ -163,11 +163,11 @@
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Methods</h2>
-            <div id="IDCEASection">
+            <div id="IDCFASection">
               <table id="MethodList" class="table is-hoverable">
                 <tr>
                   <td>
-                    <a href="6a70952f-5c1a-d3ff-421b-192d3a1bbb34.htm">copy_to<span id="LST9D530CC9_0" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST9D530CC9_1" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                    <a href="6a70952f-5c1a-d3ff-421b-192d3a1bbb34.htm">copy_to<span id="LST9D530CC9_2" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST9D530CC9_3" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
             Copy tensor, destination tensor should have the same element type and shape
@@ -183,7 +183,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="582e2bda-06e0-a497-8f81-9b207373ff48.htm">dispose</a>
+                    <a href="db23776e-167f-00d0-d848-41cac343cc06.htm">Dispose</a>
                   </td>
                   <td>
             Release unmanaged resources
@@ -195,7 +195,7 @@
                   </td>
                   <td>
             Tensor's destructor
-            <br />(Overrides <a href="https://learn.microsoft.com/dotnet/api/system.object.finalize#system-object-finalize" target="_blank" rel="noopener noreferrer">Object<span id="LST9D530CC9_2" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>Finalize<span id="LST9D530CC9_3" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>)</td>
+            <br />(Overrides <a href="https://learn.microsoft.com/dotnet/api/system.object.finalize#system-object-finalize" target="_blank" rel="noopener noreferrer">Object<span id="LST9D530CC9_4" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>Finalize<span id="LST9D530CC9_5" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>)</td>
                 </tr>
                 <tr>
                   <td>
@@ -207,7 +207,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="d2e6746c-c3bd-b9ff-1c8d-2880becb3af4.htm">get_data<span id="LST9D530CC9_4" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST9D530CC9_5" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                    <a href="d2e6746c-c3bd-b9ff-1c8d-2880becb3af4.htm">get_data<span id="LST9D530CC9_6" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST9D530CC9_7" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
             Read data of the specified type from the underlying host memory.
@@ -239,7 +239,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="7e37225d-f1eb-eaec-e03c-b74fa5901fe3.htm">set_data<span id="LST9D530CC9_6" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST9D530CC9_7" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                    <a href="7e37225d-f1eb-eaec-e03c-b74fa5901fe3.htm">set_data<span id="LST9D530CC9_8" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST9D530CC9_9" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
             Load the specified type of data into the underlying host memory.
@@ -259,7 +259,7 @@
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Fields</h2>
-            <div id="IDAEASection">
+            <div id="IDAFASection">
               <table id="FieldList" class="table is-hoverable">
                 <tr>
                   <td>

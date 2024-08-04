@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="866fe09c-f592-a49c-8668-22446687ffe6.htm">Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="aeddc5d2-d027-47f5-3d82-9080328c100d.htm">Methods</a>
+    </li>
+    <li>
+      <a href="4db9f8db-de8c-1389-d229-9b9e450536e4.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />color_<wbr />format_<wbr />with_<wbr />subname</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="56179f97-6dcc-c523-6a2b-ce912eea5ac9" href="56179f97-6dcc-c523-6a2b-ce912eea5ac9.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />color_<wbr />format_<wbr />with_<wbr />subname(<wbr />Int<wbr />Ptr, UInt<wbr />32, UInt<wbr />64, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="253b59bc-41d5-0996-31c0-c8422e71633b" href="253b59bc-41d5-0996-31c0-c8422e71633b.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />color_<wbr />format_<wbr />with_<wbr />subname(<wbr />Int<wbr />Ptr, UInt<wbr />32, UInt<wbr />64, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="df210f84-b8d8-4416-c5de-4eaf2213e0f4" href="df210f84-b8d8-4416-c5de-4eaf2213e0f4.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />color_<wbr />format_<wbr />with_<wbr />subname(<wbr />Int<wbr />Ptr, UInt<wbr />32, UInt<wbr />64, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="af35b1c1-e363-d93b-7def-1f047b090886" href="af35b1c1-e363-d93b-7def-1f047b090886.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />color_<wbr />format_<wbr />with_<wbr />subname(<wbr />Int<wbr />Ptr, UInt<wbr />32, UInt<wbr />64, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+  </tocItems>
+</toc>

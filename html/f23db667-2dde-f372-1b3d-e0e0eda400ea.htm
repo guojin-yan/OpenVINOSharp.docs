@@ -94,13 +94,21 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp</a><br /><strong>Assembly:</strong> OpenVINO_CSharp_API (in OpenVINO_CSharp_API.dll) Version: 2023.1.0.1<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">Tensor</span> : <span class="identifier">IDisposable</span></code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">Tensor</span></dd></dl><dl class="implementsList"><dt>Implements</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a></dd></dl></div>
+              <strong>Namespace:</strong> <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp</a><br /><strong>Assembly:</strong> OpenVINO_CSharp_API (in OpenVINO_CSharp_API.dll) Version: 2024.3.0.2+a9617c0f8f80882646d0eba11b88ae6cb17b3fb8<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">Tensor</span> : <span class="identifier">IDisposable</span></code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">Tensor</span></dd></dl><dl class="implementsList"><dt>Implements</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a></dd></dl></div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Constructors</h2>
             <div id="IDABFASection">
               <table id="ConstructorList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="9621c80e-4334-220e-68a8-98292d0319a5.htm">Tensor<span id="LST9D530CC9_0" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>
+                  </td>
+                  <td>
+            Default Constructor
+            </td>
+                </tr>
                 <tr>
                   <td>
                     <a href="dfccba89-564e-46da-08ce-3fed70b02fe0.htm">Tensor(IntPtr)</a>
@@ -119,6 +127,52 @@
                 </tr>
                 <tr>
                   <td>
+                    <a href="8342bb90-8a8f-c765-1935-198e2620b03e.htm">Tensor(OvType, Shape)</a>
+                  </td>
+                  <td>Initializes a new instance of the <span class="selflink">Tensor</span> class</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="e98f32ef-8a41-15d8-68b5-a236c26fe994.htm">Tensor(Shape, <span id="LST9D530CC9_1" data-languageSpecificText="cpp=array&lt;"></span>Double<span id="LST9D530CC9_2" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                  </td>
+                  <td>
+            Constructs Tensor using element type ,shape and input data. 
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="551a7219-317b-6d62-0add-b47975f45ba1.htm">Tensor(Shape, <span id="LST9D530CC9_3" data-languageSpecificText="cpp=array&lt;"></span>Int16<span id="LST9D530CC9_4" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                  </td>
+                  <td>
+            Constructs Tensor using element type ,shape and input data. 
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="631977fb-d22c-f874-b9c4-6079414863c0.htm">Tensor(Shape, <span id="LST9D530CC9_5" data-languageSpecificText="cpp=array&lt;"></span>Int32<span id="LST9D530CC9_6" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                  </td>
+                  <td>
+            Constructs Tensor using element type ,shape and input data. 
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="abbfbff0-ffc2-b278-0303-89b4b8ac3cc1.htm">Tensor(Shape, <span id="LST9D530CC9_7" data-languageSpecificText="cpp=array&lt;"></span>Int64<span id="LST9D530CC9_8" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                  </td>
+                  <td>
+            Constructs Tensor using element type ,shape and input data. 
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="4a5c9219-d0f1-5e25-deeb-444b231367b0.htm">Tensor(Shape, <span id="LST9D530CC9_9" data-languageSpecificText="cpp=array&lt;"></span>Single<span id="LST9D530CC9_10" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                  </td>
+                  <td>
+            Constructs Tensor using element type ,shape and input data. 
+            </td>
+                </tr>
+                <tr>
+                  <td>
                     <a href="6feece4b-fc13-5e98-faa6-686fcc00747b.htm">Tensor(Type, Shape)</a>
                   </td>
                   <td>
@@ -127,7 +181,19 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="7bd2487b-fc1b-3776-af22-8344cb77ef26.htm">Tensor(Type, Shape, <span id="LST9D530CC9_0" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST9D530CC9_1" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                    <a href="eee7ee1a-98b0-4574-7b17-d54adb04df25.htm">Tensor(OvType, Shape, <span id="LST9D530CC9_11" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST9D530CC9_12" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                  </td>
+                  <td>Initializes a new instance of the <span class="selflink">Tensor</span> class</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="c2024647-9dd4-52ca-7788-20eee7aa8fec.htm">Tensor(OvType, Shape, IntPtr)</a>
+                  </td>
+                  <td>Initializes a new instance of the <span class="selflink">Tensor</span> class</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="7bd2487b-fc1b-3776-af22-8344cb77ef26.htm">Tensor(Type, Shape, <span id="LST9D530CC9_13" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST9D530CC9_14" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
                   </td>
                   <td>
             Constructs Tensor using element type ,shape and image data. 
@@ -167,7 +233,7 @@
               <table id="MethodList" class="table is-hoverable">
                 <tr>
                   <td>
-                    <a href="6a70952f-5c1a-d3ff-421b-192d3a1bbb34.htm">copy_to<span id="LST9D530CC9_2" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST9D530CC9_3" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                    <a href="6a70952f-5c1a-d3ff-421b-192d3a1bbb34.htm">copy_to<span id="LST9D530CC9_15" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST9D530CC9_16" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
             Copy tensor, destination tensor should have the same element type and shape
@@ -195,7 +261,7 @@
                   </td>
                   <td>
             Tensor's destructor
-            <br />(Overrides <a href="https://learn.microsoft.com/dotnet/api/system.object.finalize#system-object-finalize" target="_blank" rel="noopener noreferrer">Object<span id="LST9D530CC9_4" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>Finalize<span id="LST9D530CC9_5" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>)</td>
+            <br />(Overrides <a href="https://learn.microsoft.com/dotnet/api/system.object.finalize#system-object-finalize" target="_blank" rel="noopener noreferrer">Object<span id="LST9D530CC9_17" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>Finalize<span id="LST9D530CC9_18" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>)</td>
                 </tr>
                 <tr>
                   <td>
@@ -207,7 +273,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="d2e6746c-c3bd-b9ff-1c8d-2880becb3af4.htm">get_data<span id="LST9D530CC9_6" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST9D530CC9_7" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                    <a href="d2e6746c-c3bd-b9ff-1c8d-2880becb3af4.htm">get_data<span id="LST9D530CC9_19" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST9D530CC9_20" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
             Read data of the specified type from the underlying host memory.
@@ -239,7 +305,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="7e37225d-f1eb-eaec-e03c-b74fa5901fe3.htm">set_data<span id="LST9D530CC9_8" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST9D530CC9_9" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                    <a href="7e37225d-f1eb-eaec-e03c-b74fa5901fe3.htm">set_data<span id="LST9D530CC9_21" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST9D530CC9_22" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
             Load the specified type of data into the underlying host memory.

@@ -12,14 +12,14 @@
     <script src="../scripts/clipboard.min.js"></script>
     <script src="../scripts/highlight.min.js"></script>
     <script src="../scripts/presentationStyle.js"></script>
-    <title>NativeMethods.ov_core_compile_model Method</title>
-    <meta name="Title" content="ov_core_compile_model" />
+    <title>NativeMethods.ov_core_compile_model(IntPtr, IntPtr, SByte, UInt64, IntPtr) Method</title>
+    <meta name="Title" content="ov_core_compile_model(IntPtr, IntPtr, SByte, UInt64, IntPtr)" />
     <meta name="Help.Id" content="M:OpenVinoSharp.NativeMethods.ov_core_compile_model(System.IntPtr,System.IntPtr,System.SByte@,System.UInt64,System.IntPtr@)" />
     <meta name="Help.ContentType" content="Reference" />
     <meta name="container" content="OpenVinoSharp" />
     <meta name="guid" content="3328ec3b-9caf-a238-fe6d-20dc452e05c9" />
     <meta name="Description" content="Creates a compiled model from a source model object. Users can create as many compiled models as they need and use them simultaneously (up to the limitation of the hardware resources)." />
-    <meta name="tocFile" content="../toc/IDBMAA.xml" />
+    <meta name="tocFile" content="../toc/IDRBMAA.xml" />
   </head>
   <body>
     <div class="fixedLayout">
@@ -84,7 +84,7 @@
           </div>
           <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
-            <h1>Native<wbr />Methods<span id="LSTA23697C3_0" data-languageSpecificText="cpp=::|nu=."></span>ov_<wbr />core_<wbr />compile_<wbr />model Method</h1>
+            <h1>Native<wbr />Methods<span id="LSTA23697C3_0" data-languageSpecificText="cpp=::|nu=."></span>ov_<wbr />core_<wbr />compile_<wbr />model(Int<wbr />Ptr, Int<wbr />Ptr, SByte<span id="LSTA23697C3_1" data-languageSpecificText="cpp=%"></span>, UInt<wbr />64, Int<wbr />Ptr<span id="LSTA23697C3_2" data-languageSpecificText="cpp=%"></span>) Method</h1>
             <div class="summary">
             Creates a compiled model from a source model object. Users can create 
             as many compiled models as they need and use them simultaneously 
@@ -95,14 +95,14 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp</a><br /><strong>Assembly:</strong> OpenVINO_CSharp_API (in OpenVINO_CSharp_API.dll) Version: 2023.1.0.1<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">static</span> <span class="identifier">ExceptionStatus</span> <span class="identifier">ov_core_compile_model</span>(
+              <strong>Namespace:</strong> <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp</a><br /><strong>Assembly:</strong> OpenVINO_CSharp_API (in OpenVINO_CSharp_API.dll) Version: 2024.3.0.2+a9617c0f8f80882646d0eba11b88ae6cb17b3fb8<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">static</span> <span class="identifier">ExceptionStatus</span> <span class="identifier">ov_core_compile_model</span>(
 	<span class="identifier">IntPtr</span> <span class="parameter">core</span>,
 	<span class="identifier">IntPtr</span> <span class="parameter">model</span>,
 	<span class="keyword">ref</span> <span class="identifier">sbyte</span> <span class="parameter">device_name</span>,
 	<span class="identifier">ulong</span> <span class="parameter">property_args_size</span>,
 	<span class="keyword">ref</span> <span class="identifier">IntPtr</span> <span class="parameter">compiled_model</span>
-)</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">core</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">IntPtr</a></dt><dd>A pointer to the ie_core_t instance.</dd><dt class="has-text-weight-normal"><span class="parameter">model</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">IntPtr</a></dt><dd>Model object acquired from Core::read_model.</dd><dt class="has-text-weight-normal"><span class="parameter">device_name</span>  <a href="https://learn.microsoft.com/dotnet/api/system.sbyte" target="_blank" rel="noopener noreferrer">SByte</a><span id="LSTA23697C3_1" data-languageSpecificText="cpp=%"></span></dt><dd>Name of a device to load a model to.</dd><dt class="has-text-weight-normal"><span class="parameter">property_args_size</span>  <a href="https://learn.microsoft.com/dotnet/api/system.uint64" target="_blank" rel="noopener noreferrer">UInt64</a></dt><dd>How many properties args will be passed, 
-            each property contains 2 args: key and value.</dd><dt class="has-text-weight-normal"><span class="parameter">compiled_model</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">IntPtr</a><span id="LSTA23697C3_2" data-languageSpecificText="cpp=%"></span></dt><dd>A pointer to the newly created compiled_model.</dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="42bd0872-e892-47c4-baf9-cafacabd2d3f.htm">ExceptionStatus</a><br />Status code of the operation: OK(0) for success.</div>
+)</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">core</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">IntPtr</a></dt><dd>A pointer to the ie_core_t instance.</dd><dt class="has-text-weight-normal"><span class="parameter">model</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">IntPtr</a></dt><dd>Model object acquired from Core::read_model.</dd><dt class="has-text-weight-normal"><span class="parameter">device_name</span>  <a href="https://learn.microsoft.com/dotnet/api/system.sbyte" target="_blank" rel="noopener noreferrer">SByte</a><span id="LSTA23697C3_3" data-languageSpecificText="cpp=%"></span></dt><dd>Name of a device to load a model to.</dd><dt class="has-text-weight-normal"><span class="parameter">property_args_size</span>  <a href="https://learn.microsoft.com/dotnet/api/system.uint64" target="_blank" rel="noopener noreferrer">UInt64</a></dt><dd>How many properties args will be passed, 
+            each property contains 2 args: key and value.</dd><dt class="has-text-weight-normal"><span class="parameter">compiled_model</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">IntPtr</a><span id="LSTA23697C3_4" data-languageSpecificText="cpp=%"></span></dt><dd>A pointer to the newly created compiled_model.</dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="42bd0872-e892-47c4-baf9-cafacabd2d3f.htm">ExceptionStatus</a><br />Status code of the operation: OK(0) for success.</div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
@@ -111,6 +111,9 @@
               <h4>Reference</h4>
               <div>
                 <a href="866fe09c-f592-a49c-8668-22446687ffe6.htm">NativeMethods Class</a>
+              </div>
+              <div>
+                <a href="e23c4e91-06b9-378b-0b39-bbe8edcd3e51.htm">ov_core_compile_model Overload</a>
               </div>
               <div>
                 <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp Namespace</a>

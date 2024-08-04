@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6383d602-599f-d92f-bac9-3a0a6619f71a.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />model</a>
+    </li>
+    <li>
+      <a href="ca2fe591-52a0-709d-aba6-73a01e7c8c9c.htm">Yolov<wbr />8Det</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d049ff19-0669-d5c9-6876-4660aa9ecca6" class="has-submenu" href="d049ff19-0669-d5c9-6876-4660aa9ecca6.htm">
+        <span data-tocFile="../toc/IDAPBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="922fa68a-da3a-917d-f3ac-119193b617ad" class="has-submenu" href="922fa68a-da3a-917d-f3ac-119193b617ad.htm">
+        <span data-tocFile="../toc/IDBPBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3017fae9-36f4-cca3-23c8-6386d5365d67" class="has-submenu" href="3017fae9-36f4-cca3-23c8-6386d5365d67.htm">
+        <span data-tocFile="../toc/IDCPBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

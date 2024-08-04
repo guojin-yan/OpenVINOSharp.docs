@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6383d602-599f-d92f-bac9-3a0a6619f71a.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />model</a>
+    </li>
+    <li>
+      <a href="4d289afa-aa6c-3afe-099d-db211c89a07f.htm">Yolov<wbr />5Det<wbr />Config</a>
+    </li>
+    <li>
+      <a href="2ca44c29-fa13-3198-fd7d-a3ed68547a1b.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ae467f0f-1bd5-ba93-3680-cbb62bb87515" href="ae467f0f-1bd5-ba93-3680-cbb62bb87515.htm">batch_<wbr />num</a>
+    </li>
+    <li>
+      <a id="196fec4f-cf32-cc3a-4116-8a205821f7f8" href="196fec4f-cf32-cc3a-4116-8a205821f7f8.htm">cache_<wbr />dir</a>
+    </li>
+    <li>
+      <a id="af497242-0968-94f9-3c43-ca366422af2a" href="af497242-0968-94f9-3c43-ca366422af2a.htm">categ_<wbr />nums</a>
+    </li>
+    <li>
+      <a id="2db678ab-7870-8675-c860-65acb243f890" href="2db678ab-7870-8675-c860-65acb243f890.htm">det_<wbr />nms_<wbr />thresh</a>
+    </li>
+    <li>
+      <a id="ba44391f-dd67-80d1-2d9f-b9aa8221ad81" href="ba44391f-dd67-80d1-2d9f-b9aa8221ad81.htm">det_<wbr />thresh</a>
+    </li>
+    <li>
+      <a id="0cd9bc82-8238-c7c8-b0a7-78eb541e2909" href="0cd9bc82-8238-c7c8-b0a7-78eb541e2909.htm">device</a>
+    </li>
+    <li>
+      <a id="b3c39bdc-b808-3421-549a-6872fcf52382" href="b3c39bdc-b808-3421-549a-6872fcf52382.htm">input_<wbr />size</a>
+    </li>
+    <li>
+      <a id="02813535-8d79-55b3-b2ba-f84d379ac350" href="02813535-8d79-55b3-b2ba-f84d379ac350.htm">model_<wbr />path</a>
+    </li>
+    <li>
+      <a id="16570369-e572-99cd-f76c-23eb9f8b55a2" href="16570369-e572-99cd-f76c-23eb9f8b55a2.htm">use_<wbr />gpu</a>
+    </li>
+  </tocItems>
+</toc>

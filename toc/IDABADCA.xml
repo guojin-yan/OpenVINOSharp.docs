@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="bb416bc5-bd1d-608f-0610-bf3300874da1.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />result</a>
+    </li>
+    <li>
+      <a href="436acbbf-a80f-fac0-b570-99f6c040a488.htm">Base<wbr />Result</a>
+    </li>
+    <li>
+      <a href="7f922f5c-6617-3873-1f04-faf61957a2b9.htm">Methods</a>
+    </li>
+    <li>
+      <a href="94237ca9-f9c0-16bf-4478-d72b48f5cbd2.htm">add</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7b118e04-c345-943d-bbee-b50e1fad2249" href="7b118e04-c345-943d-bbee-b50e1fad2249.htm">add(<wbr />Int<wbr />32, Single)</a>
+    </li>
+    <li>
+      <a id="97d0e22e-2332-4323-c7a4-437753a2e798" href="97d0e22e-2332-4323-c7a4-437753a2e798.htm">add(<wbr />Int<wbr />32, Single, Rotated<wbr />Rect)</a>
+    </li>
+    <li>
+      <a id="33b7591a-86da-c2fd-b04f-05a87045a7d6" href="33b7591a-86da-c2fd-b04f-05a87045a7d6.htm">add(<wbr />Int<wbr />32, Single, Rect)</a>
+    </li>
+    <li>
+      <a id="41912e3f-d471-4390-8fc5-2e33dc7cd07d" href="41912e3f-d471-4390-8fc5-2e33dc7cd07d.htm">add(<wbr />Int<wbr />32, Single, Rotated<wbr />Rect)</a>
+    </li>
+    <li>
+      <a id="5bbc738c-5e99-c098-19d9-8bc4f5cbd243" href="5bbc738c-5e99-c098-19d9-8bc4f5cbd243.htm">add(<wbr />Int<wbr />32, Single, Rectangle)</a>
+    </li>
+    <li>
+      <a id="e1c6e527-62dc-2b0e-a6ee-2ef1b5c4a030" href="e1c6e527-62dc-2b0e-a6ee-2ef1b5c4a030.htm">add(<wbr />Int<wbr />32, String, Single)</a>
+    </li>
+    <li>
+      <a id="3122223b-d9a8-95e6-e49e-136fda5e0e85" href="3122223b-d9a8-95e6-e49e-136fda5e0e85.htm">add(<wbr />Single, Rect, Pose<wbr />Point)</a>
+    </li>
+    <li>
+      <a id="5602b82f-f29a-bf7d-0a63-484cf92f0c3d" href="5602b82f-f29a-bf7d-0a63-484cf92f0c3d.htm">add(<wbr />Single, Rectangle, Pose<wbr />Point)</a>
+    </li>
+    <li>
+      <a id="5c43167b-38b6-b77e-1cfb-3c7eda83d4ad" href="5c43167b-38b6-b77e-1cfb-3c7eda83d4ad.htm">add(<wbr />Int<wbr />32, Single, Rect, Mat)</a>
+    </li>
+    <li>
+      <a id="d0450b2a-a861-aafd-d1fd-8c4438c95e8b" href="d0450b2a-a861-aafd-d1fd-8c4438c95e8b.htm">add(<wbr />Int<wbr />32, Single, Rectangle, Mat)</a>
+    </li>
+    <li>
+      <a id="9b8a0c2f-6c5a-e21b-a028-05954b4a18ab" href="9b8a0c2f-6c5a-e21b-a028-05954b4a18ab.htm">add(<wbr />Int<wbr />32, String, Single, Rotated<wbr />Rect)</a>
+    </li>
+    <li>
+      <a id="c41b203d-465c-8c08-fa89-1b1d47e245b0" href="c41b203d-465c-8c08-fa89-1b1d47e245b0.htm">add(<wbr />Int<wbr />32, String, Single, Rect)</a>
+    </li>
+    <li>
+      <a id="b6f4ac86-733b-91e8-c0f2-9275797410ac" href="b6f4ac86-733b-91e8-c0f2-9275797410ac.htm">add(<wbr />Int<wbr />32, String, Single, Rotated<wbr />Rect)</a>
+    </li>
+    <li>
+      <a id="3c339f8e-1c4f-fabd-72c4-6c80b9a18986" href="3c339f8e-1c4f-fabd-72c4-6c80b9a18986.htm">add(<wbr />Int<wbr />32, String, Single, Rectangle)</a>
+    </li>
+    <li>
+      <a id="a4713aa3-b10a-6e4d-65d9-951e047cdba0" href="a4713aa3-b10a-6e4d-65d9-951e047cdba0.htm">add(<wbr />Single, Rect, Single[], Single)</a>
+    </li>
+    <li>
+      <a id="6a3f92d5-6bc6-a1c1-40e3-c12551513f41" href="6a3f92d5-6bc6-a1c1-40e3-c12551513f41.htm">add(<wbr />Single, Rectangle, Single[], Single)</a>
+    </li>
+    <li>
+      <a id="25000051-71b4-750f-6398-f0d9248e8652" href="25000051-71b4-750f-6398-f0d9248e8652.htm">add(<wbr />Int<wbr />32, String, Single, Rect, Mat)</a>
+    </li>
+    <li>
+      <a id="995b8a4a-14b9-df8d-2ec9-1069d06a029e" href="995b8a4a-14b9-df8d-2ec9-1069d06a029e.htm">add(<wbr />Int<wbr />32, String, Single, Rect, Pose<wbr />Point)</a>
+    </li>
+    <li>
+      <a id="4a6e1a2d-d8c5-53dc-346e-3dc993d1e15b" href="4a6e1a2d-d8c5-53dc-346e-3dc993d1e15b.htm">add(<wbr />Int<wbr />32, String, Single, Rectangle, Mat)</a>
+    </li>
+    <li>
+      <a id="38b28e24-36c0-8447-e1be-35184287aa0e" href="38b28e24-36c0-8447-e1be-35184287aa0e.htm">add(<wbr />Int<wbr />32, String, Single, Rectangle, Pose<wbr />Point)</a>
+    </li>
+    <li>
+      <a id="96ce72bf-1909-926a-87dc-587674c91dd2" href="96ce72bf-1909-926a-87dc-587674c91dd2.htm">add(<wbr />Int<wbr />32, String, Single, Rect, Single[], Single)</a>
+    </li>
+    <li>
+      <a id="f96431be-0801-b2dd-8abd-9ff1bab39be0" href="f96431be-0801-b2dd-8abd-9ff1bab39be0.htm">add(<wbr />Int<wbr />32, String, Single, Rectangle, Single[], Single)</a>
+    </li>
+  </tocItems>
+</toc>

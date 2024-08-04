@@ -92,7 +92,7 @@
               <table id="MethodList" class="table is-hoverable">
                 <tr>
                   <td>
-                    <a href="4d73a2d4-f926-85c9-ce68-27043647d8fd.htm">compile_model(Model)</a>
+                    <a href="45d648df-6493-9284-70de-adb78f16f874.htm">compile_model(Model, Dictionary<span id="LST184B060_0" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String, String<span id="LST184B060_1" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>)</a>
                   </td>
                   <td>
             Creates a compiled model from a source model object.
@@ -100,7 +100,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="3d730b97-38de-40ac-4b9b-7810e35818b3.htm">compile_model(String)</a>
+                    <a href="1b66ca02-1e4f-394e-395b-bce9ab097219.htm">compile_model(String, Dictionary<span id="LST184B060_2" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String, String<span id="LST184B060_3" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>)</a>
                   </td>
                   <td>
             Reads and loads a compiled model from the IR/ONNX/PDPD file to the default OpenVINO device selected by the AUTO plugin.
@@ -108,7 +108,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="e9f9421a-a75e-192b-a489-a81ff5ea578c.htm">compile_model(Model, String)</a>
+                    <a href="9ff4b312-9335-114a-43dc-f22f670f5504.htm">compile_model(Model, String, Dictionary<span id="LST184B060_4" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String, String<span id="LST184B060_5" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>)</a>
                   </td>
                   <td>
             Creates and loads a compiled model from a source model to the default OpenVINO device selected by the AUTO
@@ -116,7 +116,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="0628ec75-eddb-f71a-2506-db3a62e11142.htm">compile_model(String, String)</a>
+                    <a href="586e2238-5337-c4d9-38cc-2f1a56d67ad4.htm">compile_model(String, String, Dictionary<span id="LST184B060_6" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String, String<span id="LST184B060_7" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>)</a>
                   </td>
                   <td>
             Reads a model and creates a compiled model from the IR/ONNX/PDPD file.
@@ -136,7 +136,7 @@
                   </td>
                   <td>
             Core's destructor
-            <br />(Overrides <a href="https://learn.microsoft.com/dotnet/api/system.object.finalize#system-object-finalize" target="_blank" rel="noopener noreferrer">Object<span id="LST184B060_0" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>Finalize<span id="LST184B060_1" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>)</td>
+            <br />(Overrides <a href="https://learn.microsoft.com/dotnet/api/system.object.finalize#system-object-finalize" target="_blank" rel="noopener noreferrer">Object<span id="LST184B060_8" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>Finalize<span id="LST184B060_9" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>)</td>
                 </tr>
                 <tr>
                   <td>
@@ -149,10 +149,44 @@
                 </tr>
                 <tr>
                   <td>
+                    <a href="56445909-3e2a-551e-109c-3c21c5caa236.htm">get_property(String, PropertyKey)</a>
+                  </td>
+                  <td>
+            Gets properties related to device behaviour.
+            The method extracts information that can be set via the set_property method.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="508b8182-ae24-c13f-97e0-7b1f576fb7a3.htm">get_property(String, String)</a>
+                  </td>
+                  <td>
+            Gets properties related to device behaviour.
+            The method extracts information that can be set via the set_property method.
+            </td>
+                </tr>
+                <tr>
+                  <td>
                     <a href="3f37539d-4b26-2f00-e325-e2ed81a417ef.htm">get_versions</a>
                   </td>
                   <td>
             Returns device plugins version information.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="8219c6a1-2049-ad44-22e5-535d67081b5f.htm">import_model</a>
+                  </td>
+                  <td>
+            Imports a compiled model from the previously exported one.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="afeba334-1164-072f-97c7-8f463ed18941.htm">read_model(<span id="LST184B060_10" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST184B060_11" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, Tensor)</a>
+                  </td>
+                  <td>
+            Reads models from IR / ONNX / PDPD / TF / TFLite formats.
             </td>
                 </tr>
                 <tr>
@@ -169,6 +203,20 @@
                   </td>
                   <td>
             Reads models from IR / ONNX / PDPD / TF / TFLite file formats.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="b7da6dea-c937-6685-aa14-804aaf19df3b.htm">set_property(String, Dictionary<span id="LST184B060_12" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String, String<span id="LST184B060_13" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>)</a>
+                  </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="f33f7e94-148b-5119-2b08-0f7afe62a240.htm">set_property(String, KeyValuePair<span id="LST184B060_14" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String, String<span id="LST184B060_15" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>)</a>
+                  </td>
+                  <td>
+            Sets properties for a device, acceptable keys can be found in PropertyKey.
             </td>
                 </tr>
               </table>

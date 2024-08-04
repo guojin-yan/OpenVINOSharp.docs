@@ -12,14 +12,14 @@
     <script src="../scripts/clipboard.min.js"></script>
     <script src="../scripts/highlight.min.js"></script>
     <script src="../scripts/presentationStyle.js"></script>
-    <title>NativeMethods.ov_core_compile_model_from_file Method</title>
-    <meta name="Title" content="ov_core_compile_model_from_file" />
+    <title>NativeMethods.ov_core_compile_model_from_file(IntPtr, SByte, SByte, UInt64, IntPtr) Method</title>
+    <meta name="Title" content="ov_core_compile_model_from_file(IntPtr, SByte, SByte, UInt64, IntPtr)" />
     <meta name="Help.Id" content="M:OpenVinoSharp.NativeMethods.ov_core_compile_model_from_file(System.IntPtr,System.SByte@,System.SByte@,System.UInt64,System.IntPtr@)" />
     <meta name="Help.ContentType" content="Reference" />
     <meta name="container" content="OpenVinoSharp" />
     <meta name="guid" content="cc2f6244-14a3-8348-2d2d-2b775dde9fbd" />
     <meta name="Description" content="Reads a model and creates a compiled model from the IR/ONNX/PDPD file. This can be more efficient than using the ov_core_read_model_from_XXX + ov_core_compile_model flow, especially for cases when caching is enabled and a cached model is available." />
-    <meta name="tocFile" content="../toc/IDBMAA.xml" />
+    <meta name="tocFile" content="../toc/IDSBMAA.xml" />
   </head>
   <body>
     <div class="fixedLayout">
@@ -84,7 +84,7 @@
           </div>
           <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
-            <h1>Native<wbr />Methods<span id="LSTEC0FBC17_0" data-languageSpecificText="cpp=::|nu=."></span>ov_<wbr />core_<wbr />compile_<wbr />model_<wbr />from_<wbr />file Method</h1>
+            <h1>Native<wbr />Methods<span id="LSTEC0FBC17_0" data-languageSpecificText="cpp=::|nu=."></span>ov_<wbr />core_<wbr />compile_<wbr />model_<wbr />from_<wbr />file(Int<wbr />Ptr, SByte<span id="LSTEC0FBC17_1" data-languageSpecificText="cpp=%"></span>, SByte<span id="LSTEC0FBC17_2" data-languageSpecificText="cpp=%"></span>, UInt<wbr />64, Int<wbr />Ptr<span id="LSTEC0FBC17_3" data-languageSpecificText="cpp=%"></span>) Method</h1>
             <div class="summary">
             Reads a model and creates a compiled model from the IR/ONNX/PDPD file. 
             This can be more efficient than using the ov_core_read_model_from_XXX + ov_core_compile_model flow, 
@@ -95,14 +95,14 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp</a><br /><strong>Assembly:</strong> OpenVINO_CSharp_API (in OpenVINO_CSharp_API.dll) Version: 2023.1.0.1<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">static</span> <span class="identifier">ExceptionStatus</span> <span class="identifier">ov_core_compile_model_from_file</span>(
+              <strong>Namespace:</strong> <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp</a><br /><strong>Assembly:</strong> OpenVINO_CSharp_API (in OpenVINO_CSharp_API.dll) Version: 2024.3.0.2+a9617c0f8f80882646d0eba11b88ae6cb17b3fb8<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">static</span> <span class="identifier">ExceptionStatus</span> <span class="identifier">ov_core_compile_model_from_file</span>(
 	<span class="identifier">IntPtr</span> <span class="parameter">core</span>,
 	<span class="keyword">ref</span> <span class="identifier">sbyte</span> <span class="parameter">model_path</span>,
 	<span class="keyword">ref</span> <span class="identifier">sbyte</span> <span class="parameter">device_name</span>,
 	<span class="identifier">ulong</span> <span class="parameter">property_args_size</span>,
 	<span class="keyword">ref</span> <span class="identifier">IntPtr</span> <span class="parameter">compiled_model</span>
-)</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">core</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">IntPtr</a></dt><dd>A pointer to the ie_core_t instance.</dd><dt class="has-text-weight-normal"><span class="parameter">model_path</span>  <a href="https://learn.microsoft.com/dotnet/api/system.sbyte" target="_blank" rel="noopener noreferrer">SByte</a><span id="LSTEC0FBC17_1" data-languageSpecificText="cpp=%"></span></dt><dd>Path to a model.</dd><dt class="has-text-weight-normal"><span class="parameter">device_name</span>  <a href="https://learn.microsoft.com/dotnet/api/system.sbyte" target="_blank" rel="noopener noreferrer">SByte</a><span id="LSTEC0FBC17_2" data-languageSpecificText="cpp=%"></span></dt><dd>Name of a device to load a model to.</dd><dt class="has-text-weight-normal"><span class="parameter">property_args_size</span>  <a href="https://learn.microsoft.com/dotnet/api/system.uint64" target="_blank" rel="noopener noreferrer">UInt64</a></dt><dd>How many properties args will be passed, 
-            each property contains 2 args: key and value.</dd><dt class="has-text-weight-normal"><span class="parameter">compiled_model</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">IntPtr</a><span id="LSTEC0FBC17_3" data-languageSpecificText="cpp=%"></span></dt><dd>A pointer to the newly created compiled_model.</dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="42bd0872-e892-47c4-baf9-cafacabd2d3f.htm">ExceptionStatus</a><br />Status code of the operation: OK(0) for success.</div>
+)</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">core</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">IntPtr</a></dt><dd>A pointer to the ie_core_t instance.</dd><dt class="has-text-weight-normal"><span class="parameter">model_path</span>  <a href="https://learn.microsoft.com/dotnet/api/system.sbyte" target="_blank" rel="noopener noreferrer">SByte</a><span id="LSTEC0FBC17_4" data-languageSpecificText="cpp=%"></span></dt><dd>Path to a model.</dd><dt class="has-text-weight-normal"><span class="parameter">device_name</span>  <a href="https://learn.microsoft.com/dotnet/api/system.sbyte" target="_blank" rel="noopener noreferrer">SByte</a><span id="LSTEC0FBC17_5" data-languageSpecificText="cpp=%"></span></dt><dd>Name of a device to load a model to.</dd><dt class="has-text-weight-normal"><span class="parameter">property_args_size</span>  <a href="https://learn.microsoft.com/dotnet/api/system.uint64" target="_blank" rel="noopener noreferrer">UInt64</a></dt><dd>How many properties args will be passed, 
+            each property contains 2 args: key and value.</dd><dt class="has-text-weight-normal"><span class="parameter">compiled_model</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">IntPtr</a><span id="LSTEC0FBC17_6" data-languageSpecificText="cpp=%"></span></dt><dd>A pointer to the newly created compiled_model.</dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="42bd0872-e892-47c4-baf9-cafacabd2d3f.htm">ExceptionStatus</a><br />Status code of the operation: OK(0) for success.</div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
@@ -111,6 +111,9 @@
               <h4>Reference</h4>
               <div>
                 <a href="866fe09c-f592-a49c-8668-22446687ffe6.htm">NativeMethods Class</a>
+              </div>
+              <div>
+                <a href="f7445dbf-4e9a-658b-9456-f54baed5810c.htm">ov_core_compile_model_from_file Overload</a>
               </div>
               <div>
                 <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp Namespace</a>

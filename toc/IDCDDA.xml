@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
+    </li>
+    <li>
+      <a href="b81f02c7-8242-9e53-4118-7e68a21cf06f.htm">Input<wbr />Tensor<wbr />Info</a>
+    </li>
+    <li>
+      <a href="70c5dd37-c638-b333-ad83-8389e61f488d.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a3da5745-eabb-baf9-f8ea-2d63a3255d48" href="a3da5745-eabb-baf9-f8ea-2d63a3255d48.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="21e33c17-a7cb-c959-33a4-5e70f3adbc5e" href="21e33c17-a7cb-c959-33a4-5e70f3adbc5e.htm">Finalize</a>
+    </li>
+    <li>
+      <a id="959f897f-9ee3-eb24-35ee-6c49e5bfda48" href="959f897f-9ee3-eb24-35ee-6c49e5bfda48.htm">set_<wbr />color_<wbr />format</a>
+    </li>
+    <li>
+      <a id="495c0c44-3645-ace8-6155-0e3f979ef3d9" href="495c0c44-3645-ace8-6155-0e3f979ef3d9.htm">set_<wbr />element_<wbr />type</a>
+    </li>
+    <li>
+      <a id="bcb33df7-3c51-aafc-56fe-b1ad35285440" href="bcb33df7-3c51-aafc-56fe-b1ad35285440.htm">set_<wbr />from</a>
+    </li>
+    <li>
+      <a id="918fe8d0-1f9e-f9e5-a6ff-a2b7b88d7c01" href="918fe8d0-1f9e-f9e5-a6ff-a2b7b88d7c01.htm">set_<wbr />layout</a>
+    </li>
+    <li>
+      <a id="8c9653bc-ce37-ad7a-08fc-b1ef97e9161d" href="8c9653bc-ce37-ad7a-08fc-b1ef97e9161d.htm">set_<wbr />memory_<wbr />type</a>
+    </li>
+    <li>
+      <a id="498afd65-e096-fbc5-b343-4e51548a3dc8" href="498afd65-e096-fbc5-b343-4e51548a3dc8.htm">set_<wbr />spatial_<wbr />static_<wbr />shape</a>
+    </li>
+  </tocItems>
+</toc>

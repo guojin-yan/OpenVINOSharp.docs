@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6383d602-599f-d92f-bac9-3a0a6619f71a.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />model</a>
+    </li>
+    <li>
+      <a href="5900dd66-ee92-920f-bc97-587455302517.htm">PPYoloe<wbr />Det</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="90a5c075-c495-d668-be65-5a16f1b75b78" href="90a5c075-c495-d668-be65-5a16f1b75b78.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="2b04de9b-fe4b-fd46-eff3-3080cd04ad88" class="has-submenu" href="2b04de9b-fe4b-fd46-eff3-3080cd04ad88.htm">
+        <span data-tocFile="../toc/IDBEBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ce430452-115b-d547-e411-fab955d67c7a" class="has-submenu" href="ce430452-115b-d547-e411-fab955d67c7a.htm">
+        <span data-tocFile="../toc/IDCEBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

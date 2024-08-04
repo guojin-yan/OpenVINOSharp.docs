@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6383d602-599f-d92f-bac9-3a0a6619f71a.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />model</a>
+    </li>
+    <li>
+      <a href="31ead226-7c69-b403-fb67-6a46018bc25f.htm">Rtdetr<wbr />Det</a>
+    </li>
+    <li>
+      <a href="1d360b03-ca6e-af74-3280-24e5624a7118.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6d249541-21ed-6433-c5c4-aa1ce9c82a30" href="6d249541-21ed-6433-c5c4-aa1ce9c82a30.htm">m_<wbr />batch_<wbr />num</a>
+    </li>
+    <li>
+      <a id="95b9435e-cd58-5a22-3e4c-8e0abaf20509" href="95b9435e-cd58-5a22-3e4c-8e0abaf20509.htm">m_<wbr />categ_<wbr />nums</a>
+    </li>
+    <li>
+      <a id="230e3350-bf25-26a5-651d-12fd2c91b95b" href="230e3350-bf25-26a5-651d-12fd2c91b95b.htm">m_<wbr />det_<wbr />thresh</a>
+    </li>
+    <li>
+      <a id="fd7d2d7c-1ea0-779b-a005-754b98959463" href="fd7d2d7c-1ea0-779b-a005-754b98959463.htm">m_<wbr />factors</a>
+    </li>
+    <li>
+      <a id="15dda88c-799a-c800-58fc-b9418a4f68fb" href="15dda88c-799a-c800-58fc-b9418a4f68fb.htm">m_<wbr />im_<wbr />shape</a>
+    </li>
+    <li>
+      <a id="a7a696bb-832a-7270-ff81-6f503510bdc6" href="a7a696bb-832a-7270-ff81-6f503510bdc6.htm">m_<wbr />input_<wbr />size</a>
+    </li>
+    <li>
+      <a id="37b470aa-497f-cc2e-3bf0-a8c65a8872db" href="37b470aa-497f-cc2e-3bf0-a8c65a8872db.htm">m_<wbr />post_<wbr />flag</a>
+    </li>
+  </tocItems>
+</toc>

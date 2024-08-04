@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="7336cbb9-645f-8a24-e5b4-0b9118acbb64.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />process</a>
+    </li>
+    <li>
+      <a href="7bb6d3c2-704a-5fc0-4ccc-0cc70647b793.htm">Resize</a>
+    </li>
+    <li>
+      <a href="42f22d4b-d413-f8d9-2389-78904c5cf5f2.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f25e5247-f595-2a32-06a4-4725a1808480" class="has-submenu" href="f25e5247-f595-2a32-06a4-4725a1808480.htm">
+        <span data-tocFile="../toc/IDAADCCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>cls_<wbr />img</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4d50362c-ae44-588a-3851-bd77e2a3f271" class="has-submenu" href="4d50362c-ae44-588a-3851-bd77e2a3f271.htm">
+        <span data-tocFile="../toc/IDBADCCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>crnn_<wbr />img</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="eb18a1db-a824-4ed0-d20f-6c4e9fa31816" class="has-submenu" href="eb18a1db-a824-4ed0-d20f-6c4e9fa31816.htm">
+        <span data-tocFile="../toc/IDCADCCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>imgtype<wbr />0</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2b6ef261-60d7-47c6-5253-570e316b1b59" class="has-submenu" href="2b6ef261-60d7-47c6-5253-570e316b1b59.htm">
+        <span data-tocFile="../toc/IDDADCCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>letterbox_<wbr />img</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

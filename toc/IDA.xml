@@ -24,8 +24,15 @@
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="7f998fed-f90c-a3b4-c971-bde122ff758e" class="has-submenu" href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">
+      <a id="daefb0be-424c-91e8-009a-ab21bebc1e52" class="has-submenu" href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">
         <span data-tocFile="../toc/IDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7f998fed-f90c-a3b4-c971-bde122ff758e" class="has-submenu" href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">
+        <span data-tocFile="../toc/IDDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
       <ul class="toc-menu is-hidden"> </ul>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6383d602-599f-d92f-bac9-3a0a6619f71a.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />model</a>
+    </li>
+    <li>
+      <a href="31ead226-7c69-b403-fb67-6a46018bc25f.htm">Rtdetr<wbr />Det</a>
+    </li>
+    <li>
+      <a href="ac9ae761-2f00-3048-e6d8-139a8248812d.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1a8b3deb-a36a-a17d-c705-9dcf0838e838" href="1a8b3deb-a36a-a17d-c705-9dcf0838e838.htm">argmax</a>
+    </li>
+    <li>
+      <a id="c7b79858-7943-8f13-043d-f98a6a7f7f50" href="c7b79858-7943-8f13-043d-f98a6a7f7f50.htm">list_<wbr />to_<wbr />array</a>
+    </li>
+    <li>
+      <a id="28a03855-ed0d-9dfb-c2df-4d706d1d8bf0" href="28a03855-ed0d-9dfb-c2df-4d706d1d8bf0.htm">postprocess</a>
+    </li>
+    <li>
+      <a id="7801e430-b8d4-fb30-f74a-2650c97778e5" class="has-submenu" href="7801e430-b8d4-fb30-f74a-2650c97778e5.htm">
+        <span data-tocFile="../toc/IDDBHBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>predict</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="51cf7147-ed07-f00a-2dab-31b476cef806" href="51cf7147-ed07-f00a-2dab-31b476cef806.htm">sigmoid</a>
+    </li>
+  </tocItems>
+</toc>

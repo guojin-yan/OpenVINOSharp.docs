@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6383d602-599f-d92f-bac9-3a0a6619f71a.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />model</a>
+    </li>
+    <li>
+      <a href="2f3745cb-f024-7c79-fb63-70da923f4596.htm">Yolov<wbr />5Seg</a>
+    </li>
+    <li>
+      <a href="4dd2eb62-0340-39d9-8131-dc1db66d0ccd.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ad4ce851-23f5-b88f-443e-ddad725fde6f" href="ad4ce851-23f5-b88f-443e-ddad725fde6f.htm">m_<wbr />batch_<wbr />num</a>
+    </li>
+    <li>
+      <a id="02717c70-1db9-286a-5743-38c7940a242a" href="02717c70-1db9-286a-5743-38c7940a242a.htm">m_<wbr />categ_<wbr />nums</a>
+    </li>
+    <li>
+      <a id="92531ab5-a13c-f50a-c07b-6367e9611330" href="92531ab5-a13c-f50a-c07b-6367e9611330.htm">m_<wbr />det_<wbr />nms_<wbr />thresh</a>
+    </li>
+    <li>
+      <a id="d6340579-f5ee-be3c-a0aa-d846ceaa9435" href="d6340579-f5ee-be3c-a0aa-d846ceaa9435.htm">m_<wbr />det_<wbr />thresh</a>
+    </li>
+    <li>
+      <a id="370891e5-b969-0ea7-0708-6ddf66e5eb70" href="370891e5-b969-0ea7-0708-6ddf66e5eb70.htm">m_<wbr />factors</a>
+    </li>
+    <li>
+      <a id="e505049e-51d9-371f-4e37-8ddd0ab8a981" href="e505049e-51d9-371f-4e37-8ddd0ab8a981.htm">m_<wbr />image_<wbr />sizes</a>
+    </li>
+    <li>
+      <a id="59b2f910-fd01-4606-e818-b31514c54427" href="59b2f910-fd01-4606-e818-b31514c54427.htm">m_<wbr />input_<wbr />size</a>
+    </li>
+    <li>
+      <a id="ec527559-febb-1e93-eb84-4a823689bd5a" href="ec527559-febb-1e93-eb84-4a823689bd5a.htm">m_<wbr />mask_<wbr />length</a>
+    </li>
+    <li>
+      <a id="fdfa25d5-e2e2-7cbd-a96a-e878eb6385bc" href="fdfa25d5-e2e2-7cbd-a96a-e878eb6385bc.htm">m_<wbr />output_<wbr />length</a>
+    </li>
+  </tocItems>
+</toc>

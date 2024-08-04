@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="7336cbb9-645f-8a24-e5b4-0b9118acbb64.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />process</a>
+    </li>
+    <li>
+      <a href="ff4bc05f-ab3d-9311-ce14-729d49891352.htm">Visualize</a>
+    </li>
+    <li>
+      <a href="c6d2725d-0671-3433-3d0c-831f0fb09a95.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b662724b-3bba-755b-594c-976f0f5add31" class="has-submenu" href="b662724b-3bba-755b-594c-976f0f5add31.htm">
+        <span data-tocFile="../toc/IDAAECCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>draw_<wbr />det_<wbr />result</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e01149e0-65a9-0974-bd3b-93069071d656" class="has-submenu" href="e01149e0-65a9-0974-bd3b-93069071d656.htm">
+        <span data-tocFile="../toc/IDBAECCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>draw_<wbr />obb_<wbr />result</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e3ee69c7-a5a5-f604-6a1a-e1538201bdf9" class="has-submenu" href="e3ee69c7-a5a5-f604-6a1a-e1538201bdf9.htm">
+        <span data-tocFile="../toc/IDCAECCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>draw_<wbr />poses</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c54f864e-88e8-47d2-66a8-8f856dafb245" class="has-submenu" href="c54f864e-88e8-47d2-66a8-8f856dafb245.htm">
+        <span data-tocFile="../toc/IDDAECCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>draw_<wbr />seg_<wbr />result</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

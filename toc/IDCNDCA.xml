@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="bb416bc5-bd1d-608f-0610-bf3300874da1.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />result</a>
+    </li>
+    <li>
+      <a href="5e0b420f-b2d2-24e9-3cfc-b03bc313c7e0.htm">Seg<wbr />Result</a>
+    </li>
+    <li>
+      <a href="eb3ad421-3369-7d72-6550-3d19248b354f.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="248c8b2d-0b5e-23b3-9a1d-5d06f42db095" class="has-submenu" href="248c8b2d-0b5e-23b3-9a1d-5d06f42db095.htm">
+        <span data-tocFile="../toc/IDACNDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>add</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ae09f2b0-9879-1b25-04eb-9cc8c49c57a4" href="ae09f2b0-9879-1b25-04eb-9cc8c49c57a4.htm">print</a>
+    </li>
+    <li>
+      <a id="411a4e67-cb82-3b05-2a6b-c1e34eaaa2e3" href="411a4e67-cb82-3b05-2a6b-c1e34eaaa2e3.htm">sort_<wbr />by_<wbr />bbox</a>
+    </li>
+    <li>
+      <a id="8ee50320-b7a6-fb41-2eba-a45771ac4d14" href="8ee50320-b7a6-fb41-2eba-a45771ac4d14.htm">sort_<wbr />by_<wbr />index</a>
+    </li>
+    <li>
+      <a id="2750e268-e077-f06a-cd32-672aa5ba6fad" href="2750e268-e077-f06a-cd32-672aa5ba6fad.htm">sort_<wbr />by_<wbr />score</a>
+    </li>
+    <li>
+      <a id="2c06d6c3-7802-58ae-55b4-26f9eb9d6cf2" class="has-submenu" href="2c06d6c3-7802-58ae-55b4-26f9eb9d6cf2.htm">
+        <span data-tocFile="../toc/IDFCNDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>update_<wbr />lable</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6383d602-599f-d92f-bac9-3a0a6619f71a.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />model</a>
+    </li>
+    <li>
+      <a href="4d289afa-aa6c-3afe-099d-db211c89a07f.htm">Yolov<wbr />5Det<wbr />Config</a>
+    </li>
+    <li>
+      <a href="df9c342c-2b4b-532a-3f45-07fcfc4418db.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="051b0b3b-0b03-4f00-37bb-919a6cff583b" href="051b0b3b-0b03-4f00-37bb-919a6cff583b.htm">Yolov<wbr />5Det<wbr />Config</a>
+    </li>
+    <li>
+      <a id="fb700aca-40fd-ed2f-0f45-928c625f1f44" href="fb700aca-40fd-ed2f-0f45-928c625f1f44.htm">Yolov<wbr />5Det<wbr />Config(<wbr />String, String, Nullable&lt;Boolean&gt;, Nullable&lt;Single&gt;, Nullable&lt;Single&gt;, Int<wbr />64[], Nullable&lt;Int<wbr />32&gt;, String, Nullable&lt;Int<wbr />32&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

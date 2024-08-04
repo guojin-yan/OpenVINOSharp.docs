@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="b3c0fb5a-5aec-86c2-445a-e13c17e9b682.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="16e5341a-8023-9938-36e3-ccbf7ef845aa.htm">Common</a>
+    </li>
+    <li>
+      <a href="1c161abd-c7b0-0d03-3176-aebbc9d20052.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b0f85450-aa7f-9c4c-201b-8fa17f55cee7" href="b0f85450-aa7f-9c4c-201b-8fa17f55cee7.htm">fill_<wbr />tensor_<wbr />random</a>
+    </li>
+    <li>
+      <a id="0987532a-f2c5-af22-045c-762b13a58ecc" href="0987532a-f2c5-af22-045c-762b13a58ecc.htm">get_<wbr />random_<wbr />array&lt;T&gt;</a>
+    </li>
+  </tocItems>
+</toc>

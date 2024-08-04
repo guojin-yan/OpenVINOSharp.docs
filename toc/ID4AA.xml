@@ -11,23 +11,34 @@
       <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
     </li>
     <li>
-      <a href="5c63ba7c-12bf-33a9-3cbb-f7926f961c49.htm">Version</a>
+      <a href="f23db667-2dde-f372-1b3d-e0e0eda400ea.htm">Tensor</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="2b20b128-5209-dbe2-08da-c77cde147218" href="2b20b128-5209-dbe2-08da-c77cde147218.htm">Constructor</a>
+      <a id="181c0b64-9252-37e9-6398-d7422fc82738" class="has-submenu" href="181c0b64-9252-37e9-6398-d7422fc82738.htm">
+        <span data-tocFile="../toc/IDA4AA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="2e38f31e-32f9-6f5b-f80c-324c5349e00a" class="has-submenu" href="2e38f31e-32f9-6f5b-f80c-324c5349e00a.htm">
+      <a id="1b938a7f-e12b-88a2-bb04-449681068e51" class="has-submenu" href="1b938a7f-e12b-88a2-bb04-449681068e51.htm">
         <span data-tocFile="../toc/IDB4AA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e093793f-38e7-b99c-f36b-a40800b776f3" class="has-submenu" href="e093793f-38e7-b99c-f36b-a40800b776f3.htm">
+        <span data-tocFile="../toc/IDC4AA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Methods</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="694a8b4e-0571-3899-3473-08396d46c4de" class="has-submenu" href="694a8b4e-0571-3899-3473-08396d46c4de.htm">
-        <span data-tocFile="../toc/IDC4AA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="6c63fdbd-39f0-b256-0265-e75332094e51" class="has-submenu" href="6c63fdbd-39f0-b256-0265-e75332094e51.htm">
+        <span data-tocFile="../toc/IDD4AA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Fields</a>
       <ul class="toc-menu is-hidden"> </ul>

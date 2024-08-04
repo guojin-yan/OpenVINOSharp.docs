@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="7336cbb9-645f-8a24-e5b4-0b9118acbb64.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />process</a>
+    </li>
+    <li>
+      <a href="2f4f328d-9496-af1b-d9b8-c1c819f11728.htm">Normalize</a>
+    </li>
+    <li>
+      <a href="0ef60054-2594-6a67-142f-f9db13079a58.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="96e951ec-9b20-2bcd-d517-d7a61b32a8af" class="has-submenu" href="96e951ec-9b20-2bcd-d517-d7a61b32a8af.htm">
+        <span data-tocFile="../toc/IDAAACCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>run</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

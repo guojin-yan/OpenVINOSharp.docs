@@ -8,43 +8,31 @@
       <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
     </li>
     <li>
-      <a href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="b81f02c7-8242-9e53-4118-7e68a21cf06f.htm">Input<wbr />Tensor<wbr />Info</a>
+      <a href="bb416bc5-bd1d-608f-0610-bf3300874da1.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />result</a>
     </li>
     <li>
-      <a href="70c5dd37-c638-b333-ad83-8389e61f488d.htm">Methods</a>
+      <a href="fb84ccec-3d9e-cfa7-1447-6d2c98c73ecf.htm">Cls<wbr />Result</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="a3da5745-eabb-baf9-f8ea-2d63a3255d48" href="a3da5745-eabb-baf9-f8ea-2d63a3255d48.htm">Dispose</a>
+      <a id="6bf5c9e4-a05c-4532-b4af-d3194fa46bbf" href="6bf5c9e4-a05c-4532-b4af-d3194fa46bbf.htm">Constructor</a>
     </li>
     <li>
-      <a id="21e33c17-a7cb-c959-33a4-5e70f3adbc5e" href="21e33c17-a7cb-c959-33a4-5e70f3adbc5e.htm">Finalize</a>
+      <a id="74583a31-87df-38a5-2341-2ec97f1b5aa5" href="74583a31-87df-38a5-2341-2ec97f1b5aa5.htm">Properties</a>
     </li>
     <li>
-      <a id="28ed41c5-f684-e3b2-89c0-ef37a1e0a5e0" class="has-submenu" href="28ed41c5-f684-e3b2-89c0-ef37a1e0a5e0.htm">
+      <a id="84343313-2906-b49b-7dc8-bb9839252686" class="has-submenu" href="84343313-2906-b49b-7dc8-bb9839252686.htm">
         <span data-tocFile="../toc/IDCCDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>set_<wbr />color_<wbr />format</a>
+        </span>Methods</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="495c0c44-3645-ace8-6155-0e3f979ef3d9" href="495c0c44-3645-ace8-6155-0e3f979ef3d9.htm">set_<wbr />element_<wbr />type</a>
-    </li>
-    <li>
-      <a id="bcb33df7-3c51-aafc-56fe-b1ad35285440" href="bcb33df7-3c51-aafc-56fe-b1ad35285440.htm">set_<wbr />from</a>
-    </li>
-    <li>
-      <a id="918fe8d0-1f9e-f9e5-a6ff-a2b7b88d7c01" href="918fe8d0-1f9e-f9e5-a6ff-a2b7b88d7c01.htm">set_<wbr />layout</a>
-    </li>
-    <li>
-      <a id="8c9653bc-ce37-ad7a-08fc-b1ef97e9161d" href="8c9653bc-ce37-ad7a-08fc-b1ef97e9161d.htm">set_<wbr />memory_<wbr />type</a>
-    </li>
-    <li>
-      <a id="498afd65-e096-fbc5-b343-4e51548a3dc8" href="498afd65-e096-fbc5-b343-4e51548a3dc8.htm">set_<wbr />spatial_<wbr />static_<wbr />shape</a>
+      <a id="0b79a1e5-ce43-5142-aaf5-ef48debef4dd" href="0b79a1e5-ce43-5142-aaf5-ef48debef4dd.htm">Fields</a>
     </li>
   </tocItems>
 </toc>

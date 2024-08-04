@@ -19,7 +19,7 @@
     <meta name="container" content="OpenVinoSharp.preprocess" />
     <meta name="guid" content="45a14f41-866d-1909-ef44-e458789f7dab" />
     <meta name="Description" content="Preprocessing steps." />
-    <meta name="tocFile" content="../toc/IDCA.xml" />
+    <meta name="tocFile" content="../toc/IDDA.xml" />
   </head>
   <body>
     <div class="fixedLayout">
@@ -94,7 +94,7 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">OpenVinoSharp.preprocess</a><br /><strong>Assembly:</strong> OpenVINO_CSharp_API (in OpenVINO_CSharp_API.dll) Version: 2023.1.0.1<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">PreProcessSteps</span> : <span class="identifier">IDisposable</span></code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">PreProcessSteps</span></dd></dl><dl class="implementsList"><dt>Implements</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a></dd></dl></div>
+              <strong>Namespace:</strong> <a href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">OpenVinoSharp.preprocess</a><br /><strong>Assembly:</strong> OpenVINO_CSharp_API (in OpenVINO_CSharp_API.dll) Version: 2024.3.0.2+a9617c0f8f80882646d0eba11b88ae6cb17b3fb8<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">PreProcessSteps</span> : <span class="identifier">IDisposable</span></code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><span class="noLink">Object</span>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">PreProcessSteps</span></dd></dl><dl class="implementsList"><dt>Implements</dt><dd><span class="noLink">IDisposable</span></dd></dl></div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
@@ -192,11 +192,19 @@
                   </td>
                   <td>
             Default destructor
-            <br />(Overrides <a href="https://learn.microsoft.com/dotnet/api/system.object.finalize#system-object-finalize" target="_blank" rel="noopener noreferrer">Object<span id="LSTEA4347B7_8" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>Finalize<span id="LSTEA4347B7_9" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>)</td>
+            <br />(Overrides <span class="noLink">Object<span id="LSTEA4347B7_8" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>Finalize<span id="LSTEA4347B7_9" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="444a9eaa-f5b2-f98c-074f-28b4ff1e4806.htm">mean</a>
+                    <a href="444a9eaa-f5b2-f98c-074f-28b4ff1e4806.htm">mean(Single)</a>
+                  </td>
+                  <td>
+            Add mean preprocess operation. Subtract specified value from each element of input.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="4db2e9fe-3948-6c63-c24e-baca1fdeff44.htm">mean(<span id="LSTEA4347B7_10" data-languageSpecificText="cpp=array&lt;"></span>Single<span id="LSTEA4347B7_11" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
                   </td>
                   <td>
             Add mean preprocess operation. Subtract specified value from each element of input.
@@ -220,10 +228,18 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="24da57cd-2c17-cd31-a030-c0ec8fa00928.htm">scale</a>
+                    <a href="24da57cd-2c17-cd31-a030-c0ec8fa00928.htm">scale(Single)</a>
                   </td>
                   <td>
             Add scale preprocess operation. Divide each element of input by specified value.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="ae41f741-aa4f-cda1-8a54-4223df0841fe.htm">scale(<span id="LSTEA4347B7_12" data-languageSpecificText="cpp=array&lt;"></span>Single<span id="LSTEA4347B7_13" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                  </td>
+                  <td>
+             Add scale preprocess operation. Divide each element of input by specified value.
             </td>
                 </tr>
               </table>

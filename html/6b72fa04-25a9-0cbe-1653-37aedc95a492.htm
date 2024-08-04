@@ -1,0 +1,360 @@
+﻿<!DOCTYPE html >
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" href="../css/bulma.css" />
+    <link rel="stylesheet" href="../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../css/presentationStyle.css" />
+    <link rel="stylesheet" href="../css/vs.min.css" />
+    <script src="../scripts/jquery-3.5.1.min.js"></script>
+    <script src="../scripts/clipboard.min.js"></script>
+    <script src="../scripts/highlight.min.js"></script>
+    <script src="../scripts/presentationStyle.js"></script>
+    <title>PropertyKey Enumeration</title>
+    <meta name="Title" content="PropertyKey" />
+    <meta name="Help.Id" content="T:OpenVinoSharp.PropertyKey" />
+    <meta name="Help.ContentType" content="Reference" />
+    <meta name="container" content="OpenVinoSharp" />
+    <meta name="guid" content="6b72fa04-25a9-0cbe-1653-37aedc95a492" />
+    <meta name="Description" content="A header for advanced hardware specific properties for OpenVINO runtime devices. To use in set_property, compile_model, import_model, get_property methods." />
+    <meta name="tocFile" content="../toc/IDAA.xml" />
+  </head>
+  <body>
+    <div class="fixedLayout">
+      <div id="Header" class="fixedHeader">
+        <div class="pageHeader level mb-0 py-2 px-4">
+          <div id="TitleContainer" class="level-left">
+            <div id="DocumentationTitle" class="level-item">OpenVINO C# API Documented</div>
+          </div>
+          <div id="LangFilterSearchContainer" class="level-right">
+            <div class="level-item">
+              <div class="dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <span id="CurrentLanguage"></span>
+                    <span class="icon is-small">
+                      <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="dropdown-menu" role="menu">
+                  <div id="LanguageSelections" class="dropdown-content">
+                    <a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="level-item">
+              <form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;">
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" />
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-search"></i>
+                    </span>
+                    <button id="SearchButton" type="submit" class="is-hidden"></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fixedContent">
+        <div id="HeaderPrelimContainer" class="level my-1 px-2">
+          <div id="HeaderTextContainer" class="level-left">
+            <div class="level-item">
+              <span class="has-text-grey-light">Please use. NET 5,. NET 6, and. NET Core 3.1 versions</span>
+            </div>
+          </div>
+        </div>
+        <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
+          <ul id="TopicBreadcrumbs" />
+        </nav>
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
+          <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
+            <a id="ShowHideTOC">Show/Hide TOC</a>
+          </div>
+          <div id="TOCColumn" class="column is-hidden-mobile">
+            <nav class="toc">
+              <ul id="TableOfContents" class="toc-menu" />
+            </nav>
+          </div>
+          <div id="Resizer" class="is-hidden"></div>
+          <div id="TopicContent" class="column content is-7">
+            <h1>Property<wbr />Key Enumeration</h1>
+            <div class="summary">
+             A header for advanced hardware specific properties for OpenVINO runtime devices.
+             To use in set_property, compile_model, import_model, get_property methods.
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Definition</h2>
+            <div id="IDBSection">
+              <strong>Namespace:</strong> <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp</a><br /><strong>Assembly:</strong> OpenVINO_CSharp_API (in OpenVINO_CSharp_API.dll) Version: 2024.3.0.2+a9617c0f8f80882646d0eba11b88ae6cb17b3fb8<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">enum</span> <span class="identifier">PropertyKey</span></code></pre></div></div></div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Members</h2>
+            <div id="IDADASection">
+              <table id="enumMemberList" class="table is-hoverable">
+                <tr>
+                  <td>SUPPORTED_PROPERTIES</td>
+                  <td>0</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>AVAILABLE_DEVICES</td>
+                  <td>1</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>OPTIMAL_NUMBER_OF_INFER_REQUESTS</td>
+                  <td>2</td>
+                  <td>
+            Read-only property(uint32_t string) to get an unsigned integer value of optimaln
+            number of compiled model infer requests.
+            </td>
+                </tr>
+                <tr>
+                  <td>RANGE_FOR_ASYNC_INFER_REQUESTS</td>
+                  <td>3</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>RANGE_FOR_STREAMS</td>
+                  <td>4</td>
+                  <td>
+            Read-only property(string(unsigned int, unsigned int)) to provide information about a range for
+            streams on platforms where streams are supported
+            </td>
+                </tr>
+                <tr>
+                  <td>FULL_DEVICE_NAME</td>
+                  <td>5</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>OPTIMIZATION_CAPABILITIES</td>
+                  <td>6</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>NETWORK_NAME</td>
+                  <td>7</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>OPTIMAL_BATCH_SIZE</td>
+                  <td>8</td>
+                  <td>
+            Read-only property（uint32_t string) to query information optimal batch size for the given device
+            and the network
+            </td>
+                </tr>
+                <tr>
+                  <td>MAX_BATCH_SIZE</td>
+                  <td>9</td>
+                  <td>
+            Read-only property to get maximum batch size which does not cause performance degradation due
+            to memory swap impact.
+            </td>
+                </tr>
+                <tr>
+                  <td>CACHE_DIR</td>
+                  <td>10</td>
+                  <td>
+            Read-write property(string) to set/get the directory which will be used to store any data cached
+            by plugins.
+            </td>
+                </tr>
+                <tr>
+                  <td>CACHE_MODE</td>
+                  <td>11</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>NUM_STREAMS</td>
+                  <td>12</td>
+                  <td>
+            Read-write property(uint32_t string) to set/get the number of executor logical partitions.
+            </td>
+                </tr>
+                <tr>
+                  <td>AFFINITY</td>
+                  <td>13</td>
+                  <td>
+            Read-write property to set/get the name for setting CPU affinity per thread option.
+            </td>
+                </tr>
+                <tr>
+                  <td>INFERENCE_NUM_THREADS</td>
+                  <td>14</td>
+                  <td>
+            Read-write property9int32_t string） to set/get the maximum number of threads that can be used
+            for inference tasks.
+            </td>
+                </tr>
+                <tr>
+                  <td>PERFORMANCE_HINT</td>
+                  <td>15</td>
+                  <td>
+            Read-write property, it is high-level OpenVINO Performance Hints
+            </td>
+                </tr>
+                <tr>
+                  <td>ENABLE_CPU_PINNING</td>
+                  <td>16</td>
+                  <td>
+            Read-write property, it is high-level OpenVINO hint for using CPU pinning to bind CPU threads to processors
+            during inference
+            </td>
+                </tr>
+                <tr>
+                  <td>SCHEDULING_CORE_TYPE</td>
+                  <td>17</td>
+                  <td>
+            Read-write property, it is high-level OpenVINO Hints for the type of CPU core used during inference
+            </td>
+                </tr>
+                <tr>
+                  <td>ENABLE_HYPER_THREADING</td>
+                  <td>18</td>
+                  <td>
+            Read-write property, it is high-level OpenVINO hint for using hyper threading processors during CPU inference
+            </td>
+                </tr>
+                <tr>
+                  <td>INFERENCE_PRECISION_HINT</td>
+                  <td>19</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>PERFORMANCE_HINT_NUM_REQUESTS</td>
+                  <td>20</td>
+                  <td>
+             (Optional) Read-write property(uint32_t string) that backs the Performance Hints by giving
+            additional information on how many inference requests the application will be
+            keeping in flight usually this value comes from the actual use-case  (e.g.
+            number of video-cameras, or other sources of inputs)
+            </td>
+                </tr>
+                <tr>
+                  <td>MODEL_PRIORITY</td>
+                  <td>21</td>
+                  <td>
+            Read-write property, high-level OpenVINO model priority hint.
+            </td>
+                </tr>
+                <tr>
+                  <td>LOG_LEVEL</td>
+                  <td>22</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>PERF_COUNT</td>
+                  <td>23</td>
+                  <td>
+            Read-write property(string) for setting performance counters option.
+            </td>
+                </tr>
+                <tr>
+                  <td>MULTI_DEVICE_PRIORITIES</td>
+                  <td>24</td>
+                  <td>
+            Read-write property(std::pair(std::string, Any)), device Priorities config option,
+            with comma-separated devices listed in the desired priority
+            </td>
+                </tr>
+                <tr>
+                  <td>EXECUTION_MODE_HINT</td>
+                  <td>25</td>
+                  <td>
+            Read-write property(string) for high-level OpenVINO Execution hint
+            unlike low-level properties that are individual (per-device), the hints are something that every device accepts
+            and turns into device-specific settings
+            Execution mode hint controls preferred optimization targets (performance or accuracy) for given model
+            </td>
+                </tr>
+                <tr>
+                  <td>FORCE_TBB_TERMINATE</td>
+                  <td>26</td>
+                  <td>
+            Read-write property to set whether force terminate tbb when ov core destruction
+            </td>
+                </tr>
+                <tr>
+                  <td>ENABLE_MMAP</td>
+                  <td>27</td>
+                  <td>
+            Read-write property to configure `mmap()` use for model read
+            </td>
+                </tr>
+                <tr>
+                  <td>AUTO_BATCH_TIMEOUT</td>
+                  <td>28</td>
+                  <td>
+            Read-write property
+            </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>See Also</h2>
+            <div id="seeAlsoSection">
+              <h4>Reference</h4>
+              <div>
+                <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">OpenVinoSharp Namespace</a>
+              </div>
+            </div>
+          </div>
+          <div id="InThisArticleColumn" class="column is-hidden-mobile">
+            <nav class="menu sticky is-hidden">
+              <p class="menu-label">
+                <strong>In This Article</strong>
+              </p>
+              <ul id="InThisArticleMenu" class="menu-list">
+                <li>
+                  <a class="quickLink">Definition</a>
+                </li>
+                <li>
+                  <a class="quickLink">Members</a>
+                </li>
+                <li>
+                  <a class="quickLink">See Also</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <footer id="PageFooter" class="footer border-top py-3 fixedFooter">
+        <div class="columns">
+          <div class="column">Copyright © 2023 Yan Guojin OpenVINO C# API. All rights reserved.<p><a href="https://github.com/guojin-yan/OpenVINO-CSharp-API" target="_blank" rel="noopener noreferrer">Copyright © 2023 Yan Guojin OpenVINO C# API. All rights reserved.</a></p> 
+				</div>
+          <div class="column"> 
+				</div>
+        </div>
+      </footer>
+    </div>
+    <script>$(function(){
+SetDefaultLanguage("cs");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+hljs.highlightAll();
+});</script>
+  </body>
+</html>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6383d602-599f-d92f-bac9-3a0a6619f71a.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />model</a>
+    </li>
+    <li>
+      <a href="8dc42151-eaeb-8d57-02a1-2d47585bafc2.htm">Rtdetr<wbr />Config</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="83a59db8-afee-7643-3961-d83c5ded79c0" class="has-submenu" href="83a59db8-afee-7643-3961-d83c5ded79c0.htm">
+        <span data-tocFile="../toc/IDAGBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6fa02bad-b67c-dd52-5c8f-abb36fae786b" class="has-submenu" href="6fa02bad-b67c-dd52-5c8f-abb36fae786b.htm">
+        <span data-tocFile="../toc/IDBGBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d627ab22-1c50-c9e9-a44f-54c59a7fab0a" class="has-submenu" href="d627ab22-1c50-c9e9-a44f-54c59a7fab0a.htm">
+        <span data-tocFile="../toc/IDCGBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

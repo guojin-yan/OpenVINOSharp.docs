@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="bb416bc5-bd1d-608f-0610-bf3300874da1.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />result</a>
+    </li>
+    <li>
+      <a href="91f3a2b0-0202-ce05-0b85-b39058f7f1ee.htm">Result&lt;T&gt;</a>
+    </li>
+    <li>
+      <a href="3117094a-77e4-6b99-7c2a-06b80e73eb1f.htm">Methods</a>
+    </li>
+    <li>
+      <a href="8fdb8c3d-4bf9-fe34-9e78-9a59166b9852.htm">last_<wbr />index_<wbr />of</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9887de0b-754a-9bb8-b0dc-1345c9474978" href="9887de0b-754a-9bb8-b0dc-1345c9474978.htm">last_<wbr />index_<wbr />of(<wbr />T)</a>
+    </li>
+    <li>
+      <a id="a27559ae-c7bb-3915-caca-b5cc555d8d03" href="a27559ae-c7bb-3915-caca-b5cc555d8d03.htm">last_<wbr />index_<wbr />of(<wbr />T, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="bda97e24-ba03-4c7e-b2ba-3e6ec66c9ad5" href="bda97e24-ba03-4c7e-b2ba-3e6ec66c9ad5.htm">last_<wbr />index_<wbr />of(<wbr />T, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

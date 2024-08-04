@@ -54,7 +54,11 @@
       <a id="0865415f-f77f-8dab-d015-0473b3b38a4c" href="0865415f-f77f-8dab-d015-0473b3b38a4c.htm">get_<wbr />outputs_<wbr />size</a>
     </li>
     <li>
-      <a id="9cc62c24-c267-62b8-eb74-88bb98f08300" href="9cc62c24-c267-62b8-eb74-88bb98f08300.htm">get_<wbr />property</a>
+      <a id="1b5687b1-8b0d-3a93-a6c4-2c365a6a733b" class="has-submenu" href="1b5687b1-8b0d-3a93-a6c4-2c365a6a733b.htm">
+        <span data-tocFile="../toc/IDJCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>get_<wbr />property</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
       <a id="1e728a2d-f047-13de-b980-fde69213eca1" href="1e728a2d-f047-13de-b980-fde69213eca1.htm">get_<wbr />runtime_<wbr />model</a>
@@ -80,7 +84,11 @@
       <a id="f6b6ae79-a6b1-b203-ab6c-17c39355eafd" href="f6b6ae79-a6b1-b203-ab6c-17c39355eafd.htm">outputs</a>
     </li>
     <li>
-      <a id="507c2199-06b4-383f-fcf1-e4491f935d28" href="507c2199-06b4-383f-fcf1-e4491f935d28.htm">set_<wbr />property</a>
+      <a id="e2cfa56a-8681-1cb0-0c4d-e767508b0838" class="has-submenu" href="e2cfa56a-8681-1cb0-0c4d-e767508b0838.htm">
+        <span data-tocFile="../toc/IDPCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>set_<wbr />property</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>
 </toc>

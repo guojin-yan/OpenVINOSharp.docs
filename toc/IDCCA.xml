@@ -8,35 +8,46 @@
       <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
     </li>
     <li>
-      <a href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="09d7f62b-e705-0ed8-85db-b367105cd922.htm">Input<wbr />Model<wbr />Info</a>
+      <a href="7336cbb9-645f-8a24-e5b4-0b9118acbb64.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />process</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="5805c40e-1529-2e11-bb33-5937ac42e628" href="5805c40e-1529-2e11-bb33-5937ac42e628.htm">Constructor</a>
+      <a id="2f4f328d-9496-af1b-d9b8-c1c819f11728" class="has-submenu" href="2f4f328d-9496-af1b-d9b8-c1c819f11728.htm">
+        <span data-tocFile="../toc/IDACCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Normalize</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="8bb5a515-d9d3-c515-85cf-101a89c901b0" class="has-submenu" href="8bb5a515-d9d3-c515-85cf-101a89c901b0.htm">
+      <a id="12e2d1f9-9ded-fec3-dec2-d070f8558ced" class="has-submenu" href="12e2d1f9-9ded-fec3-dec2-d070f8558ced.htm">
         <span data-tocFile="../toc/IDBCCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Properties</a>
+        </span>Permute</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="b9a1d7cc-6494-22d9-9e1f-721a909f1624" class="has-submenu" href="b9a1d7cc-6494-22d9-9e1f-721a909f1624.htm">
+      <a id="f9982614-7b4c-23a0-5e1a-c0b953fb9c6b" class="has-submenu" href="f9982614-7b4c-23a0-5e1a-c0b953fb9c6b.htm">
         <span data-tocFile="../toc/IDCCCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Methods</a>
+        </span>Permute<wbr />Batch</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="a4968661-db9e-94a9-03f6-245850a1ccd8" class="has-submenu" href="a4968661-db9e-94a9-03f6-245850a1ccd8.htm">
+      <a id="7bb6d3c2-704a-5fc0-4ccc-0cc70647b793" class="has-submenu" href="7bb6d3c2-704a-5fc0-4ccc-0cc70647b793.htm">
         <span data-tocFile="../toc/IDDCCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Fields</a>
+        </span>Resize</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ff4bc05f-ab3d-9311-ce14-729d49891352" class="has-submenu" href="ff4bc05f-ab3d-9311-ce14-729d49891352.htm">
+        <span data-tocFile="../toc/IDECCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Visualize</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>

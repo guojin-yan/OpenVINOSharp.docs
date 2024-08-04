@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="bb416bc5-bd1d-608f-0610-bf3300874da1.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />result</a>
+    </li>
+    <li>
+      <a href="5e0b420f-b2d2-24e9-3cfc-b03bc313c7e0.htm">Seg<wbr />Result</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="232a904b-ae90-db06-f387-28981369742f" href="232a904b-ae90-db06-f387-28981369742f.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="60dff9dd-5ca8-2964-d25c-054788a648e3" href="60dff9dd-5ca8-2964-d25c-054788a648e3.htm">Properties</a>
+    </li>
+    <li>
+      <a id="eb3ad421-3369-7d72-6550-3d19248b354f" class="has-submenu" href="eb3ad421-3369-7d72-6550-3d19248b354f.htm">
+        <span data-tocFile="../toc/IDCNDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="746769e8-c09c-ff6f-7726-6999bb680285" href="746769e8-c09c-ff6f-7726-6999bb680285.htm">Fields</a>
+    </li>
+  </tocItems>
+</toc>

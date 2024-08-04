@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6383d602-599f-d92f-bac9-3a0a6619f71a.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />model</a>
+    </li>
+    <li>
+      <a href="79488acd-8f1b-07d3-51d7-34a5e4da762f.htm">Yolov<wbr />8Seg</a>
+    </li>
+    <li>
+      <a href="42a95add-724d-ad78-4436-b0a5b5c514ba.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ee5fffe7-49d1-42b8-3d62-0d6dbaf109c2" href="ee5fffe7-49d1-42b8-3d62-0d6dbaf109c2.htm">m_<wbr />batch_<wbr />num</a>
+    </li>
+    <li>
+      <a id="55ac30ae-7ffa-774b-638d-60b788d12ce3" href="55ac30ae-7ffa-774b-638d-60b788d12ce3.htm">m_<wbr />categ_<wbr />nums</a>
+    </li>
+    <li>
+      <a id="210a3d3c-9d8e-ddd4-61d9-ae942f3884e8" href="210a3d3c-9d8e-ddd4-61d9-ae942f3884e8.htm">m_<wbr />det_<wbr />nms_<wbr />thresh</a>
+    </li>
+    <li>
+      <a id="2caf38cb-6676-2354-8807-359b42c21b18" href="2caf38cb-6676-2354-8807-359b42c21b18.htm">m_<wbr />det_<wbr />thresh</a>
+    </li>
+    <li>
+      <a id="42c871ae-30d4-f883-5cf4-7a984be419d9" href="42c871ae-30d4-f883-5cf4-7a984be419d9.htm">m_<wbr />factors</a>
+    </li>
+    <li>
+      <a id="661e8ba4-a2e5-d463-1233-9e5f3e0b15d7" href="661e8ba4-a2e5-d463-1233-9e5f3e0b15d7.htm">m_<wbr />image_<wbr />sizes</a>
+    </li>
+    <li>
+      <a id="481faee9-067d-9875-ae0f-cfc6db36fb18" href="481faee9-067d-9875-ae0f-cfc6db36fb18.htm">m_<wbr />input_<wbr />size</a>
+    </li>
+    <li>
+      <a id="7b4c2868-220d-f1fc-bf13-77c6bc30ecd7" href="7b4c2868-220d-f1fc-bf13-77c6bc30ecd7.htm">m_<wbr />mask_<wbr />length</a>
+    </li>
+    <li>
+      <a id="6faaa8c8-e438-c77e-ef8c-adb03bfbabe2" href="6faaa8c8-e438-c77e-ef8c-adb03bfbabe2.htm">m_<wbr />output_<wbr />length</a>
+    </li>
+  </tocItems>
+</toc>

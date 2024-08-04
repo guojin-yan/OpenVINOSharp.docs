@@ -11,45 +11,24 @@
       <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
     </li>
     <li>
-      <a href="f23db667-2dde-f372-1b3d-e0e0eda400ea.htm">Tensor</a>
+      <a href="2e3e98b6-c751-ea92-7de2-d6877f91b09b.htm">Shape</a>
     </li>
     <li>
-      <a href="e093793f-38e7-b99c-f36b-a40800b776f3.htm">Methods</a>
+      <a href="1a96afe0-78b1-91ee-30d6-71b48112807f.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="6a70952f-5c1a-d3ff-421b-192d3a1bbb34" href="6a70952f-5c1a-d3ff-421b-192d3a1bbb34.htm">copy_<wbr />to&lt;T&gt;</a>
+      <a id="8528d33c-6cca-3c82-8d61-4e2c5e3ef09d" href="8528d33c-6cca-3c82-8d61-4e2c5e3ef09d.htm">data_<wbr />size</a>
     </li>
     <li>
-      <a id="e701c8df-4c78-363a-ee23-f6660fe4d00c" href="e701c8df-4c78-363a-ee23-f6660fe4d00c.htm">data</a>
+      <a id="17cff365-458f-253d-7b84-9bf7fe3ce635" href="17cff365-458f-253d-7b84-9bf7fe3ce635.htm">Dispose</a>
     </li>
     <li>
-      <a id="db23776e-167f-00d0-d848-41cac343cc06" href="db23776e-167f-00d0-d848-41cac343cc06.htm">Dispose</a>
+      <a id="b47cea73-b164-6792-2ffa-0edc0c491abd" href="b47cea73-b164-6792-2ffa-0edc0c491abd.htm">Finalize</a>
     </li>
     <li>
-      <a id="979d9531-cc2b-b92d-1942-5f7fad25178b" href="979d9531-cc2b-b92d-1942-5f7fad25178b.htm">Finalize</a>
-    </li>
-    <li>
-      <a id="d6e791eb-e20f-7ce3-c1e9-bfb87901b4ba" href="d6e791eb-e20f-7ce3-c1e9-bfb87901b4ba.htm">get_<wbr />byte_<wbr />size</a>
-    </li>
-    <li>
-      <a id="d2e6746c-c3bd-b9ff-1c8d-2880becb3af4" href="d2e6746c-c3bd-b9ff-1c8d-2880becb3af4.htm">get_<wbr />data&lt;T&gt;</a>
-    </li>
-    <li>
-      <a id="315e49ee-0ff7-d2a8-ba1c-11eb5595b8c8" href="315e49ee-0ff7-d2a8-ba1c-11eb5595b8c8.htm">get_<wbr />element_<wbr />type</a>
-    </li>
-    <li>
-      <a id="7959aaef-af67-e968-1407-44623e6dfa25" href="7959aaef-af67-e968-1407-44623e6dfa25.htm">get_<wbr />shape</a>
-    </li>
-    <li>
-      <a id="3508c900-a63b-55c0-3220-748c718eaccf" href="3508c900-a63b-55c0-3220-748c718eaccf.htm">get_<wbr />size</a>
-    </li>
-    <li>
-      <a id="7e37225d-f1eb-eaec-e03c-b74fa5901fe3" href="7e37225d-f1eb-eaec-e03c-b74fa5901fe3.htm">set_<wbr />data&lt;T&gt;</a>
-    </li>
-    <li>
-      <a id="d7fba5de-90d5-56d8-a5c6-a33f787f3bf0" href="d7fba5de-90d5-56d8-a5c6-a33f787f3bf0.htm">set_<wbr />shape</a>
+      <a id="2b8d9028-fbf2-8982-04fd-ff35b0cf9c5a" href="2b8d9028-fbf2-8982-04fd-ff35b0cf9c5a.htm">to_<wbr />string</a>
     </li>
   </tocItems>
 </toc>

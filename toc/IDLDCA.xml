@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="bb416bc5-bd1d-608f-0610-bf3300874da1.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />result</a>
+    </li>
+    <li>
+      <a href="91f3a2b0-0202-ce05-0b85-b39058f7f1ee.htm">Result&lt;T&gt;</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e4e6e018-ff71-6e8d-35a3-233cd5ea6f74" class="has-submenu" href="e4e6e018-ff71-6e8d-35a3-233cd5ea6f74.htm">
+        <span data-tocFile="../toc/IDALDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="da8afe4a-9e9d-4f89-c156-e776864288f9" class="has-submenu" href="da8afe4a-9e9d-4f89-c156-e776864288f9.htm">
+        <span data-tocFile="../toc/IDBLDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3117094a-77e4-6b99-7c2a-06b80e73eb1f" class="has-submenu" href="3117094a-77e4-6b99-7c2a-06b80e73eb1f.htm">
+        <span data-tocFile="../toc/IDCLDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="689efea5-69c8-a4ce-522f-42b1b28459c6" class="has-submenu" href="689efea5-69c8-a4ce-522f-42b1b28459c6.htm">
+        <span data-tocFile="../toc/IDDLDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

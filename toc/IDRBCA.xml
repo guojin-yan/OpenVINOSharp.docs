@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6383d602-599f-d92f-bac9-3a0a6619f71a.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />model</a>
+    </li>
+    <li>
+      <a href="ca2bfd43-16c2-8792-b8fc-330cc2d7173a.htm">Yolov<wbr />8Det<wbr />Option</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3615db7a-3e38-71d6-3e9e-2fde40774e32" href="3615db7a-3e38-71d6-3e9e-2fde40774e32.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="b9d5b30e-df78-fff4-9efa-33eab9258048" class="has-submenu" href="b9d5b30e-df78-fff4-9efa-33eab9258048.htm">
+        <span data-tocFile="../toc/IDBRBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

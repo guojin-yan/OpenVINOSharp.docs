@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6383d602-599f-d92f-bac9-3a0a6619f71a.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />model</a>
+    </li>
+    <li>
+      <a href="740aebb6-103b-3978-8fd8-3f8e2af49ba9.htm">Yolov<wbr />8Pose<wbr />Config</a>
+    </li>
+    <li>
+      <a href="e940b22b-f429-f009-7063-440a01591b7f.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d19b5571-920e-36a6-b595-da8032139f76" href="d19b5571-920e-36a6-b595-da8032139f76.htm">batch_<wbr />num</a>
+    </li>
+    <li>
+      <a id="ff174666-3eea-8b53-ae0c-6e111b350977" href="ff174666-3eea-8b53-ae0c-6e111b350977.htm">cache_<wbr />dir</a>
+    </li>
+    <li>
+      <a id="2eeb2695-3be0-18eb-254b-4c9de38f002c" href="2eeb2695-3be0-18eb-254b-4c9de38f002c.htm">det_<wbr />nms_<wbr />thresh</a>
+    </li>
+    <li>
+      <a id="5cc30312-c9b2-1ad9-ac83-7819e94df320" href="5cc30312-c9b2-1ad9-ac83-7819e94df320.htm">det_<wbr />thresh</a>
+    </li>
+    <li>
+      <a id="b61674bc-6216-1733-69e8-de9b3db9cc3a" href="b61674bc-6216-1733-69e8-de9b3db9cc3a.htm">device</a>
+    </li>
+    <li>
+      <a id="9ddf1e82-f16f-601f-2030-855712c3aedb" href="9ddf1e82-f16f-601f-2030-855712c3aedb.htm">input_<wbr />size</a>
+    </li>
+    <li>
+      <a id="53a678b2-9ee4-7aa1-6638-7c03c014c973" href="53a678b2-9ee4-7aa1-6638-7c03c014c973.htm">model_<wbr />path</a>
+    </li>
+    <li>
+      <a id="f5e2f936-2136-845d-6525-bb33638c31d8" href="f5e2f936-2136-845d-6525-bb33638c31d8.htm">use_<wbr />gpu</a>
+    </li>
+  </tocItems>
+</toc>

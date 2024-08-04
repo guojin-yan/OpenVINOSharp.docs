@@ -70,17 +70,21 @@
       <a id="114b9aeb-f07f-d62e-f3de-c4896abecc42" href="114b9aeb-f07f-d62e-f3de-c4896abecc42.htm">ov_<wbr />const_<wbr />port_<wbr />get_<wbr />shape</a>
     </li>
     <li>
-      <a id="3328ec3b-9caf-a238-fe6d-20dc452e05c9" href="3328ec3b-9caf-a238-fe6d-20dc452e05c9.htm">ov_<wbr />core_<wbr />compile_<wbr />model</a>
-    </li>
-    <li>
-      <a id="cc2f6244-14a3-8348-2d2d-2b775dde9fbd" href="cc2f6244-14a3-8348-2d2d-2b775dde9fbd.htm">ov_<wbr />core_<wbr />compile_<wbr />model_<wbr />from_<wbr />file</a>
-    </li>
-    <li>
-      <a id="0e6e338d-6a79-a10e-41e4-76936f4c6e25" class="has-submenu" href="0e6e338d-6a79-a10e-41e4-76936f4c6e25.htm">
-        <span data-tocFile="../toc/IDTBMAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="e23c4e91-06b9-378b-0b39-bbe8edcd3e51" class="has-submenu" href="e23c4e91-06b9-378b-0b39-bbe8edcd3e51.htm">
+        <span data-tocFile="../toc/IDRBMAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>ov_<wbr />core_<wbr />compile_<wbr />model_<wbr />with_<wbr />context</a>
+        </span>ov_<wbr />core_<wbr />compile_<wbr />model</a>
       <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f7445dbf-4e9a-658b-9456-f54baed5810c" class="has-submenu" href="f7445dbf-4e9a-658b-9456-f54baed5810c.htm">
+        <span data-tocFile="../toc/IDSBMAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>ov_<wbr />core_<wbr />compile_<wbr />model_<wbr />from_<wbr />file</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a55daa9a-e030-f6fd-424f-06055e45be5e" href="a55daa9a-e030-f6fd-424f-06055e45be5e.htm">ov_<wbr />core_<wbr />compile_<wbr />model_<wbr />with_<wbr />context</a>
     </li>
     <li>
       <a id="c905fafa-9b7f-faed-bd11-484de95d303a" href="c905fafa-9b7f-faed-bd11-484de95d303a.htm">ov_<wbr />core_<wbr />create</a>
@@ -98,25 +102,32 @@
       <a id="ed89ff7c-3eb3-0c81-af45-df46b039e862" href="ed89ff7c-3eb3-0c81-af45-df46b039e862.htm">ov_<wbr />core_<wbr />get_<wbr />available_<wbr />devices</a>
     </li>
     <li>
+      <a id="87336067-b855-e0d4-ba71-cbb43295cba1" href="87336067-b855-e0d4-ba71-cbb43295cba1.htm">ov_<wbr />core_<wbr />get_<wbr />default_<wbr />context</a>
+    </li>
+    <li>
       <a id="49037df3-cc07-f6ef-63bb-b5c6ba30439a" href="49037df3-cc07-f6ef-63bb-b5c6ba30439a.htm">ov_<wbr />core_<wbr />get_<wbr />property</a>
     </li>
     <li>
       <a id="0030bc62-e25d-4d3c-8d01-a877410d0289" href="0030bc62-e25d-4d3c-8d01-a877410d0289.htm">ov_<wbr />core_<wbr />get_<wbr />versions_<wbr />by_<wbr />device_<wbr />name</a>
     </li>
     <li>
-      <a id="f2c8f33e-6cc0-917d-1c46-67fc8a24673f" href="f2c8f33e-6cc0-917d-1c46-67fc8a24673f.htm">ov_<wbr />core_<wbr />import_<wbr />model</a>
+      <a id="f440fa83-ecdf-4a5b-9f1b-8de25ee92a06" href="f440fa83-ecdf-4a5b-9f1b-8de25ee92a06.htm">ov_<wbr />core_<wbr />import_<wbr />model</a>
     </li>
     <li>
       <a id="62c0e3dc-815a-dc92-7155-484cf9983ff0" href="62c0e3dc-815a-dc92-7155-484cf9983ff0.htm">ov_<wbr />core_<wbr />read_<wbr />model</a>
     </li>
     <li>
-      <a id="746e9f25-72ca-81fb-b8bf-9868b1c5f438" href="746e9f25-72ca-81fb-b8bf-9868b1c5f438.htm">ov_<wbr />core_<wbr />read_<wbr />model_<wbr />from_<wbr />memory</a>
+      <a id="5cd72975-82c4-ae0d-e914-f38d16ce87e7" href="5cd72975-82c4-ae0d-e914-f38d16ce87e7.htm">ov_<wbr />core_<wbr />read_<wbr />model_<wbr />from_<wbr />memory_<wbr />buffer</a>
     </li>
     <li>
       <a id="1274216c-caa1-1264-af74-7b729105bf8d" href="1274216c-caa1-1264-af74-7b729105bf8d.htm">ov_<wbr />core_<wbr />read_<wbr />model_<wbr />unicode</a>
     </li>
     <li>
-      <a id="43b0bf9e-bcaf-d010-8b4f-0abd925046a4" href="43b0bf9e-bcaf-d010-8b4f-0abd925046a4.htm">ov_<wbr />core_<wbr />set_<wbr />property</a>
+      <a id="422f568c-52cb-45ed-a6e5-c3fde95c79f8" class="has-submenu" href="422f568c-52cb-45ed-a6e5-c3fde95c79f8.htm">
+        <span data-tocFile="../toc/ID0AB0BMAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>ov_<wbr />core_<wbr />set_<wbr />property</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
       <a id="35fe3ee3-9994-7351-5e75-0c36c54722c5" href="35fe3ee3-9994-7351-5e75-0c36c54722c5.htm">ov_<wbr />core_<wbr />versions_<wbr />free</a>
@@ -129,6 +140,9 @@
     </li>
     <li>
       <a id="8da1e399-d99d-0328-4ee7-294c587c960f" href="8da1e399-d99d-0328-4ee7-294c587c960f.htm">ov_<wbr />get_<wbr />error_<wbr />info</a>
+    </li>
+    <li>
+      <a id="ec8e655c-d0af-9ac4-6fa9-34b57b8b5e51" href="ec8e655c-d0af-9ac4-6fa9-34b57b8b5e51.htm">ov_<wbr />get_<wbr />last_<wbr />err_<wbr />msg</a>
     </li>
     <li>
       <a id="52c172a6-1101-bfdb-2813-570409e47093" href="52c172a6-1101-bfdb-2813-570409e47093.htm">ov_<wbr />get_<wbr />openvino_<wbr />version</a>
@@ -152,7 +166,7 @@
       <a id="f6a9fc13-e7a1-44fe-ea7b-324b338ea2aa" href="f6a9fc13-e7a1-44fe-ea7b-324b338ea2aa.htm">ov_<wbr />infer_<wbr />request_<wbr />get_<wbr />output_<wbr />tensor_<wbr />by_<wbr />index</a>
     </li>
     <li>
-      <a id="9bbcc5f3-d8a0-af31-20b2-5db3a3043589" href="9bbcc5f3-d8a0-af31-20b2-5db3a3043589.htm">ov_<wbr />infer_<wbr />request_<wbr />get_<wbr />profiling_<wbr />info</a>
+      <a id="02a7de0f-2687-33ca-1073-12412743b2ea" href="02a7de0f-2687-33ca-1073-12412743b2ea.htm">ov_<wbr />infer_<wbr />request_<wbr />get_<wbr />profiling_<wbr />info</a>
     </li>
     <li>
       <a id="b1c0c37a-e21a-b6bf-24c6-bd373e709aa7" href="b1c0c37a-e21a-b6bf-24c6-bd373e709aa7.htm">ov_<wbr />infer_<wbr />request_<wbr />get_<wbr />tensor</a>
@@ -338,7 +352,11 @@
       <a id="bbaf7c23-b7ed-ce84-136c-316ecc5a9cdc" href="bbaf7c23-b7ed-ce84-136c-316ecc5a9cdc.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />color_<wbr />format</a>
     </li>
     <li>
-      <a id="5c42b9e6-6e71-d68d-789a-23b5e645f63b" href="5c42b9e6-6e71-d68d-789a-23b5e645f63b.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />color_<wbr />format_<wbr />with_<wbr />subname</a>
+      <a id="4db9f8db-de8c-1389-d229-9b9e450536e4" class="has-submenu" href="4db9f8db-de8c-1389-d229-9b9e450536e4.htm">
+        <span data-tocFile="../toc/ID0LD0BMAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />color_<wbr />format_<wbr />with_<wbr />subname</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
       <a id="dc0ed07d-48fc-1c81-aa5b-94c51d0d3bad" href="dc0ed07d-48fc-1c81-aa5b-94c51d0d3bad.htm">ov_<wbr />preprocess_<wbr />input_<wbr />tensor_<wbr />info_<wbr />set_<wbr />element_<wbr />type</a>
@@ -413,6 +431,9 @@
       <a id="6c22bcb7-1da2-f47e-fc27-d42e94e5877e" href="6c22bcb7-1da2-f47e-fc27-d42e94e5877e.htm">ov_<wbr />preprocess_<wbr />preprocess_<wbr />steps_<wbr />mean</a>
     </li>
     <li>
+      <a id="f6bcd4c5-7e94-6f02-741b-baef55160298" href="f6bcd4c5-7e94-6f02-741b-baef55160298.htm">ov_<wbr />preprocess_<wbr />preprocess_<wbr />steps_<wbr />mean_<wbr />multi_<wbr />channels</a>
+    </li>
+    <li>
       <a id="1e0864cd-0788-236e-f111-b187e0dbe298" href="1e0864cd-0788-236e-f111-b187e0dbe298.htm">ov_<wbr />preprocess_<wbr />preprocess_<wbr />steps_<wbr />resize</a>
     </li>
     <li>
@@ -420,6 +441,9 @@
     </li>
     <li>
       <a id="7531fa6f-b164-edfe-60cd-c8660d2e6bf1" href="7531fa6f-b164-edfe-60cd-c8660d2e6bf1.htm">ov_<wbr />preprocess_<wbr />preprocess_<wbr />steps_<wbr />scale</a>
+    </li>
+    <li>
+      <a id="68034949-2ea0-00d2-009d-e46a4938c928" href="68034949-2ea0-00d2-009d-e46a4938c928.htm">ov_<wbr />preprocess_<wbr />preprocess_<wbr />steps_<wbr />scale_<wbr />multi_<wbr />channels</a>
     </li>
     <li>
       <a id="46888e25-aab8-636a-cacd-73b869677490" href="46888e25-aab8-636a-cacd-73b869677490.htm">ov_<wbr />profiling_<wbr />info_<wbr />list_<wbr />free</a>

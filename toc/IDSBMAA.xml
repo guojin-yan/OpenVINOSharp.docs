@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="866fe09c-f592-a49c-8668-22446687ffe6.htm">Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="aeddc5d2-d027-47f5-3d82-9080328c100d.htm">Methods</a>
+    </li>
+    <li>
+      <a href="f7445dbf-4e9a-658b-9456-f54baed5810c.htm">ov_<wbr />core_<wbr />compile_<wbr />model_<wbr />from_<wbr />file</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cc2f6244-14a3-8348-2d2d-2b775dde9fbd" href="cc2f6244-14a3-8348-2d2d-2b775dde9fbd.htm">ov_<wbr />core_<wbr />compile_<wbr />model_<wbr />from_<wbr />file(<wbr />Int<wbr />Ptr, SByte, SByte, UInt<wbr />64, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="ef2a0f09-6caf-83d0-b67f-c10380cd84e1" href="ef2a0f09-6caf-83d0-b67f-c10380cd84e1.htm">ov_<wbr />core_<wbr />compile_<wbr />model_<wbr />from_<wbr />file(<wbr />Int<wbr />Ptr, SByte, SByte, UInt<wbr />64, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="e46e7ac6-a1ff-1f23-8063-492ce18f23b4" href="e46e7ac6-a1ff-1f23-8063-492ce18f23b4.htm">ov_<wbr />core_<wbr />compile_<wbr />model_<wbr />from_<wbr />file(<wbr />Int<wbr />Ptr, SByte, SByte, UInt<wbr />64, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="e0fce8d5-2811-ea41-eca8-89adbccbf27b" href="e0fce8d5-2811-ea41-eca8-89adbccbf27b.htm">ov_<wbr />core_<wbr />compile_<wbr />model_<wbr />from_<wbr />file(<wbr />Int<wbr />Ptr, SByte, SByte, UInt<wbr />64, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+  </tocItems>
+</toc>

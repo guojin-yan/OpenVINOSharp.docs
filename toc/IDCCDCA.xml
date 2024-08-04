@@ -8,24 +8,35 @@
       <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
     </li>
     <li>
-      <a href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">Open<wbr />Vino<wbr />Sharp.<wbr />preprocess</a>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="b81f02c7-8242-9e53-4118-7e68a21cf06f.htm">Input<wbr />Tensor<wbr />Info</a>
+      <a href="bb416bc5-bd1d-608f-0610-bf3300874da1.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />result</a>
     </li>
     <li>
-      <a href="70c5dd37-c638-b333-ad83-8389e61f488d.htm">Methods</a>
+      <a href="fb84ccec-3d9e-cfa7-1447-6d2c98c73ecf.htm">Cls<wbr />Result</a>
     </li>
     <li>
-      <a href="28ed41c5-f684-e3b2-89c0-ef37a1e0a5e0.htm">set_<wbr />color_<wbr />format</a>
+      <a href="84343313-2906-b49b-7dc8-bb9839252686.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="4f9be9bc-261d-167c-0c76-f590128531b5" href="4f9be9bc-261d-167c-0c76-f590128531b5.htm">set_<wbr />color_<wbr />format(<wbr />Color<wbr />Format)</a>
+      <a id="59ea1de3-83fc-5650-b273-c40aec30eb7f" class="has-submenu" href="59ea1de3-83fc-5650-b273-c40aec30eb7f.htm">
+        <span data-tocFile="../toc/IDACCDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>add</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="066eaaf7-4850-e20c-1351-874a7df10e0f" href="066eaaf7-4850-e20c-1351-874a7df10e0f.htm">set_<wbr />color_<wbr />format(<wbr />Color<wbr />Format, UInt<wbr />64)</a>
+      <a id="723b0645-12a3-17b4-987a-aee7e7c6c9ab" href="723b0645-12a3-17b4-987a-aee7e7c6c9ab.htm">print</a>
+    </li>
+    <li>
+      <a id="4630f460-7224-0f33-0bc5-0628b34e2776" class="has-submenu" href="4630f460-7224-0f33-0bc5-0628b34e2776.htm">
+        <span data-tocFile="../toc/IDCCCDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>update_<wbr />lable</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>
 </toc>

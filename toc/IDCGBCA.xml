@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6383d602-599f-d92f-bac9-3a0a6619f71a.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />model</a>
+    </li>
+    <li>
+      <a href="8dc42151-eaeb-8d57-02a1-2d47585bafc2.htm">Rtdetr<wbr />Config</a>
+    </li>
+    <li>
+      <a href="d627ab22-1c50-c9e9-a44f-54c59a7fab0a.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="91accdfc-862d-9f9d-3d3f-d227ab063a07" href="91accdfc-862d-9f9d-3d3f-d227ab063a07.htm">batch_<wbr />num</a>
+    </li>
+    <li>
+      <a id="f618b9d7-cf7c-0cbb-608f-ee07e5c063d9" href="f618b9d7-cf7c-0cbb-608f-ee07e5c063d9.htm">cache_<wbr />dir</a>
+    </li>
+    <li>
+      <a id="91ab62e8-b454-6ee0-3926-1c56699e04d7" href="91ab62e8-b454-6ee0-3926-1c56699e04d7.htm">categ_<wbr />nums</a>
+    </li>
+    <li>
+      <a id="411a1078-07b7-3589-066e-59c076fabd5b" href="411a1078-07b7-3589-066e-59c076fabd5b.htm">det_<wbr />thresh</a>
+    </li>
+    <li>
+      <a id="635aa56b-24ac-3a7d-b40b-8003e434177f" href="635aa56b-24ac-3a7d-b40b-8003e434177f.htm">device</a>
+    </li>
+    <li>
+      <a id="cb2ffffa-d507-3551-5c44-aef879227be3" href="cb2ffffa-d507-3551-5c44-aef879227be3.htm">input_<wbr />size</a>
+    </li>
+    <li>
+      <a id="c7fcf6f0-4ff1-2006-7ae6-b0e0b4e197e3" href="c7fcf6f0-4ff1-2006-7ae6-b0e0b4e197e3.htm">model_<wbr />path</a>
+    </li>
+    <li>
+      <a id="becfe233-c445-80eb-7ac9-7ce4e0181fcb" href="becfe233-c445-80eb-7ac9-7ce4e0181fcb.htm">postprcoess</a>
+    </li>
+    <li>
+      <a id="ee2adfd6-d3d8-37f2-ae7f-e0a205a8a6ed" href="ee2adfd6-d3d8-37f2-ae7f-e0a205a8a6ed.htm">use_<wbr />gpu</a>
+    </li>
+  </tocItems>
+</toc>

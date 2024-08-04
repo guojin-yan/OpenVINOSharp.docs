@@ -35,13 +35,30 @@
       <a id="7b34a6b2-b392-61ef-4110-11bfddc90358" href="7b34a6b2-b392-61ef-4110-11bfddc90358.htm">get_<wbr />available_<wbr />devices</a>
     </li>
     <li>
+      <a id="13a0973d-fc6f-b636-fc50-a5615c4007ba" class="has-submenu" href="13a0973d-fc6f-b636-fc50-a5615c4007ba.htm">
+        <span data-tocFile="../toc/IDECBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>get_<wbr />property</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
       <a id="3f37539d-4b26-2f00-e325-e2ed81a417ef" href="3f37539d-4b26-2f00-e325-e2ed81a417ef.htm">get_<wbr />versions</a>
     </li>
     <li>
+      <a id="8219c6a1-2049-ad44-22e5-535d67081b5f" href="8219c6a1-2049-ad44-22e5-535d67081b5f.htm">import_<wbr />model</a>
+    </li>
+    <li>
       <a id="86be7a0a-533f-292d-17d5-0c6060d9f157" class="has-submenu" href="86be7a0a-533f-292d-17d5-0c6060d9f157.htm">
-        <span data-tocFile="../toc/IDFCBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/IDHCBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>read_<wbr />model</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ad705e7d-31d7-82bd-d181-4c0d164cad9f" class="has-submenu" href="ad705e7d-31d7-82bd-d181-4c0d164cad9f.htm">
+        <span data-tocFile="../toc/IDICBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>set_<wbr />property</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6383d602-599f-d92f-bac9-3a0a6619f71a.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />model</a>
+    </li>
+    <li>
+      <a href="2f3745cb-f024-7c79-fb63-70da923f4596.htm">Yolov<wbr />5Seg</a>
+    </li>
+    <li>
+      <a href="b733a1e3-800e-d2ac-bd83-03c874931678.htm">Methods</a>
+    </li>
+    <li>
+      <a href="bdd7e265-bf8a-2a01-1b5a-ccc52c85c28d.htm">predict</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="57d61ced-3129-e101-c16a-14c1a35d9d6f" href="57d61ced-3129-e101-c16a-14c1a35d9d6f.htm">predict(<wbr />List&lt;Mat&gt;)</a>
+    </li>
+    <li>
+      <a id="de8a5d69-263d-7a46-6402-5d4089981b6f" href="de8a5d69-263d-7a46-6402-5d4089981b6f.htm">predict(<wbr />List&lt;Mat&gt;)</a>
+    </li>
+    <li>
+      <a id="0ac78e4e-7879-5ee8-842b-41125e496927" href="0ac78e4e-7879-5ee8-842b-41125e496927.htm">predict(<wbr />Mat)</a>
+    </li>
+    <li>
+      <a id="714b8ac1-99fa-48bc-5c0c-460271249a17" href="714b8ac1-99fa-48bc-5c0c-460271249a17.htm">predict(<wbr />Mat)</a>
+    </li>
+  </tocItems>
+</toc>

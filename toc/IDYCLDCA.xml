@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="bb416bc5-bd1d-608f-0610-bf3300874da1.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />result</a>
+    </li>
+    <li>
+      <a href="91f3a2b0-0202-ce05-0b85-b39058f7f1ee.htm">Result&lt;T&gt;</a>
+    </li>
+    <li>
+      <a href="3117094a-77e4-6b99-7c2a-06b80e73eb1f.htm">Methods</a>
+    </li>
+    <li>
+      <a href="ba508d9e-2841-7554-8b37-ef35691fddeb.htm">sort</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b66ad607-cae4-dfe8-8ce5-e5d7da2df08e" href="b66ad607-cae4-dfe8-8ce5-e5d7da2df08e.htm">sort</a>
+    </li>
+    <li>
+      <a id="21be0ec6-474c-e205-4b65-a8584ce4c6e7" href="21be0ec6-474c-e205-4b65-a8584ce4c6e7.htm">sort(<wbr />Comparison&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="36a522ea-414a-9ac1-2aba-39031028017d" href="36a522ea-414a-9ac1-2aba-39031028017d.htm">sort(<wbr />IComparer&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="3a4d420b-4f96-e4ce-c0ff-aeb8e8ffe2bb" href="3a4d420b-4f96-e4ce-c0ff-aeb8e8ffe2bb.htm">sort(<wbr />Int<wbr />32, Int<wbr />32, IComparer&lt;T&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

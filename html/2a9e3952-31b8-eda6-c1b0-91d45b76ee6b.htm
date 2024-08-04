@@ -19,7 +19,7 @@
     <meta name="container" content="OpenVinoSharp.preprocess" />
     <meta name="guid" content="2a9e3952-31b8-eda6-c1b0-91d45b76ee6b" />
     <meta name="Description" content="Crop input tensor between begin and end coordinates. Under the hood, inserts `opset8::Slice` operation to execution graph." />
-    <meta name="tocFile" content="../toc/IDDCHCA.xml" />
+    <meta name="tocFile" content="../toc/IDDCHDA.xml" />
   </head>
   <body>
     <div class="fixedLayout">
@@ -95,11 +95,11 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">OpenVinoSharp.preprocess</a><br /><strong>Assembly:</strong> OpenVINO_CSharp_API (in OpenVINO_CSharp_API.dll) Version: 2023.1.0.1<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="identifier">PreProcessSteps</span> <span class="identifier">crop</span>(
+              <strong>Namespace:</strong> <a href="7f998fed-f90c-a3b4-c971-bde122ff758e.htm">OpenVinoSharp.preprocess</a><br /><strong>Assembly:</strong> OpenVINO_CSharp_API (in OpenVINO_CSharp_API.dll) Version: 2024.3.0.2+a9617c0f8f80882646d0eba11b88ae6cb17b3fb8<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="identifier">PreProcessSteps</span> <span class="identifier">crop</span>(
 	<span class="identifier">int</span>[] <span class="parameter">begin</span>,
 	<span class="identifier">int</span>[] <span class="parameter">end</span>
-)</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">begin</span>  <span id="LSTCBFAD7CB_5" data-languageSpecificText="cpp=array&lt;"></span><a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a><span id="LSTCBFAD7CB_6" data-languageSpecificText="cpp=&gt;|vb=()|nu=[]"></span></dt><dd>Begin indexes for input tensor cropping. Negative values represent counting elements from the end 
-            of input tensor</dd><dt class="has-text-weight-normal"><span class="parameter">end</span>  <span id="LSTCBFAD7CB_7" data-languageSpecificText="cpp=array&lt;"></span><a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a><span id="LSTCBFAD7CB_8" data-languageSpecificText="cpp=&gt;|vb=()|nu=[]"></span></dt><dd>End indexes for input tensor cropping. End indexes are exclusive, which means values including end
+)</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">begin</span>  <span id="LSTCBFAD7CB_5" data-languageSpecificText="cpp=array&lt;"></span><span class="noLink">Int32</span><span id="LSTCBFAD7CB_6" data-languageSpecificText="cpp=&gt;|vb=()|nu=[]"></span></dt><dd>Begin indexes for input tensor cropping. Negative values represent counting elements from the end 
+            of input tensor</dd><dt class="has-text-weight-normal"><span class="parameter">end</span>  <span id="LSTCBFAD7CB_7" data-languageSpecificText="cpp=array&lt;"></span><span class="noLink">Int32</span><span id="LSTCBFAD7CB_8" data-languageSpecificText="cpp=&gt;|vb=()|nu=[]"></span></dt><dd>End indexes for input tensor cropping. End indexes are exclusive, which means values including end
             edge are not included in the output slice. Negative values represent counting elements from the end of input tensor</dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="45a14f41-866d-1909-ef44-e458789f7dab.htm">PreProcessSteps</a><br />Reference to 'this' to allow chaining with other calls in a builder-like manner.</div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="5568d765-9e74-5807-c2bd-811bfeb831c5.htm">Open<wbr />Vino<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="a7f2cacc-4089-248d-22fb-dda479af517e.htm">Core</a>
+    </li>
+    <li>
+      <a href="dae10e0f-825c-123e-50f6-c708e66efe4f.htm">Methods</a>
+    </li>
+    <li>
+      <a href="13a0973d-fc6f-b636-fc50-a5615c4007ba.htm">get_<wbr />property</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="56445909-3e2a-551e-109c-3c21c5caa236" href="56445909-3e2a-551e-109c-3c21c5caa236.htm">get_<wbr />property(<wbr />String, Property<wbr />Key)</a>
+    </li>
+    <li>
+      <a id="508b8182-ae24-c13f-97e0-7b1f576fb7a3" href="508b8182-ae24-c13f-97e0-7b1f576fb7a3.htm">get_<wbr />property(<wbr />String, String)</a>
+    </li>
+  </tocItems>
+</toc>

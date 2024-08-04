@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6383d602-599f-d92f-bac9-3a0a6619f71a.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />model</a>
+    </li>
+    <li>
+      <a href="adcd5940-9181-365d-c844-1eac13577c31.htm">Yolov<wbr />5Det</a>
+    </li>
+    <li>
+      <a href="d34181b8-d595-d4b1-6cfc-f4c4fa244707.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6d5b9953-6a1a-2f4a-5018-94574bfc3120" href="6d5b9953-6a1a-2f4a-5018-94574bfc3120.htm">m_<wbr />batch_<wbr />num</a>
+    </li>
+    <li>
+      <a id="819c2c3b-4444-3772-1492-28cf22d014b9" href="819c2c3b-4444-3772-1492-28cf22d014b9.htm">m_<wbr />categ_<wbr />nums</a>
+    </li>
+    <li>
+      <a id="43238223-d0af-b4a3-9e2b-9bd13d104052" href="43238223-d0af-b4a3-9e2b-9bd13d104052.htm">m_<wbr />det_<wbr />nms_<wbr />thresh</a>
+    </li>
+    <li>
+      <a id="1054b2ac-4825-e096-a211-a37655333072" href="1054b2ac-4825-e096-a211-a37655333072.htm">m_<wbr />det_<wbr />thresh</a>
+    </li>
+    <li>
+      <a id="a39f51a0-01ec-68ad-8894-8f37286aaf2d" href="a39f51a0-01ec-68ad-8894-8f37286aaf2d.htm">m_<wbr />factors</a>
+    </li>
+    <li>
+      <a id="b4865abb-9fbd-23e9-06b1-a7e9fa7d9405" href="b4865abb-9fbd-23e9-06b1-a7e9fa7d9405.htm">m_<wbr />input_<wbr />size</a>
+    </li>
+    <li>
+      <a id="fa9ef15c-ff97-7a5d-96b1-f32d06aee2e9" href="fa9ef15c-ff97-7a5d-96b1-f32d06aee2e9.htm">m_<wbr />output_<wbr />length</a>
+    </li>
+  </tocItems>
+</toc>

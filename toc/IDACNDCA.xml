@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Docs</a>
+    </li>
+    <li>
+      <a href="37e81c5e-fb5f-ce26-8f15-a7043096e478.htm">Open<wbr />VINO C# API Help File</a>
+    </li>
+    <li>
+      <a href="daefb0be-424c-91e8-009a-ab21bebc1e52.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="bb416bc5-bd1d-608f-0610-bf3300874da1.htm">Open<wbr />Vino<wbr />Sharp.<wbr />Extensions.<wbr />result</a>
+    </li>
+    <li>
+      <a href="5e0b420f-b2d2-24e9-3cfc-b03bc313c7e0.htm">Seg<wbr />Result</a>
+    </li>
+    <li>
+      <a href="eb3ad421-3369-7d72-6550-3d19248b354f.htm">Methods</a>
+    </li>
+    <li>
+      <a href="248c8b2d-0b5e-23b3-9a1d-5d06f42db095.htm">add</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9d597ae4-f0df-6048-0ac0-87f3b4a6ff18" href="9d597ae4-f0df-6048-0ac0-87f3b4a6ff18.htm">add(<wbr />Int<wbr />32, Single, Rect, Mat)</a>
+    </li>
+    <li>
+      <a id="cea8860e-8bd9-3640-9c8a-f44a9621eb2d" href="cea8860e-8bd9-3640-9c8a-f44a9621eb2d.htm">add(<wbr />Int<wbr />32, Single, Rectangle, Mat)</a>
+    </li>
+    <li>
+      <a id="b6782341-197d-3d2c-2b7e-c168e8c82f35" href="b6782341-197d-3d2c-2b7e-c168e8c82f35.htm">add(<wbr />Int<wbr />32, String, Single, Rect, Mat)</a>
+    </li>
+    <li>
+      <a id="b44c816d-ac1c-a0ac-1ddf-9f4900f9dc5a" href="b44c816d-ac1c-a0ac-1ddf-9f4900f9dc5a.htm">add(<wbr />Int<wbr />32, String, Single, Rectangle, Mat)</a>
+    </li>
+  </tocItems>
+</toc>
